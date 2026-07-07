@@ -1,6 +1,6 @@
 "lang"
 {
-	"Language"		"English"
+	"Language"		"Chinese"
 	"Tokens"
 	{
 		// Moved from p2ce_english.txt
