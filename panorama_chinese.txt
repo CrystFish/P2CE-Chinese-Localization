@@ -1278,94 +1278,94 @@ Please install and mount the above games first to access this campaign."
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Ported"		"Game Port"
 
 		// General Actions
-		"Common_On"									"On"
-		"Common_Off"								"Off"
-		"Common_Update"								"Update"
-		"Common_ComingSoon"							"Coming Soon!"
-		"Common_Gamemode"							"Gamemode"
-		"Common_Game"								"Game"
-		"Common_GameUpper"							"GAME"
-		"Common_Save"								"Save"
-		"Common_Close"								"Close"
-		"Common_Cancel"								"Cancel"
-		"Common_OK"									"OK"
-		"Common_DontShowAgain"						"Don't show this again"
-		"Common_SelectAll"							"Select All"
-		"Common_Delete"								"Delete"
-		"Common_Remove"								"Remove"
-		"Common_Create"								"Create"
-		"Common_Edit"								"Edit"
-		"Common_Refresh"							"Refresh"
-		"Common_Search"								"Search"
+		"Common_On"									"开"
+		"Common_Off"								"关"
+		"Common_Update"								"更新"
+		"Common_ComingSoon"							"即将推出！"
+		"Common_Gamemode"							"游戏模式"
+		"Common_Game"								"游戏"
+		"Common_GameUpper"							"游戏"
+		"Common_Save"								"保存"
+		"Common_Close"								"关闭"
+		"Common_Cancel"								"取消"
+		"Common_OK"									"好的"
+		"Common_DontShowAgain"						"不再显示此信息"
+		"Common_SelectAll"							"全选"
+		"Common_Delete"								"删除"
+		"Common_Remove"								"移除"
+		"Common_Create"								"新建"
+		"Common_Edit"								"编辑"
+		"Common_Refresh"							"刷新"
+		"Common_Search"								"搜索"
 		"Common_By"									"By"
-		"Common_SearchEllipsis"						"Search..."
-		"Common_Multiplayer"						"Multiplayer"
-		"Common_Wiki"								"Open Wiki in Overlay"
+		"Common_SearchEllipsis"						"搜索……"
+		"Common_Multiplayer"						"多人模式"
+		"Common_Wiki"								"在Steam叠加层打开Wiki"
 		
-		"Action_Yes"								"Yes"
-		"Action_No"									"No"
-		"Action_Cancel"								"Cancel"
-		"Action_Confirm"							"Confirm"
-		"Action_Back"								"Back"
-		"Action_Return"								"Return"
-		"Action_ReturnToMenu"						"Exit to Menu"
-		"Action_Apply"								"Apply"
-		"Action_Discard"							"Discard"
+		"Action_Yes"								"是"
+		"Action_No"									"否"
+		"Action_Cancel"								"取消"
+		"Action_Confirm"							"确认"
+		"Action_Back"								"返回"
+		"Action_Return"								"返回"
+		"Action_ReturnToMenu"						"回到菜单"
+		"Action_Apply"								"应用更改"
+		"Action_Discard"							"放弃更改"
 		
 		// Feature Unavailable
-		"MainMenu_Feature_Unavailable_Title"		"Feature Not Available"
-		"MainMenu_Feature_Unavailable_Description"	"This feature is a work-in-progress and cannot be accessed at this time."
+		"MainMenu_Feature_Unavailable_Title"		"功能暂未开放"
+		"MainMenu_Feature_Unavailable_Description"	"该功能正在开发中，暂未开放。"
 		
 		// QuitPrompt
-		"Action_Quit"								"Quit"
-		"Action_QuitToDesktop"						"Quit to Desktop"
-		"Action_Quit_Message" 						"Are you sure you want to quit?"
-		"Action_Quit_InGame_Message"				"Are you sure you want to quit?\n\nUnsaved progress may be lost."
+		"Action_Quit"								"退出"
+		"Action_QuitToDesktop"						"退出至桌面"
+		"Action_Quit_Message" 						"你确定要退出吗？"
+		"Action_Quit_InGame_Message"				"你确定要退出吗？\n\n未保存的进度可能会丢失。"
 		// quit_prompt console command
-		"MainMenu_ExitGameConfirmation_Title"		"Quit Game"
-		"MainMenu_ExitGameConfirmation_Message"		"Are you sure you want to quit the game?\n\nUnsaved progress may be lost."
+		"MainMenu_ExitGameConfirmation_Title"		"退出游戏"
+		"MainMenu_ExitGameConfirmation_Message"		"你确定要退出游戏吗？\n\n未保存的进度可能会丢失。"
 		
 		// Loading Screen
-		"LoadingProgress_Connecting" 				"Connecting to server..."
-		"LoadingProgress_SpawningServer"			"Starting local game server..."
-		"LoadingProgress_BeginConnect" 				"Establishing connection to server..."
-		"LoadingProgress_Changelevel"				"Waiting for server to change maps"
-		"LoadingProgress_LoadMap"					"Loading BSP lump data..."
-		"LoadingProgress_PrecacheWorld"				"Initializing world..."
-		"LoadingProgress_LoadResources"				"Loading resources..."
-		"LoadingProgress_ProcessServerInfo"			"Querying current server state..."
-		"LoadingProgress_SignonLocal"				"Initializing resources..."
-		"LoadingProgress_SignonDataLocal"			"Finalizing initial world state..."
-		"LoadingProgress_SignonData"				"Retrieving game data..."
-		"LoadingProgress_SendClientInfo" 			"Spawning client..."
+		"LoadingProgress_Connecting" 				"正在连接服务器……"
+		"LoadingProgress_SpawningServer"			"正在启动本地服务器……"
+		"LoadingProgress_BeginConnect" 				"正在与服务器建立连接……"
+		"LoadingProgress_Changelevel"				"等待服务器切换地图"
+		"LoadingProgress_LoadMap"					"正在加载BSP块数据……"
+		"LoadingProgress_PrecacheWorld"				"正在初始化世界……"
+		"LoadingProgress_LoadResources"				"正在加载资源……"
+		"LoadingProgress_ProcessServerInfo"			"正在查询服务器状态……"
+		"LoadingProgress_SignonLocal"				"正在初始化资源……"
+		"LoadingProgress_SignonDataLocal"			"正在确定初始世界状态……"
+		"LoadingProgress_SignonData"				"正在检索游戏数据……"
+		"LoadingProgress_SendClientInfo" 			"正在创建客户端……"
 		
 		// Temp Notices
 		// Unfinished Software Reminder
-		"MainMenu_PrereleaseNotice_Title"			"This is unstable, pre-release software"
-		"MainMenu_PrereleaseNotice_Description"		"Portal 2: Community Edition is a modding framework. As it currently stands, it is also unfinished software. This preview release is intended for content creators only; some key features may be absent or are being actively developed, and significant code refactors are being worked on across the underlying game engine that completely rewrite and/or remove outdated legacy code to pave way for larger quality-of-life improvements and new features. As a result, aspects of P2:CE and its SDK tools are potentially subject to bugs that may significantly impact your modding workflow.
+		"MainMenu_PrereleaseNotice_Title"			"当前版本为不稳定的预览版"
+		"MainMenu_PrereleaseNotice_Description"		"传送门2：社区版是一个模组开发框架。当前版本的开发仍未完成。此预览版仅面向内容创作者；部分关键功能可能尚未实现或正在积极开发中，同时，我们正在对游戏的底层引擎进行大规模的代码重构，旨在彻底重写和/或移除过时的遗留代码，为更全面的体验优化和新功能铺平道路。因此，传送门2：社区版及其SDK工具可能存在某些方面的问题，这些问题可能会对您的模组制作流程产生极大影响。
 
-The P2:CE campaign is also not finished, and is therefore not included in this preview release.
+传送门2：社区版的战役流程尚未完成，因此未包含在此预览版中。
 		
-We encourage you to file bug reports and feature requests on P2:CE's issue trackers at:
+我们鼓励您前往下列网站向传送门2：社区版提交问题报告和功能请求：
 
 	• https://github.com/StrataSource/Portal-2-Community-Edition
 	• https://github.com/StrataSource/Engine
 		
-By clicking on \"I Understand\", you acknowledge the risks involved in using this preview release. If you choose to decline these terms, P2:CE will exit.
+点击“我已了解”，即表示您承认使用预览版所涉及的风险。若您选择拒绝，传送门2：社区版将退出。
 
-This message will only be displayed once, and will not be shown again upon acceptance."
+此信息仅显示一次，一旦确认，将不再显示。"
 
-		"MainMenu_Compat_Warning_Header"			"Compatibility Warning"
-		"MainMenu_Compat_Warning"					"<b>Portal 1 and Half-Life 2 currently do not have full functionality on P2:CE.</b> You may experience issues like missing or replaced textures, broken animations, crashing, missing gameplay elements crucial for progression, and more. While we plan to fix some of these issues in the future, it is not a high priority. <b>Please do not report bugs related to Portal 1/Half-Life 2.</b>"
+		"MainMenu_Compat_Warning_Header"			"兼容性警告"
+		"MainMenu_Compat_Warning"					"<b>传送门2：社区版对传送门1和半条命2的支持尚未完善。</b>您可能会遇到诸如纹理缺失或被替换、动画异常、游戏崩溃、影响游戏流程的关键玩法元素缺失等问题。我们计划在将来修复其中的一些问题，但这并非我们的首要事项。<b>请不要提交与传送门1/半条命2有关的问题报告。</b>"
 
-		"MainMenu_PrereleaseNotice_Acknowledge"		"I Understand"
-		"MainMenu_PrereleaseNotice_Decline"			"Decline"
+		"MainMenu_PrereleaseNotice_Acknowledge"		"我已了解"
+		"MainMenu_PrereleaseNotice_Decline"			"拒绝"
 		
 		// Playtest DOSA
-		"MainMenu_PlaytestDOSA_Title"				"Welcome to the Portal 2: Community Edition playtest!"
-		"MainMenu_PlaytestDOSA_Description"			"As a part of the playtest, the game will record a demo of your gameplay and some basic performance data. This data will be uploaded for our developers to review after the fact, allowing us to improve gameplay.\n\nNOTE: Consent can be given/revoked later in settings."
-		"MainMenu_PlaytestDOSA_Consent"				"Consent to Playtest Data Collection"
-		"MainMenu_PlaytestDOSA_Revoke"				"Revoke Consent"
+		"MainMenu_PlaytestDOSA_Title"				"欢迎参与传送门2：社区版测试！"
+		"MainMenu_PlaytestDOSA_Description"			"作为测试的一部分，游戏将记录下您的游玩记录，以及一些基本性能数据。这些数据将上传给开发人员，以便我们改进游戏体验。\n\n注意：您可以在设置中随时同意或撤回此授权。"
+		"MainMenu_PlaytestDOSA_Consent"				"同意收集测试数据"
+		"MainMenu_PlaytestDOSA_Revoke"				"撤回同意"
 	
 		// Color Picker
 		"ColorPicker_Hue"							"H"
@@ -1377,37 +1377,37 @@ This message will only be displayed once, and will not be shown again upon accep
 		"ColorPicker_Alpha"							"A"
 
 		// Dependency Warning
-		"DependencyWarning_Generic"					"You are missing one or more addons that this relies upon to function properly."
-		"DependencyWarning_Header"					"Missing Dependencies"
-		"DependencyWarning_Desc"					"The content you are trying to launch depends on addons that could not be found. The addons you are missing can be found below. Click on an addon to open its Steam Workshop page in the Steam Overlay. You can ignore this warning and continue anyway, but expect issues such as missing textures or models."
-		"DependencyWarning_Loading"					"Retrieving Details..."
-		"DependencyWarning_Failed"					"Failed to retrieve details!"
-		"DependencyWarning_Action_Ignore"			"Continue Anyway"
-		"DependencyWarning_Action_Cancel"			"Cancel"
-		"DependencyWarning_Resolved_Header"			"Dependencies Resolved"
-		"DependencyWarning_Resolved_Desc"			"All addon dependencies have been resolved!"
+		"DependencyWarning_Generic"					"您缺少一个或多个该插件正常运行所依赖的扩展。"
+		"DependencyWarning_Header"					"缺少依赖项"
+		"DependencyWarning_Desc"					"您尝试启动的内容依赖于某些无法找到的附加组件。缺失的附加组件如下所示。点击某个附加组件，即可在Steam叠加层中打开其Steam创意工坊页面。您可以忽略此警告并继续操作，但可能会遇到纹理或模型缺失等问题。"
+		"DependencyWarning_Loading"					"正在获取详细信息……"
+		"DependencyWarning_Failed"					"获取详细信息失败！"
+		"DependencyWarning_Action_Ignore"			"仍要继续"
+		"DependencyWarning_Action_Cancel"			"取消"
+		"DependencyWarning_Resolved_Header"			"依赖关系已解决"
+		"DependencyWarning_Resolved_Desc"			"所有的插件依赖关系已解决！"
 
-		"UI_Upvote"									"Upvote"
-		"UI_Downvote"								"Downvote"
-		"UI_Novote"									"None"
-		"UI_Dependencies"							"Dependencies"
-		"UI_Description"							"Description"
+		"UI_Upvote"									"同意"
+		"UI_Downvote"								"反对"
+		"UI_Novote"									"弃权"
+		"UI_Dependencies"							"依赖项"
+		"UI_Description"							"描述"
 		
 		// Networking Stuff!!!!!
 		// Disconnect Dialog Main
-		"MainMenu_DisconnectDialog_Title"					"Disconnected from server"
-		"MainMenu_DisconnectDialog_Message"					"You were disconnected for the following reason:\n\n{s:disconnect_reason}"
+		"MainMenu_DisconnectDialog_Title"					"已与服务器断开连接"
+		"MainMenu_DisconnectDialog_Message"					"原因如下：\n\n{s:disconnect_reason}"
 		
 		// generic disconnect reasons
-		"MainMenu_DisconnectDialog_Reason_TimeOut"			"The server has likely crashed or has lost network connectivity. Wait a few moments, and then try to connect again."
-		"MainMenu_DisconnectDialog_Reason_TimeOutConnect"	"Could not establish a connection to the server. The specified server IP address/host name is either invalid, or there is a problem with your network connection."
-		"MainMenu_DisconnectDialog_Reason_BuildTooOld"		"Portal 2: Community Edition may require an update to connect to this server. Please exit the game and check for any pending updates on the Steam client."
-		"MainMenu_DisconnectDialog_Reason_BuildTooNew"		"Your version of P2:CE is newer than the server's version. The server owner may need to update to the newest game version."
-		"MainMenu_DisconnectDialog_Reason_DSExit"			"Server shutdown initiated by owner/host."
-		"MainMenu_DisconnectDialog_Reason_Kicked"			"You have been kicked from this server."
-		"MainMenu_DisconnectDialog_Reason_KickedVote"		"You have been vote-kicked from this server."
-		"MainMenu_DisconnectDialog_Reason_Banned"			"You have been banned from this server."
-		"MainMenu_DisconnectDialog_Reason_BannedVote"		"You have been vote-banned from this server."
+		"MainMenu_DisconnectDialog_Reason_TimeOut"			"服务器可能已崩溃或失去了网络连接。请稍等片刻，然后再次尝试连接。"
+		"MainMenu_DisconnectDialog_Reason_TimeOutConnect"	"无法与服务器建立连接。指定的服务器IP地址/主机名无效，或者你的网络连接出现问题。"
+		"MainMenu_DisconnectDialog_Reason_BuildTooOld"		"传送门2：社区版可能需要更新才能连接该服务器。请退出游戏并在Steam客户端中确认更新至最新版本。"
+		"MainMenu_DisconnectDialog_Reason_BuildTooNew"		"你的传送门2：社区版的版本高于服务器版本。服主可能需要将服务器更新到最新版本。"
+		"MainMenu_DisconnectDialog_Reason_DSExit"			"服务器已被服主关闭。"
+		"MainMenu_DisconnectDialog_Reason_Kicked"			"你已被该服务器踢出。"
+		"MainMenu_DisconnectDialog_Reason_KickedVote"		"你已被该服务器投票踢出。"
+		"MainMenu_DisconnectDialog_Reason_Banned"			"你已被该服务器封禁。"
+		"MainMenu_DisconnectDialog_Reason_BannedVote"		"你已被该服务器投票封禁。"
 		
 		// Disconnect Notices - ENetworkDisconnectionReason (per matchmaking dll and cross-ref with csgo_english + dota_english)
 		// These need to be shared on here and in panorama_english for DS host reasons
