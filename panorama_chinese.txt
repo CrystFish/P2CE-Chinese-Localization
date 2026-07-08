@@ -1342,7 +1342,7 @@ Please install and mount the above games first to access this campaign."
 		// Temp Notices
 		// Unfinished Software Reminder
 		"MainMenu_PrereleaseNotice_Title"			"当前版本为不稳定的预览版"
-		"MainMenu_PrereleaseNotice_Description"		"传送门2：社区版是一个模组开发框架。当前版本的开发仍未完成。此预览版仅面向内容创作者；部分关键功能可能尚未实现或正在积极开发中，同时，我们正在对游戏的底层引擎进行大规模的代码重构，旨在彻底重写和/或移除过时的遗留代码，为更全面的体验优化和新功能铺平道路。因此，传送门2：社区版及其SDK工具可能存在某些方面的问题，这些问题可能会对您的模组制作流程产生极大影响。
+		"MainMenu_PrereleaseNotice_Description"		"传送门2：社区版是一个模组开发框架。当前版本的开发仍未完成。此预览版仅面向内容创作者；部分关键功能可能尚未实现或正在积极开发中，同时，我们正在对游戏的底层引擎进行大规模的代码重构，旨在彻底重写和/或移除过时的遗留代码，为更全面的体验优化和新功能铺平道路。因此，传送门2：社区版及其SDK工具可能存在某些方面的问题，这些问题可能会对您的模组制作流程产生极大影响。"
 
 传送门2：社区版的战役流程尚未完成，因此未包含在此预览版中。
 		
@@ -1363,7 +1363,7 @@ Please install and mount the above games first to access this campaign."
 		
 		// Playtest DOSA
 		"MainMenu_PlaytestDOSA_Title"				"欢迎参与传送门2：社区版测试！"
-		"MainMenu_PlaytestDOSA_Description"			"作为测试的一部分，游戏将记录下您的游玩记录，以及一些基本性能数据。这些数据将上传给开发人员，以便我们改进游戏体验。\n\n注意：您可以在设置中随时同意或撤回此授权。"
+		"MainMenu_PlaytestDOSA_Description"			"作为测试的一部分，游戏将记录下您的游戏demo，以及一些基本性能数据。这些数据将上传给开发人员，以便我们改进游戏体验。\n\n注意：您可以在设置中随时同意或撤回同意。"
 		"MainMenu_PlaytestDOSA_Consent"				"同意收集测试数据"
 		"MainMenu_PlaytestDOSA_Revoke"				"撤回同意"
 	
@@ -1411,64 +1411,64 @@ Please install and mount the above games first to access this campaign."
 		
 		// Disconnect Notices - ENetworkDisconnectionReason (per matchmaking dll and cross-ref with csgo_english + dota_english)
 		// These need to be shared on here and in panorama_english for DS host reasons
-		"GameUI_Disconnect_User"							"Player disconnected from server."						// NETWORK_DISCONNECT_DISCONNECT_BY_USER
-		"GameUI_Disconnect_Server"							"Player removed by server."								// NETWORK_DISCONNECT_DISCONNECT_BY_SERVER
-		"GameUI_Disconnect_ConnectionLost"					"Lost connection to server."							// NETWORK_DISCONNECT_LOST, NETWORK_DISCONNECT_SNS_CONNECTION_LOST
-		"GameUI_Disconnect_ConnectionOverflow"				"Packet recieved by client is too large."				// NETWORK_DISCONNECT_OVERFLOW
-		"GameUI_Disconnect_ServerInfoOverflow"				"Server metadata packet is too large."					// NETWORK_DISCONNECT_SERVERINFO_OVERFLOW
-		"GameUI_Disconnect_TickMessage"						"Tick data is too large."								// NETWORK_DISCONNECT_TICKMSG_OVERFLOW
-		"GameUI_Disconnect_StringTableMessage"				"StringTable data received by client is too large."		// NETWORK_DISCONNECT_STRINGTABLEMSG_OVERFLOW
-		"GameUI_Disconnect_DeltaEntMessage"					"DeltaEnt data received by client is too large."		// NETWORK_DISCONNECT_DELTAENTMSG_OVERFLOW
-		"GameUI_Disconnect_TempEntMessage"					"TempEnt data received by client is too large."			// NETWORK_DISCONNECT_TEMPENTMSG_OVERFLOW
-		"GameUI_Disconnect_SoundsMessage"					"Too many sounds attempting to play at once."			// NETWORK_DISCONNECT_SOUNDSMSG_OVERFLOW
-		"GameUI_Disconnect_ReliableOverflow"				"Reliable stream overflowed on serverside."				// NETWORK_DISCONNECT_RELIABLEOVERFLOW
-		"GameUI_Disconnect_BadClientDeltaTick"				"Bad interpolation tick received by client."			// NETWORK_DISCONNECT_BADDELTATICK
-		"GameUI_Disconnect_NoMoreSplits"					"No more split-screen slots available."					// NETWORK_DISCONNECT_NOMORESPLITS
-		"GameUI_Disconnect_TimedOut"						"Timed out while waiting for server."					// NETWORK_DISCONNECT_TIMEDOUT
-		"GameUI_Disconnect_Disconnected"					"You have been disconnected from the server."			// NETWORK_DISCONNECT_DISCONNECTED
-		"GameUI_Disconnect_LeavingSplit"					"Exiting split-screen mode."							// NETWORK_DISCONNECT_LEAVINGSPLIT
-		"GameUI_Disconnect_DifferentClassTables"			"Class table structures on server conflict with client."	// NETWORK_DISCONNECT_DIFFERENTCLASSTABLES
-		"GameUI_Disconnect_NoSpectators"					"This server does not support spectator mode."			// NETWORK_DISCONNECT_NOSPECTATORS
-		"GameUI_Disconnect_Kicked"							"Kicked from server."									// NETWORK_DISCONNECT_KICKED
-		"GameUI_Disconnect_BanAdded"						"Banned from server."									// NETWORK_DISCONNECT_BANADDED
-		"GameUI_Disconnect_KickBanAdded"					"Banned from server."									// NETWORK_DISCONNECT_KICKBANADDED - Isn't this the same thing as BANADDED?
-		"GameUI_Disconnect_PureServer_ClientExtra"			"Content sanity check failed: Client has additional non-shared assets loaded."	// NETWORK_DISCONNECT_PURESERVER_CLIENTEXTRA
-		"GameUI_Disconnect_PureServer_Mismatch"				"Content sanity check failed: Assets on client do not match with server's version."	// NETWORK_DISCONNECT_PURESERVER_MISMATCH
-		"GameUI_Disconnect_UserCmd"							"Error in parsing user commands."						// NETWORK_DISCONNECT_USERCMD
-		"GameUI_Disconnect_RejectedByGame"					"Connection rejected by server."						// NETWORK_DISCONNECT_REJECTED_BY_GAME
-		"GameUI_Disconnect_BadServerPassword"				"Invalid server password."								// NETWORK_DISCONNECT_BAD_SERVER_PASSWORD
-		"GameUI_Disconnect_ConnectionFailure"				"Failed to connect to server."							// NETWORK_DISCONNECT_CONNECTION_FAILURE
-		"GameUI_Disconnect_ConnectionClosing"				"Connection closed by server."							// NETWORK_DISCONNECT_CONNECTION_CLOSING
-		"GameUI_Disconnect_SessionMigrated"					"Current match has moved to another server."			// NETWORK_DISCONNECT_SESSION_MIGRATED
-		"GameUI_Disconnect_PlayerRemovedFromHostSession"	"Player removed by host."								// NETWORK_DISCONNECT_PLAYER_REMOVED_FROM_HOST_SESSION
-		"GameUI_Disconnect_TooManyCommands"					"Issued too many commands to server."					// NETWORK_DISCONNECT_SERVER_DOS
-		"GameUI_Disconnect_SteamIDBanned"					"Account is banned from the Steam Community."			// NETWORK_DISCONNECT_STEAM_BANNED
-		"GameUI_Disconnect_SteamIDInUse"					"Steam account is currently being used elsewhere."		// NETWORK_DISCONNECT_STEAM_INUSE
-		"GameUI_Disconnect_SteamInUse"						"Steam account is currently being used elsewhere."		// NETWORK_DISCONNECT_STEAM_LOGGED_IN_ELSEWHERE - Why the hell is this disconnect reason duped twice?
-		"GameUI_Disconnect_SteamTicket"						"Invalid Steam logon ticket."							// NETWORK_DISCONNECT_STEAM_TICKET
-		"GameUI_Disconnect_SteamLogon"						"Player is not logged onto the Steam network."			// NETWORK_DISCONNECT_STEAM_LOGON, NETWORK_DISCONNECT_STEAM_AUTHCANCELLED, NETWORK_DISCONNECT_STEAM_AUTHALREADYUSED, NETWORK_DISCONNECT_STEAM_AUTHINVALID
-		"GameUI_Disconnect_SteamVAC"						"Player is banned from online play for cheating."		// NETWORK_DISCONNECT_STEAM_VACBANSTATE
-		"GameUI_Disconnect_SteamTimeOut"					"Failed to verify Valve Anti-Cheat (VAC) ban status."	// NETWORK_DISCONNECT_STEAM_VAC_CHECK_TIMEDOUT
-		"GameUI_Disconnect_SteamDropped"					"You are currently disconnected from the Steam network."	// NETWORK_DISCONNECT_STEAM_DROPPED
-		"GameUI_Disconnect_SteamOwnership"					"This Steam account does not own a license for Portal 2 and/or Portal 2: Community Edition."	// NETWORK_DISCONNECT_STEAM_OWNERSHIP
-		"GameUI_Disconnect_LocalProblem_ManyRelays"			"Failed to recover game state after multiple tries with Steam Datagram Relay (SDR) servers. There may be an issue with this computer's network connectivity."		// NETWORK_DISCONNECT_SNS_LOCAL_MANYRELAYS
-		"GameUI_Disconnect_LocalProblem_HostedServerPrimaryRelay"		"Server lost connection to Steam Datagram Relay (SDR) servers."		// NETWORK_DISCONNECT_SNS_LOCAL_HOSTEDSERVERPRIMARYRELAY
-		"GameUI_Disconnect_LocalProblem_NetworkConfig"		"Failed to download Steam Datagram Relay (SDR) configuration data."		// NETWORK_DISCONNECT_SNS_LOCAL_NETWORKCONFIG
-		"GameUI_Disconnect_LocalProblem_Other"				"SDR relay communication failed."						// NETWORK_DISCONNECT_SNS_LOCAL_OTHER
-		"GameUI_Disconnect_RemoteProblem_TimeoutConnecting"	"Timed out waiting to connect to server."				// NETWORK_DISCONNECT_SNS_REMOTE_TIMEOUTCONNECTING
-		"GameUI_Disconnect_RemoteProblem_Timeout"			"Timed out waiting for server."							// NETWORK_DISCONNECT_SNS_REMOTE_TIMEOUT
-		"GameUI_Disconnect_RemoteProblem_BadCrypt"			"Invalid/misconfigured cryptography settings recieved from server."		// NETWORK_DISCONNECT_SNS_REMOTE_BADCRYPT
-		"GameUI_Disconnect_RemoteProblem_BadCert"			"Invalid encryption certificate presented by server."	// NETWORK_DISCONNECT_SNS_REMOTE_BADCERT
-		"GameUI_Disconnect_ClosedByPeer_Timeout"			"Timed out while waiting for peer response."			// NETWORK_DISCONNECT_SNS_CLOSEDBYPEER_TIMEOUT
-		"GameUI_Disconnect_ClosedByPeer"					"Connection closed by peer."							// NETWORK_DISCONNECT_SNS_CLOSEDBYPEER_OTHER
-		"GameUI_Disconnect_InternalError"					"Internal communication error. Check the developer console for details."	// NETWORK_DISCONNECT_SNS_INTERNALERROR
-		"GameUI_Disconnect_Unusual"							"Unspecified failure in client/server connection. Check the developer console for details."		// NETWORK_DISCONNECT_SNS_UNUSUAL
-		"GameUI_Disconnect_HLTVBadRelayPassword"			"Invalid SourceTV proxy password."						// NETWORK_DISCONNECT_HLTV_BADRELAYPASSWORD
-		"GameUI_Disconnect_HLTVBadSpectatorPassword"		"Invalid SourceTV spectator password."					// NETWORK_DISCONNECT_HLTV_BADSPECTATORPASSWORD
-		"GameUI_Disconnect_HLTVRestricted"					"Spectating is restricted to LAN clients."				// NETWORK_DISCONNECT_HLTV_RESTRICTED
-		"GameUI_Disconnect_HLTVUnavailable"					"SourceTV is not available for this server."			// NETWORK_DISCONNECT_HLTV_UNAVAILABLE
-		"GameUI_Disconnect_HLTVStop"						"SourceTV spectator host shutting down."				// NETWORK_DISCONNECT_HLTV_STOP
-		"GameUI_Disconnect_HLTVNoRelaysAvailable"			"No SourceTV proxy is available at this time."			// NETWORK_DISCONNECT_HLTV_NO_RELAYS_AVAILABLE
-		"GameUI_Disconnect_HLTVRestrictedToLocalSpectators"			"Spectating is restricted to LAN clients."		// NETWORK_DISCONNECT_HLTV_RESTRICTED_TO_LOCAL_SPECTATORS - Again???
+		"GameUI_Disconnect_User"							"玩家已断开与服务器的连接。"						// NETWORK_DISCONNECT_DISCONNECT_BY_USER
+		"GameUI_Disconnect_Server"							"玩家已被服务器移除。"								// NETWORK_DISCONNECT_DISCONNECT_BY_SERVER
+		"GameUI_Disconnect_ConnectionLost"					"与服务器的连接丢失。"							// NETWORK_DISCONNECT_LOST, NETWORK_DISCONNECT_SNS_CONNECTION_LOST
+		"GameUI_Disconnect_ConnectionOverflow"				"客户端接收到的数据包过大。"				// NETWORK_DISCONNECT_OVERFLOW
+		"GameUI_Disconnect_ServerInfoOverflow"				"服务器元数据数据包过大。"					// NETWORK_DISCONNECT_SERVERINFO_OVERFLOW
+		"GameUI_Disconnect_TickMessage"						"Tick数据包过大。"								// NETWORK_DISCONNECT_TICKMSG_OVERFLOW
+		"GameUI_Disconnect_StringTableMessage"				"客户端接收到的StringTable数据过大。"		// NETWORK_DISCONNECT_STRINGTABLEMSG_OVERFLOW
+		"GameUI_Disconnect_DeltaEntMessage"					"客户端接收到的DeltaEnt数据过大。"		// NETWORK_DISCONNECT_DELTAENTMSG_OVERFLOW
+		"GameUI_Disconnect_TempEntMessage"					"客户端接收到的TempEnt数据过大。"			// NETWORK_DISCONNECT_TEMPENTMSG_OVERFLOW
+		"GameUI_Disconnect_SoundsMessage"					"同时尝试播放的音效过多。"			// NETWORK_DISCONNECT_SOUNDSMSG_OVERFLOW
+		"GameUI_Disconnect_ReliableOverflow"				"服务器端发生了可靠数据流溢出。"				// NETWORK_DISCONNECT_RELIABLEOVERFLOW
+		"GameUI_Disconnect_BadClientDeltaTick"				"客户端收到错误的Tick时间点。"			// NETWORK_DISCONNECT_BADDELTATICK
+		"GameUI_Disconnect_NoMoreSplits"					"暂无更多可用的分屏位置。"					// NETWORK_DISCONNECT_NOMORESPLITS
+		"GameUI_Disconnect_TimedOut"						"服务器响应超时。"					// NETWORK_DISCONNECT_TIMEDOUT
+		"GameUI_Disconnect_Disconnected"					"你已从服务器断开连接。"			// NETWORK_DISCONNECT_DISCONNECTED
+		"GameUI_Disconnect_LeavingSplit"					"正在退出分屏模式。"							// NETWORK_DISCONNECT_LEAVINGSPLIT
+		"GameUI_Disconnect_DifferentClassTables"			"服务器的类表结构与客户端不一致。"	// NETWORK_DISCONNECT_DIFFERENTCLASSTABLES
+		"GameUI_Disconnect_NoSpectators"					"此服务器不支持旁观模式。"			// NETWORK_DISCONNECT_NOSPECTATORS
+		"GameUI_Disconnect_Kicked"							"被服务器踢出。"									// NETWORK_DISCONNECT_KICKED
+		"GameUI_Disconnect_BanAdded"						"被服务器封禁。"									// NETWORK_DISCONNECT_BANADDED
+		"GameUI_Disconnect_KickBanAdded"					"被服务器封禁。"									// NETWORK_DISCONNECT_KICKBANADDED - Isn't this the same thing as BANADDED?
+		"GameUI_Disconnect_PureServer_ClientExtra"			"内容有效性检查失败：客户端加载了其他非共享资源。"	// NETWORK_DISCONNECT_PURESERVER_CLIENTEXTRA
+		"GameUI_Disconnect_PureServer_Mismatch"				"内容一致性检查失败：客户端资源与服务器版本不匹配。"	// NETWORK_DISCONNECT_PURESERVER_MISMATCH
+		"GameUI_Disconnect_UserCmd"							"解析用户命令时出错。"						// NETWORK_DISCONNECT_USERCMD
+		"GameUI_Disconnect_RejectedByGame"					"连接被服务器拒绝。"						// NETWORK_DISCONNECT_REJECTED_BY_GAME
+		"GameUI_Disconnect_BadServerPassword"				"服务器密码无效。"								// NETWORK_DISCONNECT_BAD_SERVER_PASSWORD
+		"GameUI_Disconnect_ConnectionFailure"				"无法连接到服务器。"							// NETWORK_DISCONNECT_CONNECTION_FAILURE
+		"GameUI_Disconnect_ConnectionClosing"				"连接已被服务器关闭。"							// NETWORK_DISCONNECT_CONNECTION_CLOSING
+		"GameUI_Disconnect_SessionMigrated"					"当前对局已被转移至另一服务器。"			// NETWORK_DISCONNECT_SESSION_MIGRATED
+		"GameUI_Disconnect_PlayerRemovedFromHostSession"	"玩家已被房主移除。"								// NETWORK_DISCONNECT_PLAYER_REMOVED_FROM_HOST_SESSION
+		"GameUI_Disconnect_TooManyCommands"					"向服务器发出的命令过多。"					// NETWORK_DISCONNECT_SERVER_DOS
+		"GameUI_Disconnect_SteamIDBanned"					"该账号已被禁止访问Steam社区"			// NETWORK_DISCONNECT_STEAM_BANNED
+		"GameUI_Disconnect_SteamIDInUse"					"该Steam账号目前正在被其他人使用。"		// NETWORK_DISCONNECT_STEAM_INUSE
+		"GameUI_Disconnect_SteamInUse"						"该Steam账号目前正在被其他人使用。"		// NETWORK_DISCONNECT_STEAM_LOGGED_IN_ELSEWHERE - Why the hell is this disconnect reason duped twice?
+		"GameUI_Disconnect_SteamTicket"						"Steam登录凭证无效。"							// NETWORK_DISCONNECT_STEAM_TICKET
+		"GameUI_Disconnect_SteamLogon"						"玩家尚未登录Steam网络。"			// NETWORK_DISCONNECT_STEAM_LOGON, NETWORK_DISCONNECT_STEAM_AUTHCANCELLED, NETWORK_DISCONNECT_STEAM_AUTHALREADYUSED, NETWORK_DISCONNECT_STEAM_AUTHINVALID
+		"GameUI_Disconnect_SteamVAC"						"该玩家因作弊被禁止参与在线游戏。"		// NETWORK_DISCONNECT_STEAM_VACBANSTATE
+		"GameUI_Disconnect_SteamTimeOut"					"无法验证Valve反作弊系统（VAC）的封禁状态。"	// NETWORK_DISCONNECT_STEAM_VAC_CHECK_TIMEDOUT
+		"GameUI_Disconnect_SteamDropped"					"您当前已断开与Steam网络的连接。"	// NETWORK_DISCONNECT_STEAM_DROPPED
+		"GameUI_Disconnect_SteamOwnership"					"当前Steam账号未持有传送门2和/或传送门2：社区版的许可。"	// NETWORK_DISCONNECT_STEAM_OWNERSHIP
+		"GameUI_Disconnect_LocalProblem_ManyRelays"			"多次尝试连接Steam数据报中继（SDR）服务器后，仍无法恢复游戏状态。这台计算机的网络连接可能存在问题。"		// NETWORK_DISCONNECT_SNS_LOCAL_MANYRELAYS
+		"GameUI_Disconnect_LocalProblem_HostedServerPrimaryRelay"		"服务器与Steam数据报中继（SDR）服务器断开连接。"		// NETWORK_DISCONNECT_SNS_LOCAL_HOSTEDSERVERPRIMARYRELAY
+		"GameUI_Disconnect_LocalProblem_NetworkConfig"		"无法下载Steam数据报中继（SDR）服务器配置数据。"		// NETWORK_DISCONNECT_SNS_LOCAL_NETWORKCONFIG
+		"GameUI_Disconnect_LocalProblem_Other"				"SDR中继通信失败。"						// NETWORK_DISCONNECT_SNS_LOCAL_OTHER
+		"GameUI_Disconnect_RemoteProblem_TimeoutConnecting"	"等待连接服务器时超时。"				// NETWORK_DISCONNECT_SNS_REMOTE_TIMEOUTCONNECTING
+		"GameUI_Disconnect_RemoteProblem_Timeout"			"等待服务器时超时。"							// NETWORK_DISCONNECT_SNS_REMOTE_TIMEOUT
+		"GameUI_Disconnect_RemoteProblem_BadCrypt"			"从服务器接收到的加密设置无效或配置错误。"		// NETWORK_DISCONNECT_SNS_REMOTE_BADCRYPT
+		"GameUI_Disconnect_RemoteProblem_BadCert"			"服务器提供的加密证书无效。"	// NETWORK_DISCONNECT_SNS_REMOTE_BADCERT
+		"GameUI_Disconnect_ClosedByPeer_Timeout"			"在等待对端响应时超时。"			// NETWORK_DISCONNECT_SNS_CLOSEDBYPEER_TIMEOUT
+		"GameUI_Disconnect_ClosedByPeer"					"连接被对端关闭。"							// NETWORK_DISCONNECT_SNS_CLOSEDBYPEER_OTHER
+		"GameUI_Disconnect_InternalError"					"内部通信错误。检查开发者控制台以获取详细信息。"	// NETWORK_DISCONNECT_SNS_INTERNALERROR
+		"GameUI_Disconnect_Unusual"							"客户端/服务器连接发生未知错误。检查开发者控制台以获取详细信息。"		// NETWORK_DISCONNECT_SNS_UNUSUAL
+		"GameUI_Disconnect_HLTVBadRelayPassword"			"SourceTV中继代理密码无效。"						// NETWORK_DISCONNECT_HLTV_BADRELAYPASSWORD
+		"GameUI_Disconnect_HLTVBadSpectatorPassword"		"SourceTV观战密码无效。"					// NETWORK_DISCONNECT_HLTV_BADSPECTATORPASSWORD
+		"GameUI_Disconnect_HLTVRestricted"					"观战功能仅限局域网客户端使用。"				// NETWORK_DISCONNECT_HLTV_RESTRICTED
+		"GameUI_Disconnect_HLTVUnavailable"					"SourceTV在此服务器上不可用。"			// NETWORK_DISCONNECT_HLTV_UNAVAILABLE
+		"GameUI_Disconnect_HLTVStop"						"SourceTV观战主机正在关闭。"				// NETWORK_DISCONNECT_HLTV_STOP
+		"GameUI_Disconnect_HLTVNoRelaysAvailable"			"无可用的SourceTV中继代理。"			// NETWORK_DISCONNECT_HLTV_NO_RELAYS_AVAILABLE
+		"GameUI_Disconnect_HLTVRestrictedToLocalSpectators"			"观战功能仅限局域网客户端使用。"		// NETWORK_DISCONNECT_HLTV_RESTRICTED_TO_LOCAL_SPECTATORS - Again???
 	}
 }
