@@ -1289,7 +1289,7 @@ Please install and mount the above games first to access this campaign."
 		"Common_Close"								"关闭"
 		"Common_Cancel"								"取消"
 		"Common_OK"									"好的"
-		"Common_DontShowAgain"						"不再显示此信息"
+		"Common_DontShowAgain"						"不再显示"
 		"Common_SelectAll"							"全选"
 		"Common_Delete"								"删除"
 		"Common_Remove"								"移除"
@@ -1300,7 +1300,7 @@ Please install and mount the above games first to access this campaign."
 		"Common_By"									"By"
 		"Common_SearchEllipsis"						"搜索……"
 		"Common_Multiplayer"						"多人模式"
-		"Common_Wiki"								"在Steam叠加层打开Wiki"
+		"Common_Wiki"								"在 Steam 叠加层打开 Wiki"
 		
 		"Action_Yes"								"是"
 		"Action_No"									"否"
@@ -1330,7 +1330,7 @@ Please install and mount the above games first to access this campaign."
 		"LoadingProgress_SpawningServer"			"正在启动本地服务器……"
 		"LoadingProgress_BeginConnect" 				"正在与服务器建立连接……"
 		"LoadingProgress_Changelevel"				"等待服务器切换地图"
-		"LoadingProgress_LoadMap"					"正在加载BSP块数据……"
+		"LoadingProgress_LoadMap"					"正在加载 BSP 块数据……"
 		"LoadingProgress_PrecacheWorld"				"正在初始化世界……"
 		"LoadingProgress_LoadResources"				"正在加载资源……"
 		"LoadingProgress_ProcessServerInfo"			"正在查询服务器状态……"
@@ -1342,9 +1342,9 @@ Please install and mount the above games first to access this campaign."
 		// Temp Notices
 		// Unfinished Software Reminder
 		"MainMenu_PrereleaseNotice_Title"			"当前版本为不稳定的预览版"
-		"MainMenu_PrereleaseNotice_Description"		"传送门2：社区版是一个模组开发框架。当前版本的开发仍未完成。此预览版仅面向内容创作者；部分关键功能可能尚未实现或正在积极开发中，同时，我们正在对游戏的底层引擎进行大规模的代码重构，旨在彻底重写和/或移除过时的遗留代码，为更全面的体验优化和新功能铺平道路。因此，传送门2：社区版及其SDK工具可能存在某些方面的问题，这些问题可能会对您的模组制作流程产生极大影响。"
+		"MainMenu_PrereleaseNotice_Description"		"传送门 2：社区版是一个模组开发框架。当前版本的开发仍未完成。此预览版仅面向内容创作者；部分关键功能可能尚未实现或正在积极开发中，同时，我们正在对游戏的底层引擎进行大规模的代码重构，旨在彻底重写和/或移除过时的遗留代码，为更全面的体验优化和新功能铺平道路。因此，传送门 2：社区版及其 SDK 工具可能存在某些方面的问题，这些问题可能会对您的模组制作流程产生极大影响。"
 
-传送门2：社区版的战役流程尚未完成，因此未包含在此预览版中。
+传送门 2：社区版的战役流程尚未完成，因此未包含在此预览版中。
 		
 我们鼓励您前往下列网站向传送门2：社区版提交问题报告和功能请求：
 
@@ -1356,14 +1356,14 @@ Please install and mount the above games first to access this campaign."
 此信息仅显示一次，一旦确认，将不再显示。"
 
 		"MainMenu_Compat_Warning_Header"			"兼容性警告"
-		"MainMenu_Compat_Warning"					"<b>传送门2：社区版对传送门1和半条命2的支持尚未完善。</b>您可能会遇到诸如纹理缺失或被替换、动画异常、游戏崩溃、影响游戏流程的关键玩法元素缺失等问题。我们计划在将来修复其中的一些问题，但这并非我们的首要事项。<b>请不要提交与传送门1/半条命2有关的问题报告。</b>"
+		"MainMenu_Compat_Warning"					"<b>传送门 2：社区版对传送门 1 和半条命 2 的支持尚未完善。</b>您可能会遇到诸如纹理缺失或被替换、动画异常、游戏崩溃、影响游戏流程的关键玩法元素缺失等问题。我们计划在将来修复其中的一些问题，但这并非我们的首要事项。<b>请不要提交与传送门 1/半条命 2 有关的问题报告。</b>"
 
 		"MainMenu_PrereleaseNotice_Acknowledge"		"我已了解"
 		"MainMenu_PrereleaseNotice_Decline"			"拒绝"
 		
 		// Playtest DOSA
-		"MainMenu_PlaytestDOSA_Title"				"欢迎参与传送门2：社区版测试！"
-		"MainMenu_PlaytestDOSA_Description"			"作为测试的一部分，游戏将记录下您的游戏demo，以及一些基本性能数据。这些数据将上传给开发人员，以便我们改进游戏体验。\n\n注意：您可以在设置中随时同意或撤回同意。"
+		"MainMenu_PlaytestDOSA_Title"				"欢迎参与传送门 2：社区版测试！"
+		"MainMenu_PlaytestDOSA_Description"			"作为测试的一部分，游戏将记录下您的回放文件，以及一些基本性能数据。这些数据将上传给开发人员，以便我们改进游戏体验。\n\n注意：您可以在设置中随时同意或撤回同意。"
 		"MainMenu_PlaytestDOSA_Consent"				"同意收集测试数据"
 		"MainMenu_PlaytestDOSA_Revoke"				"撤回同意"
 	
@@ -1379,7 +1379,7 @@ Please install and mount the above games first to access this campaign."
 		// Dependency Warning
 		"DependencyWarning_Generic"					"您缺少一个或多个该插件正常运行所依赖的扩展。"
 		"DependencyWarning_Header"					"缺少依赖项"
-		"DependencyWarning_Desc"					"您尝试启动的内容依赖于某些无法找到的附加组件。缺失的附加组件如下所示。点击某个附加组件，即可在Steam叠加层中打开其Steam创意工坊页面。您可以忽略此警告并继续操作，但可能会遇到纹理或模型缺失等问题。"
+		"DependencyWarning_Desc"					"您尝试启动的内容依赖于某些无法找到的附加组件。缺失的附加组件如下所示。点击某个附加组件，即可在 Steam 叠加层中打开其 Steam 创意工坊页面。您可以忽略此警告并继续操作，但可能会遇到纹理或模型缺失等问题。"
 		"DependencyWarning_Loading"					"正在获取详细信息……"
 		"DependencyWarning_Failed"					"获取详细信息失败！"
 		"DependencyWarning_Action_Ignore"			"仍要继续"
@@ -1400,9 +1400,9 @@ Please install and mount the above games first to access this campaign."
 		
 		// generic disconnect reasons
 		"MainMenu_DisconnectDialog_Reason_TimeOut"			"服务器可能已崩溃或失去了网络连接。请稍等片刻，然后再次尝试连接。"
-		"MainMenu_DisconnectDialog_Reason_TimeOutConnect"	"无法与服务器建立连接。指定的服务器IP地址/主机名无效，或者你的网络连接出现问题。"
-		"MainMenu_DisconnectDialog_Reason_BuildTooOld"		"传送门2：社区版可能需要更新才能连接该服务器。请退出游戏并在Steam客户端中确认更新至最新版本。"
-		"MainMenu_DisconnectDialog_Reason_BuildTooNew"		"你的传送门2：社区版的版本高于服务器版本。服主可能需要将服务器更新到最新版本。"
+		"MainMenu_DisconnectDialog_Reason_TimeOutConnect"	"无法与服务器建立连接。指定的服务器 IP 地址/主机名无效，或者你的网络连接出现问题。"
+		"MainMenu_DisconnectDialog_Reason_BuildTooOld"		"传送门 2：社区版可能需要更新才能连接该服务器。请退出游戏并在 Steam 客户端中确认更新至最新版本。"
+		"MainMenu_DisconnectDialog_Reason_BuildTooNew"		"你的传送门 2：社区版的版本高于服务器版本。服主可能需要将服务器更新到最新版本。"
 		"MainMenu_DisconnectDialog_Reason_DSExit"			"服务器已被服主关闭。"
 		"MainMenu_DisconnectDialog_Reason_Kicked"			"你已被该服务器踢出。"
 		"MainMenu_DisconnectDialog_Reason_KickedVote"		"你已被该服务器投票踢出。"
@@ -1416,19 +1416,19 @@ Please install and mount the above games first to access this campaign."
 		"GameUI_Disconnect_ConnectionLost"					"与服务器的连接丢失。"							// NETWORK_DISCONNECT_LOST, NETWORK_DISCONNECT_SNS_CONNECTION_LOST
 		"GameUI_Disconnect_ConnectionOverflow"				"客户端接收到的数据包过大。"				// NETWORK_DISCONNECT_OVERFLOW
 		"GameUI_Disconnect_ServerInfoOverflow"				"服务器元数据数据包过大。"					// NETWORK_DISCONNECT_SERVERINFO_OVERFLOW
-		"GameUI_Disconnect_TickMessage"						"Tick数据包过大。"								// NETWORK_DISCONNECT_TICKMSG_OVERFLOW
-		"GameUI_Disconnect_StringTableMessage"				"客户端接收到的StringTable数据过大。"		// NETWORK_DISCONNECT_STRINGTABLEMSG_OVERFLOW
-		"GameUI_Disconnect_DeltaEntMessage"					"客户端接收到的DeltaEnt数据过大。"		// NETWORK_DISCONNECT_DELTAENTMSG_OVERFLOW
-		"GameUI_Disconnect_TempEntMessage"					"客户端接收到的TempEnt数据过大。"			// NETWORK_DISCONNECT_TEMPENTMSG_OVERFLOW
+		"GameUI_Disconnect_TickMessage"						"Tick 数据包过大。"								// NETWORK_DISCONNECT_TICKMSG_OVERFLOW
+		"GameUI_Disconnect_StringTableMessage"				"客户端接收到的 StringTable 数据过大。"		// NETWORK_DISCONNECT_STRINGTABLEMSG_OVERFLOW
+		"GameUI_Disconnect_DeltaEntMessage"					"客户端接收到的 DeltaEnt 数据过大。"		// NETWORK_DISCONNECT_DELTAENTMSG_OVERFLOW
+		"GameUI_Disconnect_TempEntMessage"					"客户端接收到的 TempEnt 数据过大。"			// NETWORK_DISCONNECT_TEMPENTMSG_OVERFLOW
 		"GameUI_Disconnect_SoundsMessage"					"同时尝试播放的音效过多。"			// NETWORK_DISCONNECT_SOUNDSMSG_OVERFLOW
 		"GameUI_Disconnect_ReliableOverflow"				"服务器端发生了可靠数据流溢出。"				// NETWORK_DISCONNECT_RELIABLEOVERFLOW
-		"GameUI_Disconnect_BadClientDeltaTick"				"客户端收到错误的Tick时间点。"			// NETWORK_DISCONNECT_BADDELTATICK
+		"GameUI_Disconnect_BadClientDeltaTick"				"客户端收到错误的 Tick 时间点。"			// NETWORK_DISCONNECT_BADDELTATICK
 		"GameUI_Disconnect_NoMoreSplits"					"暂无更多可用的分屏位置。"					// NETWORK_DISCONNECT_NOMORESPLITS
 		"GameUI_Disconnect_TimedOut"						"服务器响应超时。"					// NETWORK_DISCONNECT_TIMEDOUT
 		"GameUI_Disconnect_Disconnected"					"你已从服务器断开连接。"			// NETWORK_DISCONNECT_DISCONNECTED
 		"GameUI_Disconnect_LeavingSplit"					"正在退出分屏模式。"							// NETWORK_DISCONNECT_LEAVINGSPLIT
 		"GameUI_Disconnect_DifferentClassTables"			"服务器的类表结构与客户端不一致。"	// NETWORK_DISCONNECT_DIFFERENTCLASSTABLES
-		"GameUI_Disconnect_NoSpectators"					"此服务器不支持旁观模式。"			// NETWORK_DISCONNECT_NOSPECTATORS
+		"GameUI_Disconnect_NoSpectators"					"此服务器不支持旁观者模式。"			// NETWORK_DISCONNECT_NOSPECTATORS
 		"GameUI_Disconnect_Kicked"							"被服务器踢出。"									// NETWORK_DISCONNECT_KICKED
 		"GameUI_Disconnect_BanAdded"						"被服务器封禁。"									// NETWORK_DISCONNECT_BANADDED
 		"GameUI_Disconnect_KickBanAdded"					"被服务器封禁。"									// NETWORK_DISCONNECT_KICKBANADDED - Isn't this the same thing as BANADDED?
@@ -1442,19 +1442,19 @@ Please install and mount the above games first to access this campaign."
 		"GameUI_Disconnect_SessionMigrated"					"当前对局已被转移至另一服务器。"			// NETWORK_DISCONNECT_SESSION_MIGRATED
 		"GameUI_Disconnect_PlayerRemovedFromHostSession"	"玩家已被房主移除。"								// NETWORK_DISCONNECT_PLAYER_REMOVED_FROM_HOST_SESSION
 		"GameUI_Disconnect_TooManyCommands"					"向服务器发出的命令过多。"					// NETWORK_DISCONNECT_SERVER_DOS
-		"GameUI_Disconnect_SteamIDBanned"					"该账号已被禁止访问Steam社区"			// NETWORK_DISCONNECT_STEAM_BANNED
-		"GameUI_Disconnect_SteamIDInUse"					"该Steam账号目前正在被其他人使用。"		// NETWORK_DISCONNECT_STEAM_INUSE
-		"GameUI_Disconnect_SteamInUse"						"该Steam账号目前正在被其他人使用。"		// NETWORK_DISCONNECT_STEAM_LOGGED_IN_ELSEWHERE - Why the hell is this disconnect reason duped twice?
-		"GameUI_Disconnect_SteamTicket"						"Steam登录凭证无效。"							// NETWORK_DISCONNECT_STEAM_TICKET
-		"GameUI_Disconnect_SteamLogon"						"玩家尚未登录Steam网络。"			// NETWORK_DISCONNECT_STEAM_LOGON, NETWORK_DISCONNECT_STEAM_AUTHCANCELLED, NETWORK_DISCONNECT_STEAM_AUTHALREADYUSED, NETWORK_DISCONNECT_STEAM_AUTHINVALID
+		"GameUI_Disconnect_SteamIDBanned"					"该帐户已被禁止访问 Steam 社区"			// NETWORK_DISCONNECT_STEAM_BANNED
+		"GameUI_Disconnect_SteamIDInUse"					"该 Steam 帐户目前正在被其他人使用。"		// NETWORK_DISCONNECT_STEAM_INUSE
+		"GameUI_Disconnect_SteamInUse"						"该 Steam 帐户目前正在被其他人使用。"		// NETWORK_DISCONNECT_STEAM_LOGGED_IN_ELSEWHERE - Why the hell is this disconnect reason duped twice?
+		"GameUI_Disconnect_SteamTicket"						"Steam 登录凭证无效。"							// NETWORK_DISCONNECT_STEAM_TICKET
+		"GameUI_Disconnect_SteamLogon"						"玩家尚未登录 Steam 网络。"			// NETWORK_DISCONNECT_STEAM_LOGON, NETWORK_DISCONNECT_STEAM_AUTHCANCELLED, NETWORK_DISCONNECT_STEAM_AUTHALREADYUSED, NETWORK_DISCONNECT_STEAM_AUTHINVALID
 		"GameUI_Disconnect_SteamVAC"						"该玩家因作弊被禁止参与在线游戏。"		// NETWORK_DISCONNECT_STEAM_VACBANSTATE
-		"GameUI_Disconnect_SteamTimeOut"					"无法验证Valve反作弊系统（VAC）的封禁状态。"	// NETWORK_DISCONNECT_STEAM_VAC_CHECK_TIMEDOUT
-		"GameUI_Disconnect_SteamDropped"					"您当前已断开与Steam网络的连接。"	// NETWORK_DISCONNECT_STEAM_DROPPED
-		"GameUI_Disconnect_SteamOwnership"					"当前Steam账号未持有传送门2和/或传送门2：社区版的许可。"	// NETWORK_DISCONNECT_STEAM_OWNERSHIP
-		"GameUI_Disconnect_LocalProblem_ManyRelays"			"多次尝试连接Steam数据报中继（SDR）服务器后，仍无法恢复游戏状态。这台计算机的网络连接可能存在问题。"		// NETWORK_DISCONNECT_SNS_LOCAL_MANYRELAYS
-		"GameUI_Disconnect_LocalProblem_HostedServerPrimaryRelay"		"服务器与Steam数据报中继（SDR）服务器断开连接。"		// NETWORK_DISCONNECT_SNS_LOCAL_HOSTEDSERVERPRIMARYRELAY
-		"GameUI_Disconnect_LocalProblem_NetworkConfig"		"无法下载Steam数据报中继（SDR）服务器配置数据。"		// NETWORK_DISCONNECT_SNS_LOCAL_NETWORKCONFIG
-		"GameUI_Disconnect_LocalProblem_Other"				"SDR中继通信失败。"						// NETWORK_DISCONNECT_SNS_LOCAL_OTHER
+		"GameUI_Disconnect_SteamTimeOut"					"无法验证 Valve 反作弊系统（VAC）的封禁状态。"	// NETWORK_DISCONNECT_STEAM_VAC_CHECK_TIMEDOUT
+		"GameUI_Disconnect_SteamDropped"					"您已断开与 Steam 网络的连接。"	// NETWORK_DISCONNECT_STEAM_DROPPED
+		"GameUI_Disconnect_SteamOwnership"					"当前 Steam 帐户未持有传送门 2 和/或传送门 2：社区版的许可。"	// NETWORK_DISCONNECT_STEAM_OWNERSHIP
+		"GameUI_Disconnect_LocalProblem_ManyRelays"			"多次尝试连接 Steam 数据报中继（SDR）服务器后，仍无法恢复游戏状态。这台计算机的网络连接可能存在问题。"		// NETWORK_DISCONNECT_SNS_LOCAL_MANYRELAYS
+		"GameUI_Disconnect_LocalProblem_HostedServerPrimaryRelay"		"服务器与 Steam 数据报中继（SDR）服务器断开连接。"		// NETWORK_DISCONNECT_SNS_LOCAL_HOSTEDSERVERPRIMARYRELAY
+		"GameUI_Disconnect_LocalProblem_NetworkConfig"		"无法下载 Steam 数据报中继（SDR）服务器配置数据。"		// NETWORK_DISCONNECT_SNS_LOCAL_NETWORKCONFIG
+		"GameUI_Disconnect_LocalProblem_Other"				"SDR 中继通信失败。"						// NETWORK_DISCONNECT_SNS_LOCAL_OTHER
 		"GameUI_Disconnect_RemoteProblem_TimeoutConnecting"	"等待连接服务器时超时。"				// NETWORK_DISCONNECT_SNS_REMOTE_TIMEOUTCONNECTING
 		"GameUI_Disconnect_RemoteProblem_Timeout"			"等待服务器时超时。"							// NETWORK_DISCONNECT_SNS_REMOTE_TIMEOUT
 		"GameUI_Disconnect_RemoteProblem_BadCrypt"			"从服务器接收到的加密设置无效或配置错误。"		// NETWORK_DISCONNECT_SNS_REMOTE_BADCRYPT
@@ -1463,12 +1463,12 @@ Please install and mount the above games first to access this campaign."
 		"GameUI_Disconnect_ClosedByPeer"					"连接被对端关闭。"							// NETWORK_DISCONNECT_SNS_CLOSEDBYPEER_OTHER
 		"GameUI_Disconnect_InternalError"					"内部通信错误。检查开发者控制台以获取详细信息。"	// NETWORK_DISCONNECT_SNS_INTERNALERROR
 		"GameUI_Disconnect_Unusual"							"客户端/服务器连接发生未知错误。检查开发者控制台以获取详细信息。"		// NETWORK_DISCONNECT_SNS_UNUSUAL
-		"GameUI_Disconnect_HLTVBadRelayPassword"			"SourceTV中继代理密码无效。"						// NETWORK_DISCONNECT_HLTV_BADRELAYPASSWORD
-		"GameUI_Disconnect_HLTVBadSpectatorPassword"		"SourceTV观战密码无效。"					// NETWORK_DISCONNECT_HLTV_BADSPECTATORPASSWORD
+		"GameUI_Disconnect_HLTVBadRelayPassword"			"SourceTV 中继代理密码无效。"						// NETWORK_DISCONNECT_HLTV_BADRELAYPASSWORD
+		"GameUI_Disconnect_HLTVBadSpectatorPassword"		"SourceTV 观战密码无效。"					// NETWORK_DISCONNECT_HLTV_BADSPECTATORPASSWORD
 		"GameUI_Disconnect_HLTVRestricted"					"观战功能仅限局域网客户端使用。"				// NETWORK_DISCONNECT_HLTV_RESTRICTED
-		"GameUI_Disconnect_HLTVUnavailable"					"SourceTV在此服务器上不可用。"			// NETWORK_DISCONNECT_HLTV_UNAVAILABLE
-		"GameUI_Disconnect_HLTVStop"						"SourceTV观战主机正在关闭。"				// NETWORK_DISCONNECT_HLTV_STOP
-		"GameUI_Disconnect_HLTVNoRelaysAvailable"			"无可用的SourceTV中继代理。"			// NETWORK_DISCONNECT_HLTV_NO_RELAYS_AVAILABLE
+		"GameUI_Disconnect_HLTVUnavailable"					"SourceTV 在此服务器上不可用。"			// NETWORK_DISCONNECT_HLTV_UNAVAILABLE
+		"GameUI_Disconnect_HLTVStop"						"SourceTV 观战主机正在关闭。"				// NETWORK_DISCONNECT_HLTV_STOP
+		"GameUI_Disconnect_HLTVNoRelaysAvailable"			"无可用的 SourceTV 中继代理。"			// NETWORK_DISCONNECT_HLTV_NO_RELAYS_AVAILABLE
 		"GameUI_Disconnect_HLTVRestrictedToLocalSpectators"			"观战功能仅限局域网客户端使用。"		// NETWORK_DISCONNECT_HLTV_RESTRICTED_TO_LOCAL_SPECTATORS - Again???
 	}
 }
