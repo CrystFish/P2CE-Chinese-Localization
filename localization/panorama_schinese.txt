@@ -44,7 +44,7 @@
 
 		"COOP_PRESENCE_TRACK_DEFAULT"			"双人合作测试轨道"
 		"COOP_PRESENCE_TRACK_CALIBRATION"		"校准训练"
-		"COOP_PRESENCE_TRACK_HUB"				"正在享受大厅"
+		"COOP_PRESENCE_TRACK_HUB"				"在大厅闲逛"
 		"COOP_PRESENCE_TRACK_TRACK1"			"团队构筑"
 		"COOP_PRESENCE_TRACK_TRACK2"			"重力与加速度"
 		"COOP_PRESENCE_TRACK_TRACK3"			"强光"
@@ -192,7 +192,7 @@
 		"Portal_Chapter12_Title"			"测试完成"
 
 		"PORTAL2_CoopCommentary_Title1"		"合作\n信任的建立"
-		"PORTAL2_CoopCommentary_Title2"		"合作\n控制系统（枢纽？）"
+		"PORTAL2_CoopCommentary_Title2"		"合作\n大厅"
 		"PORTAL2_CoopCommentary_Title3"		"合作\n安全室"
 
 		"P2_Actions_Title"					"行动"
@@ -256,7 +256,7 @@
 		"Instructor_New_Taunt_Earned"		"动作"
 		"Instructor_Partner_View"			"按住预览伙伴视角"
 		"Instructor_Start_Countdown"		"按住开始倒计时"
-		"Instructor_Return_To_Hub"			"回到 Hub"
+		"Instructor_Return_To_Hub"			"回到大厅"
 		"Instructor_Create_Blue_Portal"		"建立蓝色传送门"
 		"Instructor_Create_Purple_Portal"	"建立紫色传送门"
 		"Instructor_Create_Orange_Portal"	"建立橙色传送门"
