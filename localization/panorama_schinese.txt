@@ -73,7 +73,7 @@
 		"HL2_GameOver_Timer"				"任务: 已终止\n对象: 弗里曼\n缘由: 未能防止关键时间序列"
 		"HL2_GameOver_Stuck"				"任务: 已终止\n对象: 弗里曼\n缘由: 极其糟糕的判断能力"
 		
-		"Episodic_GameOver_AlyxDead"		"艾利克斯死了"
+		"Episodic_GameOver_AlyxDead"		"爱莉克斯死了"
 
 		// figure out a way to override these strings in episodic
 		"HL2_GameOver_Object_ep2"			"到此为止\n弗里曼博士不珍惜\n被认为对胜利至关重要的资源\n不可避免的厄运一瞥笼罩着漩渊精华"
@@ -98,10 +98,10 @@
 		"HL2_SAVING"						"保存中..."
 		"HL2_Saved"							"已保存."
 		
-		"HL2_SetupMicrophone"				"Configure Advanced Microphone Settings"
-		"HL2_SetupMicrophoneSteam"			"The Steam Overlay is currently disabled\nPlease enable the Steam Overlay or configure your microphone settings through the Steam client."
+		"HL2_SetupMicrophone"				"配置高级麦克风设置"
+		"HL2_SetupMicrophoneSteam"			"Steam叠加层已被禁用。\n请启用Steam叠加层或者在您的Steam客户端中配置语音设置"
 
-		"HL2_Enable_Commentary"				"Enable commentary track"
+		"HL2_Enable_Commentary"				"启用解说音轨"
 
 		"portal2_Chapter1"					"第一章\n礼性拜访"
 		"portal2_Chapter1_Title"			"第一章"
@@ -191,22 +191,22 @@
 		"Portal_Chapter11_Title"			"测试室19"
 		"Portal_Chapter12_Title"			"测试完成"
 
-		"PORTAL2_CoopCommentary_Title1"		"Co-op\nConfidence Building"
-		"PORTAL2_CoopCommentary_Title2"		"Co-op\nThe Hub"
-		"PORTAL2_CoopCommentary_Title3"		"Co-op\nSecurity Room"
+		"PORTAL2_CoopCommentary_Title1"		"合作\n信任的建立"
+		"PORTAL2_CoopCommentary_Title2"		"合作\n控制系统（枢纽？）"
+		"PORTAL2_CoopCommentary_Title3"		"合作\n安全室"
 
 		"P2_Actions_Title"					"行动"
-		"P2_Coop_Title"						"CO-OP"
-		"P2_Primary_Attack"					"Fire Blue Portal"
-		"P2_Secondary_Attack"				"Fire Orange Portal"
+		"P2_Coop_Title"						"合作"
+		"P2_Primary_Attack"					"发射蓝色传送门"
+		"P2_Secondary_Attack"				"发射橙色传送门"
 		"P2_Zoom"							"切换放大"
 		"P2_Zoom_In"						"放大"
 		"P2_Zoom_Out"						"缩小"
-		"P2_Romote_View"					"Partner Remote View"
+		"P2_Romote_View"					"查看伙伴视角"
 		"P2_Mouse_Menu"						"交流菜单"
 		"P2_Taunt"							"动作菜单"
 
-		"P2_Taunt_Earned"					"动作 Deciphered"
+		"P2_Taunt_Earned"					"动作解读"
 
 		"P2_Scoreboard_Ping"				"Ping"
 		"P2_Scoreboard_Dead"				"Dead"
@@ -218,57 +218,57 @@
 		"P2_ScoreBoard_Player"				"%s2 - %s1"
 		"P2_ScoreBoard_Players"				"%s2 - %s1s"
 
-		"Valve_Hint_Sprint"					"Sprint"
+		"Valve_Hint_Sprint"					"奔跑"
 		"Valve_Hint_GravGun"				"Punt and Pull Objects"
 
-		"Valve_Hint_Look_Up"				"Look Up"
-		"Valve_Hint_Look_Down"				"Look Down"
-		"Valve_Hint_Use_Bed"				"Sleep"
-		"Valve_Hint_Movement_Keys"			"Walk"
-		"Valve_Hint_Say_Apple"				"Say \"Apple\""
-		"Valve_Hint_Talk"					"Yes"
+		"Valve_Hint_Look_Up"				"向上看"
+		"Valve_Hint_Look_Down"				"向下看"
+		"Valve_Hint_Use_Bed"				"睡觉"
+		"Valve_Hint_Movement_Keys"			"步行"
+		"Valve_Hint_Say_Apple"				"说 苹果"
+		"Valve_Hint_Talk"					"说话"
 
-		"Valve_Hint_Crouch"					"Duck"
-		"Valve_Hint_Uncrouch"				"Stand Up"
-		"Valve_Hint_PushButton"				"Push Button"
-		"Valve_Hint_Interact"				"Interact"
+		"Valve_Hint_Crouch"					"蹲下"
+		"Valve_Hint_Uncrouch"				"站起"
+		"Valve_Hint_PushButton"				"按下按钮"
+		"Valve_Hint_Interact"				"互动"
 		"Valve_Hint_Jump"					"跳跃"
-		"Valve_Hint_Door"					"Open Door"
-		"Valve_Hint_Lever"					"Pull Lever"
-		"Valve_Hint_Zoom"					"Zoom"
-		"Valve_Hint_Pickup_Glados"			"Pick Up GLaDOS"
-		"Valve_Hint_Socket"					"Activate Socket"
+		"Valve_Hint_Door"					"打开门"
+		"Valve_Hint_Lever"					"拉杠杆"
+		"Valve_Hint_Zoom"					"缩放"
+		"Valve_Hint_Pickup_Glados"			"拾取 GLaDOS"
+		"Valve_Hint_Socket"					"激活插座"
 
-		"Valve_Hint_USEPickup"				"Pick up object"
+		"Valve_Hint_USEPickup"				"拾取物体"
 
-		"Valve_Hint_CarryTurret"			"or use Gravity Gun to pick up Turret"
-		"Valve_Hint_CROSSBOW"				"Crossbow Zoom"
+		"Valve_Hint_CarryTurret"			"或用重力枪拾取机枪塔"
+		"Valve_Hint_CROSSBOW"				"十字弓瞄准距离缩放"
 
 		// PORTAL 2 INSTRUCTOR HINTS
 		"PORTAL2_HINT_GESTURE"				"动作"
-		"PORTAL2_HINT_BUTTON_GESTURE"		"Do a gesture"
-		"PORTAL2_HINT_SEE_NEW_GESTURE"		"Check out your new gesture!"
-		"PORTAL2_HINT_PING"					"Use your Ping Tool"
-		"PORTAL2_HINT_PING_WAIT"			"Wait for your partner's choice"
+		"PORTAL2_HINT_BUTTON_GESTURE"		"做一个动作"
+		"PORTAL2_HINT_SEE_NEW_GESTURE"		"看看新动作"
+		"PORTAL2_HINT_PING"					"使用你的交流工具"
+		"PORTAL2_HINT_PING_WAIT"			"等待伙伴选择"
 
 		// Instructor
-		"Instructor_Air_Taunt"				"Air 动作"
+		"Instructor_Air_Taunt"				"空中动作"
 		"Instructor_New_Taunt_Earned"		"动作"
-		"Instructor_Partner_View"			"Hold for Partner View"
-		"Instructor_Start_Countdown"		"Hold for Countdown"
-		"Instructor_Return_To_Hub"			"Go to Hub"
-		"Instructor_Create_Blue_Portal"		"Create Blue Portal"
-		"Instructor_Create_Purple_Portal"	"Create Purple Portal"
-		"Instructor_Create_Orange_Portal"	"Create Orange Portal"
-		"Instructor_Create_Red_Portal"		"Create Red Portal"
-		"Instructor_Walk"					"Walk"
-		"Instructor_Push_Button"			"Activate"
-		"Instructor_Pick_Up"				"Pick Up"
-		"Instructor_Drop"					"Drop"
+		"Instructor_Partner_View"			"按住预览伙伴视角"
+		"Instructor_Start_Countdown"		"按住开始倒计时"
+		"Instructor_Return_To_Hub"			"回到 Hub"
+		"Instructor_Create_Blue_Portal"		"建立蓝色传送门"
+		"Instructor_Create_Purple_Portal"	"建立紫色传送门"
+		"Instructor_Create_Orange_Portal"	"建立橙色传送门"
+		"Instructor_Create_Red_Portal"		"建立红色传送门"
+		"Instructor_Walk"					"步行"
+		"Instructor_Push_Button"			"激活"
+		"Instructor_Pick_Up"				"拾取"
+		"Instructor_Drop"					"放下"
 		"Instructor_Jump"					"跳跃"
-		"Instructor_Unzoom"					"Unzoom"
-		"Instructor_Zoom"					"Zoom"
-		"Instructor_SS_Control"				"Press to Control Other Player"
+		"Instructor_Unzoom"					"不缩放"
+		"Instructor_Zoom"					"缩放"
+		"Instructor_SS_Control"				"按键以控制其他玩家"
 
 		"Paint_Instructor_teach_bounce_suppression"				"Hold to prevent bouncing"
 		
@@ -345,9 +345,9 @@
 		"UI_Second"									"秒"
 		"UI_UnknownTime"							"未知"
 
-		"UI_Label_CopySelected"						"Copy selected text"
-		"UI_Label_OpenLinkInBrowser"				"Open URL in browser"
-		"UI_Label_CopyURLToClipboard" 				"Copy URL to clipboard"
+		"UI_Label_CopySelected"						"复制已选文本"
+		"UI_Label_OpenLinkInBrowser"				"在浏览器中打开链接"
+		"UI_Label_CopyURLToClipboard" 				"将链接复制到剪贴板"
 
 		"UI_TextEntry_CutToClipboard"				"剪切"
 		"UI_TextEntry_CopyToClipboard"				"复制"
@@ -363,18 +363,18 @@
 		"UI_Return"									"返回"
 		"UI_Continue"								"继续"
 
-		"Month_January"								"January"
-		"Month_February"							"February"
-		"Month_March"								"March"
-		"Month_April"								"April"
-		"Month_May"									"May"
-		"Month_June"								"June"
-		"Month_July"								"July"
-		"Month_August"								"August"
-		"Month_September"							"September"
-		"Month_October"								"October"
-		"Month_November"							"November"
-		"Month_December"							"December"
+		"Month_January"								"一月"
+		"Month_February"							"二月"
+		"Month_March"								"三月"
+		"Month_April"								"四月"
+		"Month_May"									"五月"
+		"Month_June"								"六月"
+		"Month_July"								"七月"
+		"Month_August"								"八月"
+		"Month_September"							"九月"
+		"Month_October"								"十月"
+		"Month_November"							"十一月"
+		"Month_December"							"十二月"
 
 		"Panorama_Lang_English"						"English"
 		"Panorama_Lang_Spanish"						"Spanish"
@@ -1023,12 +1023,12 @@
 		
 		// Search
 		"MainMenu_Campaigns_Search_FillerText"						"搜索战役..."
-		"MainMenu_Campaigns_Search_SortBy_NewSubs"					"Recently added"
-		"MainMenu_Campaigns_Search_SortBy_AtoZ"						"Alphabetical (Descending)"
-		"MainMenu_Campaigns_Search_SortBy_ZtoA"						"Alphabetical (Ascending)"
-		"MainMenu_Campaigns_Search_SortBy_Last"						"Last played time"
-		"MainMenu_Campaigns_Search_SortBy_Completion"				"Overall completion"
-		"MainMenu_Campaigns_Search_SortBy_CampaignSrc"				"Campaign source"
+		"MainMenu_Campaigns_Search_SortBy_NewSubs"					"最近添加"
+		"MainMenu_Campaigns_Search_SortBy_AtoZ"						"按字母排序（正序）"
+		"MainMenu_Campaigns_Search_SortBy_ZtoA"						"按字母排序（倒序）"
+		"MainMenu_Campaigns_Search_SortBy_Last"						"上次游玩时间"
+		"MainMenu_Campaigns_Search_SortBy_Completion"				"流程进度"
+		"MainMenu_Campaigns_Search_SortBy_CampaignSrc"				"战役来源"
 
 		"MainMenu_Content_Unplayed"									"未游玩过"
 		"MainMenu_Content_InProgress"								"开发中"
@@ -1036,7 +1036,9 @@
 		
 		// this is used if a campaign requires an appid they don't have mounted
 		"MainMenu_Campaigns_MissingMount_Title"						"无法加载战役"
-		"MainMenu_Campaigns_MissingMount_Description"				"无法加载此战役，因为以下游戏未安装: \n{s:missing_mounts_list}\n请先安装并挂载上述游戏以访问此战役"
+		"MainMenu_Campaigns_MissingMount_Description"				"无法加载此战役，因为以下游戏未安装: 
+{s:missing_mounts_list}
+请先安装并挂载上述游戏以访问此战役"
 
 		// Warn the user if playing on map or server with no active campaign and attempting a save
 		"MainMenu_Campaigns_NoActiveCampaign_Warning_Title"			"警告: 不在相应内容组中"
@@ -1105,17 +1107,17 @@
 		"MainMenu_Campaigns_MM_DEV_NoCampaignPH"					"未检测到激活的战役"
 		
 		// campaign setup
-		"MainMenu_Campaigns_Setup_ExitNote"							"To start this campaign, complete any remaining changes in this page and then return to the main setup area."
-		"MainMenu_Campaigns_Setup_Summary_NoChanges"				"No changes detected."
-		"MainMenu_Campaigns_Setup_ResetToDefaults"					"Reset to Defaults"
+		"MainMenu_Campaigns_Setup_ExitNote"							"要开始游玩此战役，请先完成本页面剩余的所有修改，然后回到主设置区域"
+		"MainMenu_Campaigns_Setup_Summary_NoChanges"				"未发现更改"
+		"MainMenu_Campaigns_Setup_ResetToDefaults"					"重置为默认选项"
 		
 		// campaign setup - main panel
 		"MainMenu_Campaigns_Setup_Title"							"战役/地图设置"
 		"MainMenu_Campaigns_Setup_Tagline"							"自定义游戏设置"
-		"MainMenu_Campaigns_Setup_AdvExpand"						"Advanced Game Settings and Custom Options"
-		"MainMenu_Campaigns_Setup_PanelButton_Presets_Title"		"Presets"
-		"MainMenu_Campaigns_Setup_PanelButton_Presets_Desc"			"Apply a pre-defined set of customizations"
-		"MainMenu_Campaigns_Setup_PanelButton_Admin_Title"			"Server settings"
+		"MainMenu_Campaigns_Setup_AdvExpand"						"高级设置与自定义选项"
+		"MainMenu_Campaigns_Setup_PanelButton_Presets_Title"		"预设"
+		"MainMenu_Campaigns_Setup_PanelButton_Presets_Desc"			"应用已预设好的一组设置"
+		"MainMenu_Campaigns_Setup_PanelButton_Admin_Title"			"服务器设置"
 		"MainMenu_Campaigns_Setup_PanelButton_Admin_Desc"			"Administrative settings; player counts, lockdown, demo recording..."
 		"MainMenu_Campaigns_Setup_PanelButton_MapSelect_Title"		"地图选择"
 		"MainMenu_Campaigns_Setup_PanelButton_MapSelect_Desc"		"从本章中的特定地图开始"
@@ -1169,13 +1171,13 @@
 		"MainMenu_Campaigns_Setup_Var_p2p_Description"				"Uses the <a href="https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay">Steam Datagram Relay</a> to enable hosting peer-to-peer (P2P) and dedicated servers over the Internet with minimal technical setup. Game traffic is sent to Valve relay servers to anonymize player information and protect the server host."
 		
 		// CampaignSetupDiscardDialog
-		"MainMenu_Campaigns_Setup_Discard_Title"					"Discard Changes"
-		"MainMenu_Campaigns_Setup_Discard_Description"				"Are you sure you want to leave campaign setup?\n\nAll settings made during setup will be lost."
+		"MainMenu_Campaigns_Setup_Discard_Title"					"放弃更改"
+		"MainMenu_Campaigns_Setup_Discard_Description"				"确定要离开战役设置流程吗？\n\n所有已设置的选项将会丢失。"
 		
 		// NewGameWarningDialog
 		"Action_NewGame_Title"										"开始游戏"
-		"Action_NewGame_Description"								"Are you sure you want to start a new game?\n\nPrevious progress will be lost."
-		"Action_NewGame_CampaignSetup_Description"					"Are you sure you want to start a new game with these settings?\n\nNote that previous progress will be lost and that any gameplay modifiers cannot be reverted once a new game has started."
+		"Action_NewGame_Description"								"是否确定要开始新游戏？\n所有未保存的进度将会丢失。"
+		"Action_NewGame_CampaignSetup_Description"					"您确定要使用这些设置开始新游戏吗？\n\n请注意，开始新游戏后，之前的进度将丢失，且任何游戏机制修改都无法撤销。"
 
 		// campaign list
 		
@@ -1190,8 +1192,8 @@
 		// portal2
 		"MainMenu_Campaigns_portal2"				"《传送门2》"
 		"MainMenu_Campaigns_portal2_Description"	"《传送门2》引入了一批充满活力的新角色、一系列新的谜题元素，以及更多设计巧妙的测试室。玩家将探索从未见过的光圈科技区域，并将再次与GLaDOS——这位在原作中曾引导他们的、偶尔充满杀意的计算机同伴——重聚"
-		"MainMenu_Campaigns_portal2_MP"				"Portal 2 Co-op"
-		"MainMenu_Campaigns_portal2_MP_Description"	"Co-op features its own entirely separate campaign with a unique story, test chambers, and two new player characters. This new mode forces players to reconsider everything they thought they knew about portals. Success will require them to not just act cooperatively, but to think cooperatively."
+		"MainMenu_Campaigns_portal2_MP"				"《传送门2》合作模式"
+		"MainMenu_Campaigns_portal2_MP_Description"	"合作模式有着完全独立的战役，包含独特的故事、测试室以及两名全新可操控角色。这一新模式将迫使玩家重新审视他们自以为了解的有关传送门的全部知识。若想成功闯过难关，玩家不仅需要通力合作，更需要协同思考"
 		
 		// portal
 		"MainMenu_Campaigns_portal"					"《传送门1》"
@@ -1241,19 +1243,19 @@
 		// Filtering
 		// Filtering - Time
 		"MainMenu_Addons_SearchBox_FillerText"				"搜索插件..."
-		"MainMenu_Addons_Filtering_Title"					"Filtering and Sorting Options (NOT IMPLEMENTED)"
-		"MainMenu_Addons_Filtering_Edit_Tooltip"			"Change the way how addons are filtered and sorted by in the addon list."
+		"MainMenu_Addons_Filtering_Title"					"筛选与排序（不可用）"
+		"MainMenu_Addons_Filtering_Edit_Tooltip"			"更改插件列表中插件的筛选和排序方式。"
 		"MainMenu_Addons_Filtering_EnableAddons_Tooltip"	"启用或禁用列表中的所有插件"
-		"MainMenu_Addons_Filtering_Sort_Title"				"Sort by:"
-		"MainMenu_Addons_Filtering_Sort_TimeInstalled"		"Time Subscribed/Added"
+		"MainMenu_Addons_Filtering_Sort_Title"				"排序方式："
+		"MainMenu_Addons_Filtering_Sort_TimeInstalled"		"订阅/添加时间"
 		"MainMenu_Addons_Filtering_Sort_Alpha"				"Alphabetical"
-		"MainMenu_Addons_Filtering_Sort_TimePublished"		"Upload/Published Date"
-		"MainMenu_Addons_Filtering_Sort_TimeLastUpdate"		"Last Updated Date"
+		"MainMenu_Addons_Filtering_Sort_TimePublished"		"上传/发布日期"
+		"MainMenu_Addons_Filtering_Sort_TimeLastUpdate"		"上次更新日期"
 		
 		// Filtering - Source Type
-		"MainMenu_Addons_Filtering_Sort_InstallSrc"			"Addon Source Type"
-		"MainMenu_Addons_Filtering_Sort_InstallSrc_Local"	"Local Install"
-		"MainMenu_Addons_Filtering_Sort_InstallSrc_UGC"		"Steam Workshop"
+		"MainMenu_Addons_Filtering_Sort_InstallSrc"			"插件来源"
+		"MainMenu_Addons_Filtering_Sort_InstallSrc_Local"	"本地安装"
+		"MainMenu_Addons_Filtering_Sort_InstallSrc_UGC"		"Steam创意工坊"
 		
 		// Filtering - Campaigns
 		// These are sourced from the internal tags in workshop.kv3
@@ -1267,38 +1269,38 @@
 		
 		// Filtering - Addon Tags
 		// These are sourced from the internal tags in workshop.kv3
-		"MainMenu_Addons_Filtering_Sort_AddonTags"				"Addon Tags"
-		"MainMenu_Addons_Filtering_Sort_AddonTags_Model"		"Models"
-		"MainMenu_Addons_Filtering_Sort_AddonTags_Mats"			"Materials/Textures"
+		"MainMenu_Addons_Filtering_Sort_AddonTags"				"插件类别"
+		"MainMenu_Addons_Filtering_Sort_AddonTags_Model"		"模型"
+		"MainMenu_Addons_Filtering_Sort_AddonTags_Mats"			"材质/贴图"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Scripts"		"Scripts"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Instance"		"Instances/Prefabs"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Theme"		"Theme"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Ported"		"Game Port"
 
 		// General Actions
-		"Common_On"									"On"
-		"Common_Off"								"Off"
-		"Common_Update"								"Update"
-		"Common_ComingSoon"							"Coming Soon!"
-		"Common_Gamemode"							"Gamemode"
-		"Common_Game"								"Game"
-		"Common_GameUpper"							"GAME"
+		"Common_On"									"开"
+		"Common_Off"								"关"
+		"Common_Update"								"更新"
+		"Common_ComingSoon"							"即将推出！"
+		"Common_Gamemode"							"游戏模式"
+		"Common_Game"								"游戏"
+		"Common_GameUpper"							"游戏"
 		"Common_Save"								"保存"
 		"Common_Close"								"关闭"
 		"Common_Cancel"								"取消"
 		"Common_OK"									"确定"
-		"Common_DontShowAgain"						"Don't show this again"
-		"Common_SelectAll"							"Select All"
-		"Common_Delete"								"Delete"
-		"Common_Remove"								"Remove"
-		"Common_Create"								"Create"
-		"Common_Edit"								"Edit"
-		"Common_Refresh"							"Refresh"
+		"Common_DontShowAgain"						"不再显示"
+		"Common_SelectAll"							"全选"
+		"Common_Delete"								"删除"
+		"Common_Remove"								"移除"
+		"Common_Create"								"新建"
+		"Common_Edit"								"编辑"
+		"Common_Refresh"							"刷新"
 		"Common_Search"								"搜索"
 		"Common_By"									"By"
 		"Common_SearchEllipsis"						"搜索..."
-		"Common_Multiplayer"						"Multiplayer"
-		"Common_Wiki"								"Open Wiki in Overlay"
+		"Common_Multiplayer"						"多人模式"
+		"Common_Wiki"								"在Steam叠加层打开Wiki"
 		
 		"Action_Yes"								"是的"
 		"Action_No"									"不"
@@ -1311,8 +1313,8 @@
 		"Action_Discard"							"撤销"
 		
 		// Feature Unavailable
-		"MainMenu_Feature_Unavailable_Title"		"Feature Not Available"
-		"MainMenu_Feature_Unavailable_Description"	"This feature is a work-in-progress and cannot be accessed at this time."
+		"MainMenu_Feature_Unavailable_Title"		"功能暂未开放"
+		"MainMenu_Feature_Unavailable_Description"	"该功能正在开发中，暂未开放。"
 		
 		// QuitPrompt
 		"Action_Quit"								"退出"
@@ -1320,8 +1322,8 @@
 		"Action_Quit_Message" 						"您确定要退出吗？"
 		"Action_Quit_InGame_Message"				"您确定要退出吗？\n\n未保存的进度可能丢失"
 		// quit_prompt console command
-		"MainMenu_ExitGameConfirmation_Title"		"Quit Game"
-		"MainMenu_ExitGameConfirmation_Message"		"Are you sure you want to quit the game?\n\nUnsaved progress may be lost."
+		"MainMenu_ExitGameConfirmation_Title"		"退出游戏"
+		"MainMenu_ExitGameConfirmation_Message"		"你确定要退出游戏吗？\n\n未保存的进度可能会丢失"
 		
 		// Loading Screen
 		"LoadingProgress_Connecting" 				"正在连接服务器..."
@@ -1340,24 +1342,24 @@
 		// Temp Notices
 		// Unfinished Software Reminder
 		"MainMenu_PrereleaseNotice_Title"			"这是不稳定的预发布软件"
-		"MainMenu_PrereleaseNotice_Description"		"《传送门2: 社区版》是一个模组开发框架。目前，它仍然是未完成的软件。此预览版本仅面向内容创作者；某些关键功能可能缺失或正在积极开发中，并且底层游戏引擎正在进行重大代码重构，这些重构会完全重写和/或移除过时的遗留代码，为更大的质量改进和新功能铺平道路。因此，《传送门2: 社区版》及其SDK工具的某些方面可能存在可能对您的模组开发工作流程产生重大影响的错误"
+		"MainMenu_PrereleaseNotice_Description"		"《传送门2: 社区版》是一个模组开发框架。目前，它仍然是未完成的软件。此预览版本仅面向内容创作者；某些关键功能可能缺失或正在积极开发中，并且底层游戏引擎正在进行重大代码重构，这些重构会完全重写和/或移除过时的遗留代码，为更大的质量改进和新功能铺平道路。因此，《传送门2: 社区版》及其SDK工具的某些方面可能存在可能对您的模组开发工作流程产生重大影响的错误
 
-The P2:CE campaign is also not finished, and is therefore not included in this preview release.
+《传送门2：社区版》的战役流程尚未完成，因此未包含在此预览版中。
 		
-We encourage you to file bug reports and feature requests on P2:CE's issue trackers at:
+我们鼓励您前往下列网站向《传送门2：社区版》提交问题报告和功能请求：
 
 	• https://github.com/StrataSource/Portal-2-Community-Edition
 	• https://github.com/StrataSource/Engine
 		
-By clicking on \"I Understand\", you acknowledge the risks involved in using this preview release. If you choose to decline these terms, P2:CE will exit.
+点击“我已了解”，即表示您已明白使用预发布版本所涉及的风险。若您选择拒绝，《传送门2：社区版》将退出。
 
-This message will only be displayed once, and will not be shown again upon acceptance."
+此信息仅显示一次，一旦确认，将不再显示。"
 
 		"MainMenu_Compat_Warning_Header"			"兼容性警告"
 		"MainMenu_Compat_Warning"					"<b>《传送门1》和《半衰期2》尚无法在《传送门2: 社区版》上完全正常运行</b>您可能会遇到诸如缺失或替换的材质、动画损坏、程序崩溃、缺失关键游戏元素等问题，但这并不是优先事项<b>请不要报告与《传送门1》/《半衰期2》相关的错误</b>"
 
-		"MainMenu_PrereleaseNotice_Acknowledge"		""
-		"MainMenu_PrereleaseNotice_Decline"			"Decline"
+		"MainMenu_PrereleaseNotice_Acknowledge"		"我已了解"
+		"MainMenu_PrereleaseNotice_Decline"			"拒绝"
 		
 		// Playtest DOSA
 		"MainMenu_PlaytestDOSA_Title"				"欢迎来到《传送门2: 社区版》游戏测试！"
@@ -1378,8 +1380,8 @@ This message will only be displayed once, and will not be shown again upon accep
 		"DependencyWarning_Generic"					"您缺少一个或多个保障正常运行所依赖的插件"
 		"DependencyWarning_Header"					"缺少依赖项"
 		"DependencyWarning_Desc"					"您尝试启动的内容依赖于您未拥有的插件，下面列出了您缺少的插件，点击插件可以在Steam叠加界面中打开其Steam创意工坊页面。您可以忽略此警告并继续，但请对可能出现的缺少纹理或模型等问题做好心理预期"
-		"DependencyWarning_Loading"					"Retrieving Details..."
-		"DependencyWarning_Failed"					"Failed to retrieve details!"
+		"DependencyWarning_Loading"					"正在获取详细信息..."
+		"DependencyWarning_Failed"					"获取详细信息失败！"
 		"DependencyWarning_Action_Ignore"			"管他呢，继续！"
 		"DependencyWarning_Action_Cancel"			"取消"
 		"DependencyWarning_Resolved_Header"			"依赖问题已解决"
