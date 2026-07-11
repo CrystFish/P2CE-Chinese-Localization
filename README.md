@@ -1,4 +1,4 @@
 # 传送门2：社区版 简体中文本地化项目
 正在施工中……
 
-请前往[P2CE官方Discord服务器]([https://p2ce.org/discord](https://discord.com/channels/663715905267564564/1523769609004781658))的中文本地化讨论帖进行相关讨论
+请前往[P2CE官方Discord服务器](https://discord.com/channels/663715905267564564/1523769609004781658)的中文本地化讨论帖进行相关讨论
