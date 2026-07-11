@@ -23,7 +23,7 @@
 		"SP_PRESENCE_TEXT_DEFAULT"				"正在游玩单人模式"
 		"SP_PRESENCE_TEXT_CH1"					"第一章\n礼性拜访"
 		"SP_PRESENCE_TEXT_CH2"					"第二章\n缓式启动"
-		"SP_PRESENCE_TEXT_CH3"					"第二加一章\n重出江湖"
+		"SP_PRESENCE_TEXT_CH3"					"第三章\n重出江湖"
 		"SP_PRESENCE_TEXT_CH4"					"第四章\n意外惊喜"
 		"SP_PRESENCE_TEXT_CH5"					"第五章\n穷途末路"
 		"SP_PRESENCE_TEXT_CH6"					"第六章\n未知坠落"
@@ -1185,7 +1185,7 @@
 		"MainMenu_Campaigns_P2CE_Description"		"[DEV - REPLACE ME] Temporary P2:CE Campaign Description"
 		
 		// for valve campaigns
-		"MainMenu_Campaigns_Valve_Author"			"维尔福软件公司"
+		"MainMenu_Campaigns_Valve_Author"			"Valve Software"
 		
 		// portal2
 		"MainMenu_Campaigns_portal2"				"《传送门2》"
@@ -1356,7 +1356,7 @@ This message will only be displayed once, and will not be shown again upon accep
 		"MainMenu_Compat_Warning_Header"			"兼容性警告"
 		"MainMenu_Compat_Warning"					"<b>《传送门1》和《半衰期2》尚无法在《传送门2: 社区版》上完全正常运行</b>您可能会遇到诸如缺失或替换的材质、动画损坏、程序崩溃、缺失关键游戏元素等问题，但这并不是优先事项<b>请不要报告与《传送门1》/《半衰期2》相关的错误</b>"
 
-		"MainMenu_PrereleaseNotice_Acknowledge"		"I Understand"
+		"MainMenu_PrereleaseNotice_Acknowledge"		""
 		"MainMenu_PrereleaseNotice_Decline"			"Decline"
 		
 		// Playtest DOSA
@@ -1446,7 +1446,7 @@ This message will only be displayed once, and will not be shown again upon accep
 		"GameUI_Disconnect_SteamTicket"						"Steam登录凭证无效"							// NETWORK_DISCONNECT_STEAM_TICKET
 		"GameUI_Disconnect_SteamLogon"						"玩家尚未登录Steam网络"			// NETWORK_DISCONNECT_STEAM_LOGON, NETWORK_DISCONNECT_STEAM_AUTHCANCELLED, NETWORK_DISCONNECT_STEAM_AUTHALREADYUSED, NETWORK_DISCONNECT_STEAM_AUTHINVALID
 		"GameUI_Disconnect_SteamVAC"						"该玩家因作弊被禁止参与在线游戏"		// NETWORK_DISCONNECT_STEAM_VACBANSTATE
-		"GameUI_Disconnect_SteamTimeOut"					"无法验证维尔福反作弊系统 (VAC) 的封禁状态"	// NETWORK_DISCONNECT_STEAM_VAC_CHECK_TIMEDOUT
+		"GameUI_Disconnect_SteamTimeOut"					"无法验证Valve反作弊系统 (VAC) 的封禁状态"	// NETWORK_DISCONNECT_STEAM_VAC_CHECK_TIMEDOUT
 		"GameUI_Disconnect_SteamDropped"					"您已断开与Steam网络的连接"	// NETWORK_DISCONNECT_STEAM_DROPPED
 		"GameUI_Disconnect_SteamOwnership"					"当前Steam帐户未持有《传送门 2》 和/ 或《传送门2: 社区版》的许可"	// NETWORK_DISCONNECT_STEAM_OWNERSHIP
 		"GameUI_Disconnect_LocalProblem_ManyRelays"			"多次尝试连接Steam数据报中继 (SDR) 服务器后，仍无法恢复游戏状态。这台计算机的网络连接可能存在问题"		// NETWORK_DISCONNECT_SNS_LOCAL_MANYRELAYS
