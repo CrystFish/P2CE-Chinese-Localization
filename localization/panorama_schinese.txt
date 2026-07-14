@@ -23,7 +23,7 @@
 		"SP_PRESENCE_TEXT_DEFAULT"				"正在游玩单人模式"
 		"SP_PRESENCE_TEXT_CH1"					"第一章\n礼性拜访"
 		"SP_PRESENCE_TEXT_CH2"					"第二章\n缓式启动"
-		"SP_PRESENCE_TEXT_CH3"					"第二加一章\n重出江湖"
+		"SP_PRESENCE_TEXT_CH3"					"第三章\n重出江湖"
 		"SP_PRESENCE_TEXT_CH4"					"第四章\n意外惊喜"
 		"SP_PRESENCE_TEXT_CH5"					"第五章\n穷途末路"
 		"SP_PRESENCE_TEXT_CH6"					"第六章\n未知坠落"
@@ -44,7 +44,7 @@
 
 		"COOP_PRESENCE_TRACK_DEFAULT"			"双人合作测试轨道"
 		"COOP_PRESENCE_TRACK_CALIBRATION"		"校准训练"
-		"COOP_PRESENCE_TRACK_HUB"				"正在享受大厅"
+		"COOP_PRESENCE_TRACK_HUB"				"在大厅闲逛"
 		"COOP_PRESENCE_TRACK_TRACK1"			"团队构筑"
 		"COOP_PRESENCE_TRACK_TRACK2"			"重力与加速度"
 		"COOP_PRESENCE_TRACK_TRACK3"			"强光"
@@ -73,7 +73,7 @@
 		"HL2_GameOver_Timer"				"任务: 已终止\n对象: 弗里曼\n缘由: 未能防止关键时间序列"
 		"HL2_GameOver_Stuck"				"任务: 已终止\n对象: 弗里曼\n缘由: 极其糟糕的判断能力"
 		
-		"Episodic_GameOver_AlyxDead"		"艾利克斯死了"
+		"Episodic_GameOver_AlyxDead"		"爱莉克斯死了"
 
 		// figure out a way to override these strings in episodic
 		"HL2_GameOver_Object_ep2"			"到此为止\n弗里曼博士不珍惜\n被认为对胜利至关重要的资源\n不可避免的厄运一瞥笼罩着漩渊精华"
@@ -81,27 +81,27 @@
 		"HL2_GameOver_Timer_ep2"			"一切到此为止\n弗里曼博士未能迅速取得胜利导致我们的彻底失败"
 		"HL2_GameOver_Stuck_ep2"			"任务: 已终止\n对象: 弗里曼\n缘由: 极其糟糕的判断能力"
 
-		"Portal_Portalgun"					"光圈科技手持式传送门设备\n(传送枪)"
+		"Portal_Portalgun"					"光圈科技手持式传送门设备\n（传送枪）"
 		
 		"HL2_Crowbar"						"撬棍"
-		"HL2_GravityGun"					"零点能量场操控器\n(重力枪)"
+		"HL2_GravityGun"					"零点能量场操控器\n（重力枪）"
 		"HL2_Pistol"						"9毫米手枪"
-		"HL2_357Handgun"					"9x33毫米左轮手枪\n(.357马格南)"
-		"HL2_SMG1"							"SMG\n(冲锋枪)"
-		"HL2_Pulse_Rifle"					"标准监视配备\n(脉冲步枪)"
-		"HL2_Shotgun"						"SPAS12\n(霰弹枪)"
+		"HL2_357Handgun"					"9x33毫米左轮手枪\n（.357马格南）"
+		"HL2_SMG1"							"SMG\n（冲锋枪）"
+		"HL2_Pulse_Rifle"					"标准监视配备\n（脉冲步枪）"
+		"HL2_Shotgun"						"SPAS12\n（霰弹枪）"
 		"HL2_Crossbow"						"钢筋弩"
 		"HL2_Grenade"						"破片手榴弹"
-		"HL2_RPG"							"RPG\n(火箭推进榴弹)"
-		"HL2_Bugbait"						"蚁狮信息素\n(虫饵)"
+		"HL2_RPG"							"RPG\n（火箭推进榴弹）"
+		"HL2_Bugbait"						"蚁狮信息素\n（虫饵）"
 
 		"HL2_SAVING"						"保存中..."
-		"HL2_Saved"							"已保存."
+		"HL2_Saved"							"已保存。"
 		
-		"HL2_SetupMicrophone"				"Configure Advanced Microphone Settings"
-		"HL2_SetupMicrophoneSteam"			"The Steam Overlay is currently disabled\nPlease enable the Steam Overlay or configure your microphone settings through the Steam client."
+		"HL2_SetupMicrophone"				"配置高级麦克风设置"
+		"HL2_SetupMicrophoneSteam"			"Steam叠加界面已被禁用。\n请启用Steam叠加界面或者在您的Steam客户端中配置语音设置。"
 
-		"HL2_Enable_Commentary"				"Enable commentary track"
+		"HL2_Enable_Commentary"				"启用解说音轨"
 
 		"portal2_Chapter1"					"第一章\n礼性拜访"
 		"portal2_Chapter1_Title"			"第一章"
@@ -191,25 +191,25 @@
 		"Portal_Chapter11_Title"			"测试室19"
 		"Portal_Chapter12_Title"			"测试完成"
 
-		"PORTAL2_CoopCommentary_Title1"		"Co-op\nConfidence Building"
-		"PORTAL2_CoopCommentary_Title2"		"Co-op\nThe Hub"
-		"PORTAL2_CoopCommentary_Title3"		"Co-op\nSecurity Room"
+		"PORTAL2_CoopCommentary_Title1"		"合作\n信任的建立"
+		"PORTAL2_CoopCommentary_Title2"		"合作\n大厅"
+		"PORTAL2_CoopCommentary_Title3"		"合作\n安全室"
 
 		"P2_Actions_Title"					"行动"
-		"P2_Coop_Title"						"CO-OP"
-		"P2_Primary_Attack"					"Fire Blue Portal"
-		"P2_Secondary_Attack"				"Fire Orange Portal"
+		"P2_Coop_Title"						"合作"
+		"P2_Primary_Attack"					"发射蓝色传送门"
+		"P2_Secondary_Attack"				"发射橙色传送门"
 		"P2_Zoom"							"切换放大"
 		"P2_Zoom_In"						"放大"
 		"P2_Zoom_Out"						"缩小"
-		"P2_Romote_View"					"Partner Remote View"
+		"P2_Romote_View"					"查看伙伴视角"
 		"P2_Mouse_Menu"						"交流菜单"
 		"P2_Taunt"							"动作菜单"
 
-		"P2_Taunt_Earned"					"动作 Deciphered"
+		"P2_Taunt_Earned"					"动作解读"
 
-		"P2_Scoreboard_Ping"				"Ping"
-		"P2_Scoreboard_Dead"				"Dead"
+		"P2_Scoreboard_Ping"				"交流数"
+		"P2_Scoreboard_Dead"				"死亡数"
 		"P2_Team_Red"						"P-body"
 		"P2_Team_Blue"						"Atlas"
 		"P2_Team_RedUpper"					"P-BODY"
@@ -218,83 +218,83 @@
 		"P2_ScoreBoard_Player"				"%s2 - %s1"
 		"P2_ScoreBoard_Players"				"%s2 - %s1s"
 
-		"Valve_Hint_Sprint"					"Sprint"
-		"Valve_Hint_GravGun"				"Punt and Pull Objects"
+		"Valve_Hint_Sprint"					"疾跑"
+		"Valve_Hint_GravGun"				"抛掷与拉起物品"
 
-		"Valve_Hint_Look_Up"				"Look Up"
-		"Valve_Hint_Look_Down"				"Look Down"
-		"Valve_Hint_Use_Bed"				"Sleep"
-		"Valve_Hint_Movement_Keys"			"Walk"
-		"Valve_Hint_Say_Apple"				"Say \"Apple\""
-		"Valve_Hint_Talk"					"Yes"
+		"Valve_Hint_Look_Up"				"向上看"
+		"Valve_Hint_Look_Down"				"向下看"
+		"Valve_Hint_Use_Bed"				"睡觉"
+		"Valve_Hint_Movement_Keys"			"行走"
+		"Valve_Hint_Say_Apple"				"说 苹果"
+		"Valve_Hint_Talk"					"是"
 
-		"Valve_Hint_Crouch"					"Duck"
-		"Valve_Hint_Uncrouch"				"Stand Up"
-		"Valve_Hint_PushButton"				"Push Button"
-		"Valve_Hint_Interact"				"Interact"
+		"Valve_Hint_Crouch"					"蹲下"
+		"Valve_Hint_Uncrouch"				"站起"
+		"Valve_Hint_PushButton"				"按下按钮"
+		"Valve_Hint_Interact"				"互动"
 		"Valve_Hint_Jump"					"跳跃"
-		"Valve_Hint_Door"					"Open Door"
-		"Valve_Hint_Lever"					"Pull Lever"
-		"Valve_Hint_Zoom"					"Zoom"
-		"Valve_Hint_Pickup_Glados"			"Pick Up GLaDOS"
-		"Valve_Hint_Socket"					"Activate Socket"
+		"Valve_Hint_Door"					"打开门"
+		"Valve_Hint_Lever"					"拉杠杆"
+		"Valve_Hint_Zoom"					"缩放"
+		"Valve_Hint_Pickup_Glados"			"拾取 GLaDOS"
+		"Valve_Hint_Socket"					"激活插座"
 
-		"Valve_Hint_USEPickup"				"Pick up object"
+		"Valve_Hint_USEPickup"				"拾取物体"
 
-		"Valve_Hint_CarryTurret"			"or use Gravity Gun to pick up Turret"
-		"Valve_Hint_CROSSBOW"				"Crossbow Zoom"
+		"Valve_Hint_CarryTurret"			"或用重力枪拾取机枪塔"
+		"Valve_Hint_CROSSBOW"				"十字弓瞄准距离缩放"
 
 		// PORTAL 2 INSTRUCTOR HINTS
 		"PORTAL2_HINT_GESTURE"				"动作"
-		"PORTAL2_HINT_BUTTON_GESTURE"		"Do a gesture"
-		"PORTAL2_HINT_SEE_NEW_GESTURE"		"Check out your new gesture!"
-		"PORTAL2_HINT_PING"					"Use your Ping Tool"
-		"PORTAL2_HINT_PING_WAIT"			"Wait for your partner's choice"
+		"PORTAL2_HINT_BUTTON_GESTURE"		"做一个动作"
+		"PORTAL2_HINT_SEE_NEW_GESTURE"		"看看新动作"
+		"PORTAL2_HINT_PING"					"使用你的交流工具"
+		"PORTAL2_HINT_PING_WAIT"			"等待伙伴选择"
 
 		// Instructor
-		"Instructor_Air_Taunt"				"Air 动作"
+		"Instructor_Air_Taunt"				"空中动作"
 		"Instructor_New_Taunt_Earned"		"动作"
-		"Instructor_Partner_View"			"Hold for Partner View"
-		"Instructor_Start_Countdown"		"Hold for Countdown"
-		"Instructor_Return_To_Hub"			"Go to Hub"
-		"Instructor_Create_Blue_Portal"		"Create Blue Portal"
-		"Instructor_Create_Purple_Portal"	"Create Purple Portal"
-		"Instructor_Create_Orange_Portal"	"Create Orange Portal"
-		"Instructor_Create_Red_Portal"		"Create Red Portal"
-		"Instructor_Walk"					"Walk"
-		"Instructor_Push_Button"			"Activate"
-		"Instructor_Pick_Up"				"Pick Up"
-		"Instructor_Drop"					"Drop"
+		"Instructor_Partner_View"			"按住查看伙伴视角"
+		"Instructor_Start_Countdown"		"按住开始倒计时"
+		"Instructor_Return_To_Hub"			"回到大厅"
+		"Instructor_Create_Blue_Portal"		"建立蓝色传送门"
+		"Instructor_Create_Purple_Portal"	"建立紫色传送门"
+		"Instructor_Create_Orange_Portal"	"建立橙色传送门"
+		"Instructor_Create_Red_Portal"		"建立红色传送门"
+		"Instructor_Walk"					"行走"
+		"Instructor_Push_Button"			"激活"
+		"Instructor_Pick_Up"				"拾取"
+		"Instructor_Drop"					"放下"
 		"Instructor_Jump"					"跳跃"
-		"Instructor_Unzoom"					"Unzoom"
-		"Instructor_Zoom"					"Zoom"
-		"Instructor_SS_Control"				"Press to Control Other Player"
+		"Instructor_Unzoom"					"不缩放"
+		"Instructor_Zoom"					"缩放"
+		"Instructor_SS_Control"				"按键以控制其他玩家"
 
-		"Paint_Instructor_teach_bounce_suppression"				"Hold to prevent bouncing"
+		"Paint_Instructor_teach_bounce_suppression"				"按住以停止弹跳"
 		
 		// Invites
-		"P2COOP_Invite_Title"						"Portal 2 Invite"
-		"P2COOP_Invite_Body"						"You have been invited to play a Portal 2 cooperative game!"
+		"P2COOP_Invite_Title"						"《传送门2》邀请"
+		"P2COOP_Invite_Body"						"您已被邀请进行《传送门2》的合作游戏！"
 
 		// COOP
-		"P2COOP_TrackName_1"						"Team Building"
-		"P2COOP_TrackName_2"						"Mass and Velocity"
-		"P2COOP_TrackName_3"						"Hard-Light Surfaces"
-		"P2COOP_TrackName_4"						"Excursion Funnels"
-		"P2COOP_TrackName_5"						"Mobility Gels"
-		"P2COOP_TrackName_6"						"Advanced Chambers"
+		"P2COOP_TrackName_1"						"团队构筑"
+		"P2COOP_TrackName_2"						"重力与加速度"
+		"P2COOP_TrackName_3"						"强光"
+		"P2COOP_TrackName_4"						"牵引光束"
+		"P2COOP_TrackName_5"						"流动凝胶"
+		"P2COOP_TrackName_6"						"进阶测试"
 
-		"P2COOP_WAITINGFORPARTNER"					"Waiting for Partner"
+		"P2COOP_WAITINGFORPARTNER"					"等待伙伴中"
 
-		"P2COOP_SelectScreen_SelectNoOption"		"Please proceed to the disassembly\nchambers."
-		"P2COOP_SelectScreen_Select"				"Please select a level, then\nproceed to the disassembly chambers."
-		"P2COOP_SelectScreen_CourseNum"				"Course {s:coop_course_name}"
-		"P2COOP_SelectScreen_PercentComplete"		"{i:coop_completion_percentage}% COMPLETED"
+		"P2COOP_SelectScreen_SelectNoOption"		"请前进到拆卸房间。"
+		"P2COOP_SelectScreen_Select"				"请选择关卡，然后\n前进到拆卸房间。"
+		"P2COOP_SelectScreen_CourseNum"				"测试 {s:coop_course_name}"
+		"P2COOP_SelectScreen_PercentComplete"		"已完成 {i:coop_completion_percentage}%"
 		
 		// CSGO Pano
-		"UI_Submit"									"Submit"
-		"UI_Select"									"Select"
-		"UI_Inspect"								"Inspect"
+		"UI_Submit"									"提交"
+		"UI_Select"									"选择"
+		"UI_Inspect"								"取消选择"
 		"UI_LeftStick_Short"						"LS"
 		"UI_RightStick_Short"						"RS"
 		"UI_LeftTrigger_Short"						"LT"
@@ -308,29 +308,29 @@
 		"UI_XButton"								"X"
 		"UI_YButton"								"Y"
 		"UI_Cancel"									"取消"
-		"UI_Dismiss" 								"DISMISS"
-		"UI_OK"										"OK"
-		"UI_Done"									"DONE"
-		"UI_Yes"									"YES"
-		"UI_No"										"NO"
-		"UI_Unknown"								"UNKNOWN"
-		"UI_Always"									"ALWAYS"
-		"UI_Select_Footer"							"SELECT"
+		"UI_Dismiss" 								"关闭"
+		"UI_OK"										"确定"
+		"UI_Done"									"确定"
+		"UI_Yes"									"是"
+		"UI_No"										"否"
+		"UI_Unknown"								"未知"
+		"UI_Always"									"总是"
+		"UI_Select_Footer"							"选择"
 		"UI_Cancel_Footer"							"取消"
 		"UI_Back_Footer" 							"返回"
-		"UI_Alert"									"Alert"
-		"UI_Help" 									"Help"
+		"UI_Alert"									"注意"
+		"UI_Help" 									"帮助"
 
-		"UI_Backspace"								"BACKSPACE"
-		"UI_Spacebar"								"SPACE"
-		"UI_MoveCaret"								"MOVE CURSOR"
-		"UI_MoveCaretLeft"							"뿯½ CURSOR"
-		"UI_MoveCaretRight"							"CURSOR 뿯½"
-		"UI_InputDone"								"DONE"
-		"UI_MoreOptions"							"MORE OPTIONS"
-		"UI_SendMessage"							"SEND"
-		"UI_Languages"								"LANGUAGES"
-		"UI_Next" 									"NEXT"
+		"UI_Backspace"								"退格"
+		"UI_Spacebar"								"空格"
+		"UI_MoveCaret"								"移动光标"
+		"UI_MoveCaretLeft"							"« 光标"
+		"UI_MoveCaretRight"							"光标 »"
+		"UI_InputDone"								"确定"
+		"UI_MoreOptions"							"更多选项"
+		"UI_SendMessage"							"发送"
+		"UI_Languages"								"语言"
+		"UI_Next" 									"下一页"
 
 		"UI_CurrentItemInGroup"						"{d:current_item} / {d:total_items}"
 
@@ -345,113 +345,113 @@
 		"UI_Second"									"秒"
 		"UI_UnknownTime"							"未知"
 
-		"UI_Label_CopySelected"						"Copy selected text"
-		"UI_Label_OpenLinkInBrowser"				"Open URL in browser"
-		"UI_Label_CopyURLToClipboard" 				"Copy URL to clipboard"
+		"UI_Label_CopySelected"						"复制所选文本"
+		"UI_Label_OpenLinkInBrowser"				"在浏览器中打开 URL"
+		"UI_Label_CopyURLToClipboard" 				"复制 URL 到剪贴板"
 
 		"UI_TextEntry_CutToClipboard"				"剪切"
 		"UI_TextEntry_CopyToClipboard"				"复制"
 		"UI_TextEntry_PasteClipboard"				"粘贴"
 
 		"UI_Agreements"								"协议"
-		"UI_ViewAgreements"							"查看SSA与隐私政策"
+		"UI_ViewAgreements"							"查看《Steam 订户协议》和《隐私政策》"
 		"UI_I_Agree"								"我同意"
 
 		"UI_ConfirmExitTitle"						"确认退出"
-		"UI_ConfirmExitMessage"						"你确定要退出吗？"
+		"UI_ConfirmExitMessage"						"确定要退出回桌面？"
 		"UI_Quit"									"退出"
 		"UI_Return"									"返回"
 		"UI_Continue"								"继续"
 
-		"Month_January"								"January"
-		"Month_February"							"February"
-		"Month_March"								"March"
-		"Month_April"								"April"
-		"Month_May"									"May"
-		"Month_June"								"June"
-		"Month_July"								"July"
-		"Month_August"								"August"
-		"Month_September"							"September"
-		"Month_October"								"October"
-		"Month_November"							"November"
-		"Month_December"							"December"
+		"Month_January"								"一月"
+		"Month_February"							"二月"
+		"Month_March"								"三月"
+		"Month_April"								"四月"
+		"Month_May"									"五月"
+		"Month_June"								"六月"
+		"Month_July"								"七月"
+		"Month_August"								"八月"
+		"Month_September"							"九月"
+		"Month_October"								"十月"
+		"Month_November"							"十一月"
+		"Month_December"							"十二月"
 
-		"Panorama_Lang_English"						"English"
-		"Panorama_Lang_Spanish"						"Spanish"
-		"Panorama_Lang_French"						"French"
-		"Panorama_Lang_Italian"						"Italian"
-		"Panorama_Lang_German"						"German"
-		"Panorama_Lang_Greek"						"Greek"
-		"Panorama_Lang_Korean"						"Korean"
+		"Panorama_Lang_English"						"英语"
+		"Panorama_Lang_Spanish"						"西班牙语"
+		"Panorama_Lang_French"						"法语"
+		"Panorama_Lang_Italian"						"意大利语"
+		"Panorama_Lang_German"						"德语"
+		"Panorama_Lang_Greek"						"希腊语"
+		"Panorama_Lang_Korean"						"韩语"
 		"Panorama_Lang_Simplified_Chinese"			"简体中文"
-		"Panorama_Lang_Traditional_Chinese"			"Traditional Chinese"
-		"Panorama_Lang_Russian"						"Russian"
-		"Panorama_Lang_Thai"						"Thai"
-		"Panorama_Lang_Japanese"					"Japanese"
-		"Panorama_Lang_Portuguese"					"Portuguese"
-		"Panorama_Lang_Brazilian"				 	"Brazilian Portuguese"
-		"Panorama_Lang_Polish"						"Polish"
-		"Panorama_Lang_Danish"						"Danish"
-		"Panorama_Lang_Dutch"						"Dutch"
-		"Panorama_Lang_Finnish"						"Finnish"
-		"Panorama_Lang_Norwegian"					"Norwegian"
-		"Panorama_Lang_Swedish"						"Swedish"
-		"Panorama_Lang_Czech"						"Czech"
-		"Panorama_Lang_Hungarian"					"Hungarian"
-		"Panorama_Lang_Romanian"					"Romanian"
-		"Panorama_Lang_Bulgarian"					"Bulgarian"
-		"Panorama_Lang_Turkish"						"Turkish"
-		"Panorama_Lang_Arabic"						"Arabic"
-		"Panorama_Lang_Ukrainian"					"Ukrainian"
+		"Panorama_Lang_Traditional_Chinese"			"繁体中文"
+		"Panorama_Lang_Russian"						"俄语"
+		"Panorama_Lang_Thai"						"泰语"
+		"Panorama_Lang_Japanese"					"日语"
+		"Panorama_Lang_Portuguese"					"葡萄牙语"
+		"Panorama_Lang_Brazilian"	 				"葡萄牙语-巴西"
+		"Panorama_Lang_Polish"						"波兰语"
+		"Panorama_Lang_Danish"						"丹麦语"
+		"Panorama_Lang_Dutch"						"荷兰语"
+		"Panorama_Lang_Finnish"						"芬兰语"
+		"Panorama_Lang_Norwegian"					"挪威语"
+		"Panorama_Lang_Swedish"						"瑞典语"
+		"Panorama_Lang_Czech"						"捷克语"
+		"Panorama_Lang_Hungarian"					"匈牙利语"
+		"Panorama_Lang_Romanian"					"罗马尼亚语"
+		"Panorama_Lang_Bulgarian"					"保加利亚语"
+		"Panorama_Lang_Turkish"						"土耳其语"
+		"Panorama_Lang_Arabic"						"阿拉伯语"
+		"Panorama_Lang_Ukrainian"					"乌克兰语"
 
-		"Panorama_Lang_Footer_English"				"ENGLISH"
-		"Panorama_Lang_Footer_Spanish"				"SPANISH"
-		"Panorama_Lang_Footer_French"				"FRENCH"
-		"Panorama_Lang_Footer_Italian"				"ITALIAN"
-		"Panorama_Lang_Footer_German"				"GERMAN"
-		"Panorama_Lang_Footer_Greek"				"GREEK"
-		"Panorama_Lang_Footer_Korean"				"KOREAN"
-		"Panorama_Lang_Footer_Simplified_Chinese"	"简中"
-		"Panorama_Lang_Footer_Traditional_Chinese"	"TRAD. CHINESE"
-		"Panorama_Lang_Footer_Russian"				"RUSSIAN"
-		"Panorama_Lang_Footer_Thai"					"THAI"
-		"Panorama_Lang_Footer_Japanese"				"JAPANESE"
-		"Panorama_Lang_Footer_Portuguese"			"PORTUGUESE"
-		"Panorama_Lang_Footer_Brazilian"	 		"BR-PORTUGUESE"
-		"Panorama_Lang_Footer_Polish"				"POLISH"
-		"Panorama_Lang_Footer_Danish"				"DANISH"
-		"Panorama_Lang_Footer_Dutch"				"DUTCH"
-		"Panorama_Lang_Footer_Finnish"				"FINNISH"
-		"Panorama_Lang_Footer_Norwegian"			"NORWEGIAN"
-		"Panorama_Lang_Footer_Swedish"				"SWEDISH"
-		"Panorama_Lang_Footer_Czech"				"CZECH"
-		"Panorama_Lang_Footer_Hungarian"			"HUNGARIAN"
-		"Panorama_Lang_Footer_Romanian"				"ROMANIAN"
-		"Panorama_Lang_Footer_Bulgarian"			"BULGARIAN"
-		"Panorama_Lang_Footer_Turkish"				"TURKISH"
-		"Panorama_Lang_Footer_Ukrainian"			"UKRAINIAN"
+		"Panorama_Lang_Footer_English"				"英语"
+		"Panorama_Lang_Footer_Spanish"				"西班牙语"
+		"Panorama_Lang_Footer_French"				"法语"
+		"Panorama_Lang_Footer_Italian"				"意大利语"
+		"Panorama_Lang_Footer_German"				"德语"
+		"Panorama_Lang_Footer_Greek"				"希腊语"
+		"Panorama_Lang_Footer_Korean"				"韩语"
+		"Panorama_Lang_Footer_Simplified_Chinese"	"简体中文"
+		"Panorama_Lang_Footer_Traditional_Chinese"	"繁体中文"
+		"Panorama_Lang_Footer_Russian"				"俄罗斯语"
+		"Panorama_Lang_Footer_Thai"					"泰语"
+		"Panorama_Lang_Footer_Japanese"				"日语"
+		"Panorama_Lang_Footer_Portuguese"			"葡萄牙语"
+		"Panorama_Lang_Footer_Brazilian"	 		"葡萄牙语-巴西"
+		"Panorama_Lang_Footer_Polish"				"波兰语"
+		"Panorama_Lang_Footer_Danish"				"丹麦语"
+		"Panorama_Lang_Footer_Dutch"				"荷兰语"
+		"Panorama_Lang_Footer_Finnish"				"芬兰语"
+		"Panorama_Lang_Footer_Norwegian"			"挪威语"
+		"Panorama_Lang_Footer_Swedish"				"瑞典语"
+		"Panorama_Lang_Footer_Czech"				"捷克语"
+		"Panorama_Lang_Footer_Hungarian"			"匈牙利语"
+		"Panorama_Lang_Footer_Romanian"				"罗马尼亚语"
+		"Panorama_Lang_Footer_Bulgarian"			"保加利亚语"
+		"Panorama_Lang_Footer_Turkish"				"土耳其语"
+		"Panorama_Lang_Footer_Ukrainian"			"乌克兰语"
 
-		"Panorama_MoviePlaybackError"				"An error ocurred during video playback"
+		"Panorama_MoviePlaybackError"				"回放时发生错误"
 
-		"Debugger_PaintInfo"						"Show Paint Info"
-		"Debugger_Style"							"Style"
-		"Debugger_Computed"							"Computed"
-		"Debugger_Measurements"						"Measurements:"
-		"Debugger_Misc"								"Misc:"
-		"Debugger_Properties"						"Properties:"
+		"Debugger_PaintInfo"						"显示上色信息"
+		"Debugger_Style"							"样式"
+		"Debugger_Computed"							"已计算"
+		"Debugger_Measurements"						"尺寸："
+		"Debugger_Misc"								"杂项："
+		"Debugger_Properties"						"属性："
 		"Debugger_StyleFileLink"					"{s:stylefile}"
 		"Debugger_LayoutFileLink"					"{s:layoutfile}"
-		"Debugger_LayoutFileLink_Code"				"From XML/Code"	
-		"Debugger_InheritedStyleHeader"				"Inherited from "
-		"Debugger_Save"								"Save All Changes"
-		"Debugger_Revert"							"Revert All Changes"
-		"Debugger_PanelStyleInvalid"				"Styles changed while editing! Hit F5 to reload displayed styles"
-		"Debugger_AnimationHeader"					"Animation Keyframes"
-		"Debugger_ToggleTheme"						"Toggle Theme"
-		"Debugger_DevInfo"							"Show Dev Info"
-		"Debugger_Smaller"							"Smaller"
-		"Debugger_Larger"							"Larger"
-		"Debugger_ResetSize"						"Reset Size"
+		"Debugger_LayoutFileLink_Code"				"来自 XML/代码"	
+		"Debugger_InheritedStyleHeader"				"继承自"
+		"Debugger_Save"								"保存全部更改"
+		"Debugger_Revert"							"撤销全部更改"
+		"Debugger_PanelStyleInvalid"				"编辑时样式变更！按下 F5 键重新载入显示样式"
+		"Debugger_AnimationHeader"					"动画关键帧"
+		"Debugger_ToggleTheme"						"切换主题"
+		"Debugger_DevInfo"							"显示开发者信息"
+		"Debugger_Smaller"							"▼ 更小"
+		"Debugger_Larger"							"▲ 更大"
+		"Debugger_ResetSize"						"重置尺寸"
 
 		"Console_Title"								"控制台"
 
@@ -469,7 +469,7 @@
 		"Settings_General_Disabled"						"已禁用"
 		"Settings_General_Auto"							"自动"
 		"Settings_General_Autodetect"					"自动检测"
-		"Settings_General_EngineersToast"				"The Engineer's Toaster"	// YEAH, TOAST!!!!!!
+		"Settings_General_EngineersToast"				"工程师的面包机"	// YEAH, TOAST!!!!!!
 		"Settings_General_Potato"						"PotatOS级"
 		"Settings_General_VeryLow"						"非常低"
 		"Settings_General_Low"							"低"
@@ -478,16 +478,16 @@
 		"Settings_General_VeryHigh"						"非常高"
 		"Settings_General_StupidlyLudricous"			"启用服务器爆炸!!!模式"	// SERVER EXPLOSION IMMINENT
 		"Settings_General_ViewDocs"						"查看文献"
-		"Settings_General_MapReload"					"此设置更改需要重新加载地图才能生效"
+		"Settings_General_MapReload"					"此设置更改需要重新加载地图才能生效。"
 		"Settings_General_Command"						"指令"
 		"Settings_General_Convar"						"控制台变量"
-		"Settings_General_OutOfBounds"					"此设置的当前值超出了其指定范围。可能无法正常工作"
+		"Settings_General_OutOfBounds"					"此设置的当前值超出了其指定范围。可能无法正常工作。"
 		"Settings_General_Search_Prompt" 				"搜索设置..."
 		"Settings_General_Search_Results"				"搜索结果"
 		"Settings_General_Search_EmptyHeader"			"无搜索结果"
-		"Settings_General_Search_EmptyNoResults"		"您的搜索在设置菜单中未匹配到任何结果"
+		"Settings_General_Search_EmptyNoResults"		"您的搜索在设置菜单中未匹配到任何结果。"
 		"Settings_General_Search_OneCharHeader"			"查询不完整"
-		"Settings_General_Search_OneCharDesc"			"您的搜索查询包含单字母词"
+		"Settings_General_Search_OneCharDesc"			"您的搜索查询包含单字母词。"
 		"Settings_General_Search_MatchedEnglishTag"		"匹配的 "
 		"Settings_General_Search_VeryFull"				"{s:count} 个更匹配的"
 		"Settings_General_Search_VeryFull_Plural"		"{s:count} 个更匹配的"
@@ -500,7 +500,7 @@
 		"Settings_ImportExport_ImportExport"			"导入/导出"
 		"Settings_ImportExport_ImportSettings"			"导入设置"
 		"Settings_ImportExport_Success"					"导入成功！"
-		"Settings_ImportExport_Success_Excluded"		"一些无效的参数已被排除"
+		"Settings_ImportExport_Success_Excluded"		"一些无效的参数已被排除。"
 		"Settings_ImportExport_Failure"					"导入失败！"
 		"Settings_ImportExport_Failed"					"设置导入解析器失败！"
 		"Settings_ImportExport_Invalid"					"无效"
@@ -508,39 +508,39 @@
 		"Settings_ImportExport_B64Warning"				"注意: Base64字符串可能会因更新而失效。如果您希望其保存得更久，请使用常规模式！"
 		"Settings_ImportExport_Error_NoCvars"			"输入不包含任何参数，您是在尝试转换Base64吗？"
 		"Settings_ImportExport_Error_NoSettings"		"无导入的设置！"
-		"Settings_ImportExport_Error_Outdated"			"代码似乎已经失效"
+		"Settings_ImportExport_Error_Outdated"			"代码似乎已经失效。"
 
 		// Settings - Audio
 		"Settings_Audio"									"音效"
 		"Settings_Volume_Title"								"音量"
 		"Settings_Volume_Game"								"游戏音量"
-		"Settings_Volume_Game_info"							"为所有游戏内音效调节音量"
+		"Settings_Volume_Game_info"							"为所有游戏内音效调节音量。"
 		"Settings_Volume_Ambient"							"环境音量"
-		"Settings_Volume_Ambient_info"						"决定各种环境杂音（鸟鸣、风声、机器声等）的音量"
+		"Settings_Volume_Ambient_info"						"决定各种环境杂音（鸟鸣、风声、机器声等）的音量。"
 		"Settings_Volume_Music"								"音乐音量"
-		"Settings_Volume_Music_info"						"决定音乐播放的音量"
+		"Settings_Volume_Music_info"						"决定音乐播放的音量。"
 		"Settings_Volume_UI"								"UI音量"
-		"Settings_Volume_UI_info"							"为界面音效调节音量"
+		"Settings_Volume_UI_info"							"为界面音效调节音量。"
 		"Settings_Volume_Physics"							"物理音量"
-		"Settings_Volume_Physics_info"						"为物理交互（伤害、冲击等）音效调节音量"
+		"Settings_Volume_Physics_info"						"为物理交互（伤害、冲击等）音效调节音量。"
 		"Settings_Volume_Footsteps"							"脚步音量"
-		"Settings_Volume_Footsteps_info"					"为玩家与NPC的脚步调节音量"
+		"Settings_Volume_Footsteps_info"					"为玩家与NPC的脚步调节音量。"
 		"Settings_Volume_PlayerWeapon"						"玩家武器音量"
-		"Settings_Volume_PlayerWeapon_info"					"为玩家的战斗交互调节音量"
+		"Settings_Volume_PlayerWeapon_info"					"为玩家的战斗交互调节音量。"
 		"Settings_Volume_OverallWeapon"						"总体武器音量"
-		"Settings_Volume_OverallWeapon_info"				"为世界中所有战斗交互调节音量"
+		"Settings_Volume_OverallWeapon_info"				"为世界中所有战斗交互调节音量。"
 		"Settings_Volume_Background"						"失焦音量"
-		"Settings_Volume_Background_info"					"为窗口失焦时的游戏调节音量"
+		"Settings_Volume_Background_info"					"为窗口失焦时的游戏调节音量。"
 		
 		"Settings_ClosedCaptions_Title"						"字幕"
 		"Settings_ClosedCaptions_Enable"					"隐藏式字幕"
-		"Settings_ClosedCaptions_Enable_info"				"为听力受损用户开启字幕，噪音和对话将在屏幕上显示一段时间<br><img src=\"file://{images}/menu/p2ce-generic.png\" />"
+		"Settings_ClosedCaptions_Enable_info"				"为听力受损用户开启字幕，噪音和对话将在屏幕上显示一段时间。<br><img src=\"file://{images}/menu/p2ce-generic.png\" />"
 		"Settings_ClosedCaptions_Subtitles"					"仅限字幕"
-		"Settings_ClosedCaptions_Subtitles_info"			"启用此选项将使对话显示在屏幕上，需要启用字幕"
+		"Settings_ClosedCaptions_Subtitles_info"			"启用此选项将使对话显示在屏幕上，需要启用字幕。"
 		
 		// Storm - CC System Rewrite
 		"Settings_ClosedCaptions_Font"						"字体"
-		"Settings_ClosedCaptions_Font_info"					"决定字幕的字体"
+		"Settings_ClosedCaptions_Font_info"					"决定字幕的字体。"
 		"Settings_ClosedCaptions_Font_Lexend"				"Lexend (《传送门2: 社区版》/地层起源)"
 		"Settings_ClosedCaptions_Font_U0001"				"Univers (《传送门2》)"
 		"Settings_ClosedCaptions_Font_GorDIN"				"DIN 1451 / GorDIN (《半衰期2》)"
@@ -548,28 +548,28 @@
 		"Settings_ClosedCaptions_Font_NotoSans"				"Noto Sans (Steam大屏幕模式)"
 		"Settings_ClosedCaptions_Font_Stratum2"				"Stratum2 (CS:GO)"
 		"Settings_ClosedCaptions_FontSize"					"字体大小"
-		"Settings_ClosedCaptions_FontSize_info"				"决定屏幕上的字幕应以多大尺寸显示给用户。以每像素点数（pt）计算\n*译者注: 这个设置目前有问题，锁定为0调节不了是正常的"
+		"Settings_ClosedCaptions_FontSize_info"				"决定屏幕上的字幕应以多大尺寸显示给用户。以每像素点数（pt）计算。\n*译者注: 这个设置目前有问题，锁定为0调节不了是正常的"
 		"Settings_ClosedCaptions_BGOpacity"					"背景不透明度"
-		"Settings_ClosedCaptions_BGOpacity_info"			"控制屏幕字幕背景面板的不透明度\n较低的数值可能会导致可读性降低，并可能引起可读性问题。建议使用较暗的背景（或纯黑色）以获得最佳的可读性\n*译者注: 这个设置目前有问题，锁定为0%调节不了是正常的"
+		"Settings_ClosedCaptions_BGOpacity_info"			"控制屏幕字幕背景面板的不透明度。\n较低的数值可能会导致可读性降低，并可能引起可读性问题。建议使用较暗的背景（或纯黑色）以获得最佳的可读性。\n*译者注: 这个设置目前有问题，锁定为0%调节不了是正常的"
 		"Settings_ClosedCaptions_Alignment"					"文字对齐"
-		"Settings_ClosedCaptions_Alignment_info"			"对字幕的位置进行对齐"
+		"Settings_ClosedCaptions_Alignment_info"			"对字幕的位置进行对齐。"
 		"Settings_ClosedCaptions_Alignment_left"			"左侧"
 		"Settings_ClosedCaptions_Alignment_center"			"中心"
 		"Settings_ClosedCaptions_Alignment_right"			"右侧"
 		
 		"Settings_Audio_HRTF_Async_Title"					"多线程音频"
-		"Settings_Audio_HRTF_Async_Desc"					"将各个音频通道拆分到多个CPU线程中以提升性能"
+		"Settings_Audio_HRTF_Async_Desc"					"将各个音频通道拆分到多个CPU线程中以提升性能。"
 		
 		"Settings_AudioDevices_Title"						"音频设备设置"
 		"Settings_AudioDevices_Device"						"音频播放设备"
-		"Settings_AudioDevices_Device_info"					"确定游戏音频应从哪个设备输出"
+		"Settings_AudioDevices_Device_info"					"确定游戏音频应从哪个设备输出。"
 		"Settings_AudioDevices_Speaker_StereoHeadphones"	"立体声耳机"
 		"Settings_AudioDevices_Speaker_StereoSpeakers"		"立体声音响"
 		"Settings_AudioDevices_Speaker_Quad"				"四声道环绕声"
 		"Settings_AudioDevices_Speaker_51"					"5.1声道环绕声"
 		 "Settings_AudioDevices_Speaker_71" 				"7.1声道环绕声"	// Unsupported by CSGO and Strata?
 		"Settings_AudioDevices_Speaker"						"音频输出设置"
-		"Settings_AudioDevices_Speaker_info"				"通过根据特定设备配置将特定声音通道分配给各个扬声器，改变音频播放行为"
+		"Settings_AudioDevices_Speaker_info"				"通过根据特定设备配置将特定声音通道分配给各个扬声器，改变音频播放行为。"
 		
 		// Settings - Video
 		"Settings_Video"								"视频"
@@ -577,8 +577,8 @@
 
 		"Settings_Render_Title"							"渲染"
 		
-		"Settings_Video_Presets"						"质量预设（未实现）"
-		"Settings_Video_Presets_info"					"视频设置将根据此列表中预先确定的一系列变量进行设置，范围从低到高"
+		"Settings_Video_Presets"						"质量预设（暂未实现）"
+		"Settings_Video_Presets_info"					"视频设置将根据此列表中预先确定的一系列变量进行设置，范围从低到高。"
 
 		"Settings_Video_AspectRatio"					"纵横比"
 		"Settings_Video_AspectRatio_Normal"				"标准（4:3）"
@@ -593,27 +593,27 @@
 		"Settings_Video_DisplayMode_Windowed"			"窗口化"
 		
 		"Settings_Video_FOV"							"视野大小 (FOV)"
-		"Settings_Video_FOV_Info"						"控制玩家视野的最大可见范围，以度为单位"
+		"Settings_Video_FOV_Info"						"控制玩家视野的最大可见范围，以度为单位。"
 
 		"Settings_Video_MaxFPS"							"最大FPS"
 		"Settings_Video_MaxFPS_Info"					"FPS限制器，设置为0以取消限制"
 		"Settings_Video_LaptopPower"					"笔记本节能模式"
-		"Settings_Video_LaptopPower_Info"				"在节能模式下，游戏会刻意以较低的帧率运行，以节省电池电量，从而延长在电池供电下的游戏时间"
+		"Settings_Video_LaptopPower_Info"				"在节能模式下，游戏会刻意以较低的帧率运行，以节省电池电量，从而延长在电池供电下的游戏时间。"
 
 		"Settings_Video_Brightness"						"亮度"
-		"Settings_Video_Brightness_Info"				"更改显示屏的伽玛校正，调整整体亮度"
+		"Settings_Video_Brightness_Info"				"更改显示屏的伽玛校正，调整整体亮度。"
 
 		"Settings_Video_ColorMode"						"色彩模式"
 		"Settings_Video_ColorMode_Monitor"				"电脑显示器"
 		"Settings_Video_ColorMode_TV"					"电视"
 
 		"Settings_Render_VSync"							"垂直同步"
-		"Settings_Render_VSync_Info"					"垂直同步（V-Sync）通过确保每一帧的每个像素同时显示来消除屏幕撕裂\n在某些显示器上可能会带来更平滑的渲染效果，但会导致轻微的输入延迟，因此不推荐使用\n仅适用于全屏模式"
+		"Settings_Render_VSync_Info"					"垂直同步（V-Sync）通过确保每一帧的每个像素同时显示来消除屏幕撕裂。\n在某些显示器上可能会带来更平滑的渲染效果，但会导致轻微的输入延迟，因此不推荐使用。\n仅适用于全屏模式。"
 		"Settings_Render_VSync_Double"					"双缓冲"
 		"Settings_Render_VSync_Triple"					"三缓冲"
 		
 		"Settings_Render_FilteringMode"					"材质过滤模式"
-		"Settings_Render_FilteringMode_Info"			"提高纹理过滤设置可以改善游戏中纹理的外观\n提高过滤质量可能会降低图形性能"
+		"Settings_Render_FilteringMode_Info"			"提高纹理过滤设置可以改善游戏中纹理的外观。提高过滤质量可能会降低图形性能。"
 		"Settings_Render_FilteringMode_Bilinear"		"双线性"
 		"Settings_Render_FilteringMode_Trilinear"		"三线性"
 		"Settings_Render_FilteringMode_Aniso2X"			"各向异性 (2倍)"
@@ -622,88 +622,88 @@
 		"Settings_Render_FilteringMode_Aniso16X"		"各向异性 (16倍)"
 		
 		"Settings_Render_AntialiasingMode"				"多重采样抗锯齿（MSAA）"
-		"Settings_Render_AntialiasingMode_Info"			"抗锯齿在几何体边缘提供平滑的外观，消除锯齿状边缘\n提高抗锯齿质量可能会降低图形性能"
+		"Settings_Render_AntialiasingMode_Info"			"抗锯齿在几何体边缘提供平滑的外观，消除锯齿状边缘。提高抗锯齿质量可能会降低图形性能。"
 		"Settings_Render_AntialiasingMode_None"			"以禁用"
 		"Settings_Render_AntialiasingMode_2x_MSAA"		"2重采样"
 		"Settings_Render_AntialiasingMode_4x_MSAA"		"4重采样"
 		"Settings_Render_AntialiasingMode_8x_MSAA"		"8重采样"
 
 		"Settings_Render_FXAA" 							"快速近似抗锯齿（FXAA）"
-		"Settings_Render_FXAA_Info"						"抗锯齿可以在几何体的边缘提供平滑的外观，消除锯齿边缘\n启用 FXAA 可能会降低图形性能"
+		"Settings_Render_FXAA_Info"						"抗锯齿可以在几何体的边缘提供平滑的外观，消除锯齿边缘。启用 FXAA 可能会降低图形性能。"
 		
 		"Settings_Render_Bloom"							"泛光"
-		"Settings_Render_Bloom_Info"					"HDR泛光是指在非常明亮的物体或整体环境中看到的“光晕”效果\n这对图形性能没有影响"
+		"Settings_Render_Bloom_Info"					"HDR泛光是指在非常明亮的物体或整体环境中看到的“光晕”效果。这对图形性能没有影响。"
 
 		"Settings_Render_DynamicTonemapping"			"HDR色调映射"
-		"Settings_Render_DynamicTonemapping_Info"		"HDR色调映射是根据显示内容动态增加或减少屏幕曝光的过程\n这对图形性能没有影响"
+		"Settings_Render_DynamicTonemapping_Info"		"HDR色调映射是根据显示内容动态增加或减少屏幕曝光的过程。这对图形性能没有影响。"
 
 		"Settings_Render_ColorCorrection"				"色彩校正"
 		"Settings_Render_ColorCorrection_Info"			"色彩校正用于某些地图，通过改变色彩平衡以实现特定的美学效果\n这对图形性能没有影响"
 
 		"Settings_Render_Multicore"						"多核渲染"
-		"Settings_Render_Multicore_Info"				"多核渲染允许《传送门2: 社区版》在系统中的多个 CPU 和 GPU 核心之间分配渲染任务\n禁用此设置可能会对整体帧率和画质产生负面影响"
+		"Settings_Render_Multicore_Info"				"多核渲染允许《传送门2: 社区版》在系统中的多个 CPU 和 GPU 核心之间分配渲染任务。禁用此设置可能会对整体帧率和画质产生负面影响。"
 
 		"Settings_Render_ShaderDetail"					"着色器细节"
-		"Settings_Render_ShaderDetail_Info"				"着色器细节控制游戏中应用于表面的光照和阴影效果的复杂程度\n较高的设置可以提高视觉质量，但可能会降低图形性能"
+		"Settings_Render_ShaderDetail_Info"				"着色器细节控制游戏中应用于表面的光照和阴影效果的复杂程度。较高的设置可以提高视觉质量，但可能会降低图形性能。"
 
 		"Settings_Render_EffectDetail"					"效果细节"
-		"Settings_Render_EffectDetail_Info"				"效果细节控制游戏中某些视觉效果的复杂程度以及可视距离\n降低效果细节可能会提升性能，但也会增加模型弹出现象"
+		"Settings_Render_EffectDetail_Info"				"效果细节控制游戏中某些视觉效果的复杂程度以及可视距离。降低效果细节可能会提升性能，但也会增加模型弹出现象。"
 
 		"Settings_Render_Model"							"模型细节"
-		"Settings_Render_Model_Info"					"模型细节设置控制游戏中模型的几何复杂度\n降低此设置可能会在低端系统上提高性能，但会降低图像质量"
+		"Settings_Render_Model_Info"					"模型细节设置控制游戏中模型的几何复杂度。降低此设置可能会在低端系统上提高性能，但会降低图像质量。"
 
 		"Settings_Render_Texture"						"纹理质量"
-		"Settings_Render_Texture_Info"					"纹理质量设置控制游戏中纹理的分辨率\n降低此设置可能会显著提高低端系统的性能，但会降低图像质量"
+		"Settings_Render_Texture_Info"					"纹理质量设置控制游戏中纹理的分辨率。降低此设置可能会显著提高低端系统的性能，但会降低图像质量。"
 
 		"Settings_Render_ShadowQuality"					"全局阴影质量"
-		"Settings_Render_ShadowQuality_Info"			"全局阴影质量控制游戏中投射到表面上的动态阴影的保真度\n更高的设置可以提高视觉质量，但可能会降低CPU和图形性能"
+		"Settings_Render_ShadowQuality_Info"			"全局阴影质量控制游戏中投射到表面上的动态阴影的保真度。更高的设置可以提高视觉质量，但可能会降低CPU和图形性能。"
 
 		"Settings_Render_MotionBlur"					"运动模糊"
-		"Settings_Render_MotionBlur_Info"				"运动模糊是一种全屏着色器效果，它在相机角度或位置快速变化时选择性地平滑画面\n禁用此设置可能会略微提高图形性能"
+		"Settings_Render_MotionBlur_Info"				"运动模糊是一种全屏着色器效果，它在相机角度或位置快速变化时选择性地平滑画面。禁用此设置可能会略微提高图形性能。"
 
 		"Settings_Video_PStencilDepth" 					"传送门递归深度"
-		"Settings_Video_PStencilDepth_Info"				"此设置决定了传送门在渲染其中的廉价2D图像之前将递归的次数\n较低的值可能会导致失真\n*译者注: 这个设置我觉得差别不大，只要不调到0的话传送门不会有多大变化的"
+		"Settings_Video_PStencilDepth_Info"				"此设置决定了传送门在渲染其中的廉价2D图像之前将递归的次数。较低的值可能会导致失真。*译者注: 这个设置我觉得差别不大，只要不调到0的话传送门不会有多大变化的"
 
 		"Settings_Video_TripleMonitor"					"三重显示模式"
 		"Settings_Video_TripleMonitor_Info"				"将UI和HUD限制在显示屏的中央三分之一区域。适用于跨三台显示器的显示屏。"
 
-		"Settings_TextureReplace_Title"					"Texture Loading"
-		"Settings_TextureReplace_Type"					"Default Error Texture Appearance"
-		"Settings_TextureReplace_Type_Info"				"What replacement texture to use for missing materials, for when certain games (e.g. HL2, CS:GO, TF2) are not installed and mounted.
-		<h2>Unshaded</h2>Unshaded purple and black error chekerboard textures seen in other Source Engine games. Not intended for gameplay, but makes it clear to map authors if a texture is missing.
-		<h2>Shaded</h2>Grey checkerboard textures, but with shading from map lighting, so should provide reasonably good visiblity ingame. Recommended for anyone playing with missing textures.
-		A map reload is required for this change to take effect."
-		"Settings_TextureReplace_0"						"Unshaded (Purple-Black)"
-		"Settings_TextureReplace_1"						"Shaded (Grey)"
-		"Settings_TextureReplace_TypeCubemap"			"Cubemap Error Texture Appearance"
-		"Settings_TextureReplace_TypeCubemap_Info"		"What replacement texture to use for missing cubemaps. Cubemaps are used to achieve reflective surfaces. They can be missing if a map didn't have them built as part of the compile process.
-		<h2>Unshaded (Purple-Black)</h2>Similar to identically-named default error texture.
-		<h2>Unshaded (Black)</h2>Black, non reflective texture, used when a map was not designed with cubemaps in mind. Recommended for gameplay.
-		<h2>Default Engine Cubemap</h2>Imitates reflection from preset surroundings. Does not take actual map geometry into account. Will not look convincing most of the time."
-		"Settings_TextureReplace_TypeCubemap_0"			"Unshaded (Purple-Black)"
-		"Settings_TextureReplace_TypeCubemap_1"			"Unshaded (Black)"
-		"Settings_TextureReplace_TypeCubemap_2"			"Default Engine Cubemap"
-		"Settings_TextureReplace_Advanced"				"Color-Accurate Error Texture Replacements"
-		"Settings_TextureReplace_Advanced_Info"			"Use a more gameplay-friendly approach for missing textures instead of default error textures.
-		<h2>Disabled</h2>Do not use this feature and use default error textures instead.
-		<h2>Colored</h2>Missing textures will be colored based on the surface's reflectivity data. This should be similar to the overall color of the missing texture. Use this on maps where the subsequent option falsely detects surfaces as water or the like.
-		<h2>Colored and Special Overrides</h2>Missing textures will be colored, like the above option, but will also detect transparent textures and provide meaningful replacements. Recommended unless you are mapping.
-		A map reload is required for this change to take effect."
-		"Settings_TextureReplace_Advanced_0"			"Disabled"
-		"Settings_TextureReplace_Advanced_1"			"Colored"
-		"Settings_TextureReplace_Advanced_2"			"Colored and Special Overrides"
-		"Settings_TextureReplace_ReplaceTexture"		"Replacement Base Texture"
-		"Settings_TextureReplace_ReplaceTexture_Info"	"What base texture to use when 'Color-accurate Error Texture Replacements' are enabled, previewable on the left. The approximated color will then get applied to it ingame.
-		Adds definition to textures, helpful for seeing depth and distance.
-		A map reload is required for this change to take effect."
-		"Settings_TextureReplace_Texture_None"			"None"
-		"Settings_TextureReplace_Texture_Noise"			"Noise"
-		"Settings_TextureReplace_Texture_Grid"			"Grid"
-		"Settings_TextureReplace_Texture_GridWithNoise"	"Grid with Noise"
-		"Settings_TextureReplace_Texture_Custom"		"Custom"
+		"Settings_TextureReplace_Title"					"纹理加载"
+		"Settings_TextureReplace_Type"					"默认错误纹理外观"
+		"Settings_TextureReplace_Type_Info"				"用于替代缺失材质的纹理。当某些游戏（例如 HL2、CS:GO、TF2）未安装或未挂载时，将使用所选替代纹理。
+		<h2>无光照</h2>与其他起源引擎游戏中相同的紫黑相间棋盘格纹理。不适合正常游玩，但能让地图作者更容易发现缺失的纹理。
+		<h2>受光照</h2>灰色棋盘格纹理，会受到地图光照影响，因此在游戏中具有较低的违和度。推荐遇到缺失纹理的玩家使用。
+		此更改需要重新加载地图后才会生效。"
+		"Settings_TextureReplace_0"						"无光照（紫黑）"
+		"Settings_TextureReplace_1"						"受光照（灰色）"
+		"Settings_TextureReplace_TypeCubemap"			"立方体贴图错误纹理外观"
+		"Settings_TextureReplace_TypeCubemap_Info"		"用于缺失立方体贴图时的替代纹理。立方体贴图用于实现反射表面。如果地图在编译过程中未生成立方体贴图，则可能会缺失。
+		<h2>无光照（紫黑）</h2>与同名默认错误纹理类似。
+		<h2>无光照（黑色）</h2>黑色、无反射纹理，适用于未针对立方体贴图设计的地图。推荐用于正常游玩。
+		<h2>引擎默认立方体贴图</h2>模拟来自预设环境的反射，不会考虑地图的实际几何结构，因此大多数情况下效果不会很真实。"
+		"Settings_TextureReplace_TypeCubemap_0"			"无光照（紫黑）"
+		"Settings_TextureReplace_TypeCubemap_1"			"无光照（黑色）"
+		"Settings_TextureReplace_TypeCubemap_2"			"引擎默认立方体贴图"
+		"Settings_TextureReplace_Advanced"				"为错误纹理着色"
+		"Settings_TextureReplace_Advanced_Info"			"使用更贴合游戏体验的方式处理缺失纹理，而不是展示默认错误纹理。
+		<h2>禁用</h2>不启用此功能，使用默认错误纹理。
+		<h2>着色</h2>根据表面的反射率数据为缺失纹理着色，使其整体颜色尽可能接近原始纹理。若下一项选项错误地将表面识别为水面等特殊材质，请使用此选项。
+		<h2>着色并应用特殊替换</h2>除为缺失纹理着色外，还会识别透明纹理等特殊材质并提供更合适的替代效果。除正在制作地图外推荐使用此选项。
+		此更改需要重新加载地图后才会生效。"
+		"Settings_TextureReplace_Advanced_0"			"禁用"
+		"Settings_TextureReplace_Advanced_1"			"着色"
+		"Settings_TextureReplace_Advanced_2"			"着色并应用特殊替换"
+		"Settings_TextureReplace_ReplaceTexture"		"替代基础纹理"
+		"Settings_TextureReplace_ReplaceTexture_Info"	"启用“颜色精确错误纹理替换”后，用作基础的替代纹理，可在左侧预览。游戏中将根据推测出的颜色对其进行着色。
+		可为纹理增加细节，有助于辨别深度和距离。
+		此更改需要重新加载地图后才会生效。"
+		"Settings_TextureReplace_Texture_None"			"无"
+		"Settings_TextureReplace_Texture_Noise"			"噪点"
+		"Settings_TextureReplace_Texture_Grid"			"网格"
+		"Settings_TextureReplace_Texture_GridWithNoise"	"带噪点的网格"
+		"Settings_TextureReplace_Texture_Custom"		"自定义"
 		
 		"Settings_Portal_Coop_SS_SplitMode"				"分屏方向"
-		"Settings_Portal_Coop_SS_SplitMode_info"		"确定分屏模式下两位玩家的视角应分割的方向\n<h2>水平</h2>玩家的视角将沿水平线分割，两者分别位于屏幕的顶部和底部\n<h2>垂直</h2>玩家的视角将沿垂直线分割，两者分别位于屏幕的左侧和右侧\n<h2>自动</h2>游戏将根据显示器的屏幕分辨率和宽高比自动决定选择哪种模式\n<movie src=\"file://{media}/sp_credits_bg.webm\" />"
+		"Settings_Portal_Coop_SS_SplitMode_info"		"确定分屏模式下两位玩家的视角应分割的方向。\n<h2>水平</h2>玩家的视角将沿水平线分割，两者分别位于屏幕的顶部和底部。\n<h2>垂直</h2>玩家的视角将沿垂直线分割，两者分别位于屏幕的左侧和右侧。\n<h2>自动</h2>游戏将根据显示器的屏幕分辨率和宽高比自动决定选择哪种模式。\n<movie src=\"file://{media}/sp_credits_bg.webm\" />"
 		"Settings_Portal_Coop_SS_SplitMode_auto"		"自动"
 		"Settings_Portal_Coop_SS_SplitMode_horiz"		"水平"
 		"Settings_Portal_Coop_SS_SplitMode_vert"		"垂直"
@@ -714,15 +714,15 @@
 		"Settings_Mouse_Title"							"鼠标"
 
 		"Settings_Mouse_Filter"							"鼠标过滤"
-		"Settings_Mouse_Filter_Info"					"在多帧上平滑鼠标移动"
+		"Settings_Mouse_Filter_Info"					"在多帧上平滑鼠标移动。"
 
 		"Settings_Mouse_Raw"							"原始输入"
-		"Settings_Mouse_Raw_Info"						"原始输入直接从设备读取鼠标数据，绕过操作系统设置，从而提供更准确的移动\n<h2>帧间对齐模式</h2>在其他起源引擎游戏中使用的原始方法\n<h2>Tick对齐模式</h2>一种更精确、对游戏帧率依赖性更低的改进方法\n<movie src=\"file://{media}/bluescreen.webm\" />"
+		"Settings_Mouse_Raw_Info"						"原始输入直接从设备读取鼠标数据，绕过操作系统设置，从而提供更准确的移动。\n<h2>帧间对齐模式</h2>在其他起源引擎游戏中使用的原始方法。\n<h2>Tick对齐模式</h2>一种更精确、对游戏帧率依赖性更低的改进方法。\n<movie src=\"file://{media}/bluescreen.webm\" />"
 		"Settings_Mouse_Raw_On_Old"						"开启（帧间对齐）"
 		"Settings_Mouse_Raw_On_New"						"开启（Tick对齐）"
 
 		"Settings_Mouse_Reverse"						"反转鼠标"
-		"Settings_Mouse_Reverse_Info"					"反转鼠标移动的方向\n这是毁掉你一天的绝佳方式"
+		"Settings_Mouse_Reverse_Info"					"反转鼠标移动的方向。\n这是毁掉你一天的绝佳方式。"
 
 		"Settings_Mouse_Sens"							"鼠标灵敏度"
 
@@ -741,8 +741,8 @@
 		"Keybind_Move_Right"							"向右移动"
 		"Keybind_Jump"									"跳跃"
 		"Keybind_Duck"									"蹲下"
-		"Keybind_Sprint"								"疾跑(更快)"
-		"Keybind_Walk"									"走(更慢)"
+		"Keybind_Sprint"								"疾跑（更快）"
+		"Keybind_Walk"									"走（更慢）"
 		"Keybind_Toggle_Jump"							"切换跳跃"
 		"Keybind_Toggle_Duck"							"切换蹲下"
 		"Keybind_Toggle_Sprint"							"切换疾跑"
@@ -771,11 +771,11 @@
 		"Keybind_Chat_Message_TeamOnly"					"文字交流（仅限队友）"
 		"Keybind_Chat_Voice"							"按键说话"
 		"Keybind_Coop_RemoteView"						"伙伴视角"
-		"Keybind_Coop_RemoteView_Info"					"展示你同伴的视角"
+		"Keybind_Coop_RemoteView_Info"					"展示你同伴的视角。"
 		"Keybind_Coop_PingTool"							"信号工具"
-		"Keybind_Coop_PingTool_Info"					"打开一个建议菜单，以便向您的合作伙伴传达特定的动作或位置"
+		"Keybind_Coop_PingTool_Info"					"打开一个建议菜单，以便向您的合作伙伴传达特定的动作或位置。"
 		"Keybind_Coop_Taunt"							"动作/嘲讽"
-		"Keybind_Coop_Taunt_Info"						"执行手势/嘲讽动作"
+		"Keybind_Coop_Taunt_Info"						"执行手势/嘲讽动作。"
 		
 		"Settings_Input_Keybinds_Misc"					"杂项"
 		"Keybind_Console"								"切换开发者控制台"
@@ -792,52 +792,52 @@
 		"Settings_Interface_Title"						"界面设置"
 		"Settings_Menu_Title"							"菜单界面"
 		"Settings_Menu_Movie"							"主菜单动态背景"
-		"Settings_Menu_Movie_Info"						"启用动态主菜单背景\n打开菜单时可能会有轻微的性能下降"
+		"Settings_Menu_Movie_Info"						"启用动态主菜单背景。打开菜单时可能会有轻微的性能下降。"
 
 		// Settings - Personalization
 		"Settings_Customization" 						"自定义"
 		
 		"Settings_Portal1_Title" 						"《传送门1》"
 		"Settings_Portal1_compat" 						"《传送门1》兼容模式"
-		"Settings_Portal1_compat_info" 					"启用与《传送门1》地图的向下兼容性"
+		"Settings_Portal1_compat_info" 					"启用与《传送门1》地图的向下兼容性。"
 		"Settings_Portal1_xhair" 						"准星样式"
-		"Settings_Portal1_xhair_info" 					"更改传送枪准星行为\n<h2>《传送门2》样式</h2>只显示已放置的传送门\n<h2>《传送门1》样式</h2>显示已放置的传送门以及一个圆形标记，用于确定是否可以在特定表面上放置传送门"
+		"Settings_Portal1_xhair_info" 					"更改传送枪准星行为。\n<h2>《传送门2》样式</h2>只显示已放置的传送门。\n<h2>《传送门1》样式</h2>显示已放置的传送门以及一个圆形标记，用于确定是否可以在特定表面上放置传送门。"
 		"Settings_Portal1_xhair_p2" 					"《传送门2》样式"
 		"Settings_portal1_xhair_p1" 					"《传送门1》样式"
 		
 		"Settings_Portals_Title" 						"传送门"
 		"Settings_Portals_PlayerFunnel"					"传送门漏斗"
-		"Settings_Portals_PlayerFunnel_info"			"在跳入传送门时，游戏将尝试修正玩家的位置和轨迹，以避免与相邻表面发生碰撞"
+		"Settings_Portals_PlayerFunnel_info"			"在跳入传送门时，游戏将尝试修正玩家的位置和轨迹，以避免与相邻表面发生碰撞。"
 		"Settings_Portals_dlight" 						"传送门动态光照"
 		"Settings_Portals_dlight_info" 					"允许传送门产生光照"
 		"Settings_Portals_light_intensity" 				"传送门光照强度"
-		"Settings_Portals_light_intensity_info"			"修改传送门发出的光照强度。需要\"传送门动态光照\"才能生效"
+		"Settings_Portals_light_intensity_info"			"修改传送门发出的光照强度。需要“传送门动态光照”才能生效。"
 		"Settings_Portals_altcolors" 					"自定义传送门颜色"
-		"Settings_Portals_altcolors_info" 				"允许玩家替代预设的传送门颜色\n这也将替代地图制作者自定义的任何传送门颜色"
+		"Settings_Portals_altcolors_info" 				"允许玩家替代预设的传送门颜色。这也将替代地图制作者自定义的任何传送门颜色。"
 		"Settings_Portals_altcolors_primary" 			"自定义主要传送门颜色"
-		"Settings_Portals_altcolors_primary_Info" 		"用于蓝色传送门（主开火）的替代颜色"
+		"Settings_Portals_altcolors_primary_Info" 		"用于蓝色传送门（主开火）的替代颜色。"
 		"Settings_Portals_altcolors_secondary" 			"自定义次要传送门颜色"
-		"Settings_Portals_altcolors_secondary_Info" 	"用于橙色传送门（副开火）的替代颜色"
+		"Settings_Portals_altcolors_secondary_Info" 	"用于橙色传送门（副开火）的替代颜色。"
 		"Settings_Turret_lights" 						"炮塔动态照明"
-		"Settings_Turret_lights_info" 					"允许炮塔将光照射到它们所观察的方向"
+		"Settings_Turret_lights_info" 					"允许炮塔将光照射到它们所观察的方向。"
 		"Settings_Ball_lights" 							"能量粒子动态光照"
-		"Settings_Ball_lights_info" 					"允许能量粒子产生光照并投射阴影"
+		"Settings_Ball_lights_info" 					"允许能量粒子产生光照并投射阴影。"
 		"Settings_Gels_Title"							"凝胶"
 		"Settings_Gels_repulsion_color"					"排斥凝胶颜色 (弹跳)"
-		"Settings_Gels_repulsion_color_Info"			"用于排斥凝胶（弹跳）的替代颜色"
+		"Settings_Gels_repulsion_color_Info"			"用于排斥凝胶（弹跳）的替代颜色。"
 		"Settings_Gels_propulsion_color"				"推进凝胶颜色 (加速)"
-		"Settings_Gels_propulsion_color_Info"			"用于推进凝胶（加速）的替代颜色"
+		"Settings_Gels_propulsion_color_Info"			"用于推进凝胶（加速）的替代颜色。"
 		"Settings_Gels_conversion_color"				"转换凝胶颜色 (传送)"
-		"Settings_Gels_conversion_color_Info"			"用于转换凝胶（传送）的替代颜色"
+		"Settings_Gels_conversion_color_Info"			"用于转换凝胶（传送）的替代颜色。"
 		"Settings_Gels_reflection_color"				"反射凝胶颜色 (反射)"
-		"Settings_Gels_reflection_color_Info"			"用于反射凝胶（反射）的替代颜色"
+		"Settings_Gels_reflection_color_Info"			"用于反射凝胶（反射）的替代颜色。"
 		"Settings_Gels_adhesion_color"					"粘连凝胶颜色 (粘连)"
-		"Settings_Gels_adhesion_color_Info"				"用于粘连凝胶（粘连）的替代颜色"
+		"Settings_Gels_adhesion_color_Info"				"用于粘连凝胶（粘连）的替代颜色。"
 		
 		// Settings - Miscellaneous
 		"Settings_Misc_Title" 							"杂项"
 		"Settings_Misc_solenergy_refract"				"分解网格折射"
-		"Settings_Misc_solenergy_refract_info"			"在分解网格中启用类似水的折射效果"
+		"Settings_Misc_solenergy_refract_info"			"在分解网格中启用类似水的折射效果。"
 		"Settings_Misc_ViewmodelOffset_X"				"Viewmodel偏移 (X轴)"
 		"Settings_Misc_ViewmodelOffset_X_info"			"将Viewmodel在X轴上的位置按此数值偏移，单位为Hammer单位（HU）"
 		"Settings_Misc_ViewmodelOffset_Y"				"Viewmodel偏移 (Y轴)"
@@ -846,20 +846,20 @@
 		"Settings_Misc_ViewmodelOffset_Z_info"			"将Viewmodel在Z轴上的位置按此数值偏移，单位为Hammer单位（HU）"
 
 		"Settings_Video_PreventThreadSleep"				"防止主线程休眠"
-		"Settings_Video_PreventThreadSleep_Info"		"在达到最大FPS限制时，防止主游戏线程进入睡眠状态\n启用此选项可能会带来更流畅的性能，但会导致更高的CPU使用率"
+		"Settings_Video_PreventThreadSleep_Info"		"在达到最大FPS限制时，防止主游戏线程进入睡眠状态。启用此选项可能会带来更流畅的性能，但会导致更高的CPU使用率"
 		
 		"Settings_Menu_Console"							"启用开发者控制台"
-		"Settings_Menu_Console_info"					"此设置用于确定开发者控制台的启用状态，开发者控制台允许用户向游戏引擎发送内部命令\n开发者控制台是为高级用户（如地图制作者）设计的强大工具，对于正常游戏并非必需\n起源引擎中存在的一些命令具有危险性，如果使用不当，可能导致游戏崩溃、保存进度丢失，或使某些游戏元素无法正常运行"
+		"Settings_Menu_Console_info"					"此设置用于确定开发者控制台的启用状态，开发者控制台允许用户向游戏引擎发送内部命令。\n开发者控制台是为高级用户（如地图制作者）设计的强大工具，对于正常游戏并非必需。起源引擎中存在的一些命令具有危险性，如果使用不当，可能导致游戏崩溃、保存进度丢失，或使某些游戏元素无法正常运行。"
 		"Settings_Menu_Sentry"							"“哨戒”崩溃报告"
-		"Settings_Menu_Sentry_info"						"控制崩溃转储的提交，通过“哨戒”处理\n崩溃报告中使用的数据包含完整的调用堆栈，记录了引擎在崩溃前的最后几瞬间（包括开发者控制台日志输出的最后几行）、当前的Steam构建ID以及您的Steam社区个人资料ID\n没有其他数据会发送给《传送门2: 社区版》团队\n此功能为可选项，可随时开启或关闭"
+		"Settings_Menu_Sentry_info"						"控制崩溃转储的提交，通过“哨戒”处理。\n崩溃报告中使用的数据包含完整的调用堆栈，记录了引擎在崩溃前的最后几瞬间（包括开发者控制台日志输出的最后几行）、当前的Steam构建ID以及您的Steam社区个人资料ID。没有其他数据会发送给《传送门2: 社区版》团队。\n此功能为可选项，可随时开启或关闭。"
 		"Settings_Menu_DiscordIntegration"				"Discord丰富状态显示"
-		"Settings_Menu_DiscordIntegration_info"			"通过将当前游戏状态显示为活动，启用Discord与《传送门2: 社区版》的丰富状态集成\n此开关不会更改SDK工具（例如Hammer）中Discord丰富状态的启用状态"
+		"Settings_Menu_DiscordIntegration_info"			"通过将当前游戏状态显示为活动，启用Discord与《传送门2: 社区版》的丰富状态集成。\n此开关不会更改SDK工具（例如Hammer）中Discord丰富状态的启用状态。"
 		
 		// Main Menu
-		"MainMenu_PH_Note"								"本页面正在开发中"
+		"MainMenu_PH_Note"								"本页面正在开发中。"
 		"MainMenu_ControllerUI_Note_Title"				"控制器支持警告"
-		"MainMenu_ControllerUI_Note_Desc"				"菜单界面的手柄输入支持仍处于实验阶段\n\n如果您在使用此模式时遇到错误或有反馈，请提交至《传送门2: 社区版》漏洞跟踪器"
-		"MainMenu_Graphics_Notice"						"注意: 如果您遇到图形问题，请尝试在Steam中切换到“stable”游戏分支"
+		"MainMenu_ControllerUI_Note_Desc"				"菜单界面的手柄输入支持仍处于实验阶段。\n\n如果您在使用此模式时遇到错误或有反馈，请提交至《传送门2: 社区版》漏洞跟踪器。"
+		"MainMenu_Graphics_Notice"						"注意: 如果您遇到图形问题，请尝试在Steam中切换到“stable”游戏分支。"
 		"MainMenu_Socials_GitHub"						"在Steam叠加界面中打开GitHub错误报告工具"
 		"MainMenu_Socials_Discord"						"在Steam叠加界面中打开Discord"
 
@@ -909,12 +909,12 @@
 		"MainMenu_Featured_Author"						"制作者 {s:featured_item_author}"
 		"MainMenu_Featured_Author_PH"					"正在从Steam创意工坊获取详情..."
 		"MainMenu_Featured_Unavailable_Title"			"精选物品不可用"
-		"MainMenu_Featured_Unavailable_Description"		"无法访问Steam网络API或其正在经历技术问题，精选商品暂时不可用"
+		"MainMenu_Featured_Unavailable_Description"		"无法访问Steam网络API或其正在经历技术问题。精选商品暂时不可用。"
 		
 		// Main Menu - News
 		// temporarily removed for the time being
 		// "MainMenu_News_Unavailable_Title"				"新闻不可用"
-		// "MainMenu_News_Unavailable_Description"			"无法访问Steam网络API或其正在经历技术问题，新闻暂时不可用"
+		// "MainMenu_News_Unavailable_Description"			"无法访问Steam网络API或其正在经历技术问题。新闻暂时不可用。"
 		
 		// Main Menu - Saverestore
 		"MainMenu_SaveRestore_Main"							"保存/加载游戏"
@@ -940,21 +940,21 @@
 		// SaveLoadPrompt
 		"Action_LoadGame"									"加载游戏"
 		"Action_LoadGame_Confirm"							"确认加载"
-		"Action_LoadGame_Auto_Message"						"你想加载最近保存的游戏吗？\n\n未保存的进度可能丢失"
-		"Action_LoadGame_Message"							"你想加载此保存游戏吗？\n\n未保存的进度可能丢失"
+		"Action_LoadGame_Auto_Message"						"你想加载最近保存的游戏吗？\n\n未保存的进度可能丢失。"
+		"Action_LoadGame_Message"							"你想加载此保存游戏吗？\n\n未保存的进度可能丢失。"
 		
 		// SaveDeletePrompt
 		"Action_DeleteGame"									"删除保存的游戏"
 		"Action_DeleteGame_Confirm"							"确认删除"
-		"Action_DeleteGame_Confirm_Message"					"你想删除此保存游戏吗？\n\n此操作无法撤销"
+		"Action_DeleteGame_Confirm_Message"					"你想删除此保存游戏吗？\n\n此操作无法撤销。"
 		
 		// SaveOverwritePrompt
 		"Action_OverwriteGame"								"覆写保存的游戏"
 		"Action_OverwriteGame_Confirm"						"确认覆写"
-		"Action_OverwriteGame_Confirm_Message"				"你想覆写此保存游戏吗？\n\n此操作无法撤销，并且之前保存的进度都可能会丢失"
+		"Action_OverwriteGame_Confirm_Message"				"你想覆写此保存游戏吗？\n\n此操作无法撤销，并且之前保存的进度都可能会丢失。"
 
 		// Autosave Handling
-		"MainMenu_SaveRestore_CannotOverwriteSave"					"此保存文件无法被覆写"
+		"MainMenu_SaveRestore_CannotOverwriteSave"					"此保存文件无法被覆写。"
 		"MainMenu_SaveRestore_SaveType_Manual"						"手动保存"
 		"MainMenu_SaveRestore_SaveType_quick"						"快速保存"
 		"MainMenu_SaveRestore_SaveType_autosave"					"自动保存"
@@ -962,37 +962,37 @@
 		
 		// Bad SaveRestore
 		"MainMenu_SaveRestore_LoadFailed"							"加载失败"
-		"MainMenu_SaveRestore_LoadFailed_Description"				"加载保存游戏失败 {s:failure_reason}"			// This will have a failure reason attached to it
+		"MainMenu_SaveRestore_LoadFailed_Description"				"加载保存游戏失败。 {s:failure_reason}"			// This will have a failure reason attached to it
 		"MainMenu_SaveRestore_SaveFailed"							"加载失败"
-		"MainMenu_SaveRestore_SaveFailed_Description"				"保存当前游戏失败 {s:failure_reason}"		// This will have a failure reason attached to it
+		"MainMenu_SaveRestore_SaveFailed_Description"				"保存当前游戏失败。 {s:failure_reason}"		// This will have a failure reason attached to it
 		
 		// Load Failure Reasons
 		// bad/malformed save data or incompatible strata map or engine version
-		"MainMenu_SaveRestore_LoadFailed_BadSave"					"它可能已损坏，或者与当前地图或游戏版本不兼容"
+		"MainMenu_SaveRestore_LoadFailed_BadSave"					"它可能已损坏，或者与当前地图或游戏版本不兼容。"
 		// target save file nonexistent
-		"MainMenu_SaveRestore_LoadFailed_NonExistent"				"目标保存文件在此设备上不存在"
+		"MainMenu_SaveRestore_LoadFailed_NonExistent"				"目标保存文件在此设备上不存在。"
 		// no saves exist
-		"MainMenu_SaveRestore_LoadFailed_NoSavesExist"				"没有存档可供加载"
+		"MainMenu_SaveRestore_LoadFailed_NoSavesExist"				"没有存档可供加载。"
 		// cloud failed sync, or something
-		"MainMenu_SaveRestore_LoadFailed_SteamCloud"				"目前无法访问 Steam云存档API"
+		"MainMenu_SaveRestore_LoadFailed_SteamCloud"				"目前无法访问Steam云存档API。"
 		
 		// Save Failure Reasons
 		// no space available on current storage partition
-		"MainMenu_SaveRestore_SaveFailed_NoSpace"					"《传送门2: 社区版》所安装的存储设备空间不足"
+		"MainMenu_SaveRestore_SaveFailed_NoSpace"					"《传送门2: 社区版》所安装的存储设备空间不足。"
 		// this should only display if Windows NTFS perms (e.g.: readonly flag, account security ACLs) or linux FS permissions are wrong
-		"MainMenu_SaveRestore_SaveFailed_NoPerms"					"无法创建新的保存游戏，因为访问保存游戏目录的权限不足。请更改《传送门2: 社区版》对"SAVE"目录的权限设置"
+		"MainMenu_SaveRestore_SaveFailed_NoPerms"					"无法创建新的保存游戏，因为访问保存游戏目录的权限不足。请更改《传送门2: 社区版》对"SAVE"目录的权限设置。"
 		// SOMEHOW, the game's running, but the disk isn't working right. possible disk failure or MFT corruption?
-		"MainMenu_SaveRestore_SaveFailed_DriveFail"					"游戏无法创建新的存档文件，因为《传送门2: 社区版》所安装的存储设备可能存在故障。请立即备份该设备上的所有数据"
+		"MainMenu_SaveRestore_SaveFailed_DriveFail"					"游戏无法创建新的存档文件，因为《传送门2: 社区版》所安装的存储设备可能存在故障。请立即备份该设备上的所有数据。"
 		// probably applies for steam cloud quota?
-		"MainMenu_SaveRestore_SaveFailed_NoMoreSlots"				"没有可用的保存槽位"
+		"MainMenu_SaveRestore_SaveFailed_NoMoreSlots"				"没有可用的保存槽位。"
 		// map_wants_save_disable 1
-		"MainMenu_SaveRestore_SaveFailed_MapWantsSaveDisabled"		"您正在游玩的地图不允许保存游戏"
-		"MainMenu_SaveRestore_SaveFailed_NotPartOfCampaign"			"您正在玩的地图不属于当前战役\n\n暂时无法保存"
+		"MainMenu_SaveRestore_SaveFailed_MapWantsSaveDisabled"		"您正在游玩的地图不允许保存游戏。"
+		"MainMenu_SaveRestore_SaveFailed_NotPartOfCampaign"			"您正在玩的地图不属于当前战役。\n\n暂时无法保存。"
 		// maxplayers >= 2 and gamemode is either coop or mp; we're either on p2p/listen or dedicated
-		"MainMenu_SaveRestore_SaveFailed_IsInMultiplayer"			"在多人/合作模式下不支持保存游戏"
+		"MainMenu_SaveRestore_SaveFailed_IsInMultiplayer"			"在多人/合作模式下不支持保存游戏。"
 		
 		// universal; only used if we don't know what the fuck is going on in saverestore
-		"MainMenu_SaveRestore_UnknownFailure"						"未知的保存/恢复失败原因。请检查开发者控制台以获取详细信息"
+		"MainMenu_SaveRestore_UnknownFailure"						"未知的保存/恢复失败原因。请检查开发者控制台以获取详细信息。"
 		
 		// Main Menu - Campaigns
 		"MainMenu_Campaigns_Title"									"战役"
@@ -1007,15 +1007,15 @@
 		"MainMenu_Campaigns_MapList_Tagline_NewlySubbed"			"{i:num_newly_installed_maps} 新订阅的"
 		"MainMenu_Campaigns_MapList_Tagline_TotalMaps"				"{i:num_total_installed_maps} 总地图数"
 		"MainMenu_Campaigns_OpenWS"									"打开Steam创意工坊界面"
-		"MainMenu_Maps_None"										"您还没有安装任何地图！您可以在 Steam 创意工坊中找到一些"
-		"MainMenu_Campaigns_None"									"您还没有安装任何战役！您可以在 Steam 创意工坊中找到一些"
+		"MainMenu_Maps_None"										"您还没有安装任何地图！您可以在 Steam 创意工坊中找到一些。"
+		"MainMenu_Campaigns_None"									"您还没有安装任何战役！您可以在 Steam 创意工坊中找到一些。"
 		"MainMenu_Campaigns_OpenWS_Tagline"							"下载并管理内容"
 		
 		// mode selection
-		"MainMenu_Campaigns_ModeSel_Solo_Title"						"Solo Maps"
-		"MainMenu_Campaigns_ModeSel_Solo_Tagline"					"Bite-sized experiences"
-		"MainMenu_Campaigns_ModeSel_ServerBrowser_Title"			"Custom Games"
-		"MainMenu_Campaigns_ModeSel_ServerBrowser_Tagline"			"Find or create a perfect game, unrestricted"
+		"MainMenu_Campaigns_ModeSel_Solo_Title"						"单张地图"
+		"MainMenu_Campaigns_ModeSel_Solo_Tagline"					"小巧玲珑的游戏体验"
+		"MainMenu_Campaigns_ModeSel_ServerBrowser_Title"			"自定义游戏"
+		"MainMenu_Campaigns_ModeSel_ServerBrowser_Tagline"			"寻找或创建自由构建的理想游戏"
 		"MainMenu_Campaigns_CType_SP"								"单人游戏"
 		"MainMenu_Campaigns_CType_MP"								"多人游戏/双人合作"
 		"MainMenu_Campaigns_MapType_p2ce"							"《传送门2: 社区版》地图"
@@ -1023,12 +1023,12 @@
 		
 		// Search
 		"MainMenu_Campaigns_Search_FillerText"						"搜索战役..."
-		"MainMenu_Campaigns_Search_SortBy_NewSubs"					"Recently added"
-		"MainMenu_Campaigns_Search_SortBy_AtoZ"						"Alphabetical (Descending)"
-		"MainMenu_Campaigns_Search_SortBy_ZtoA"						"Alphabetical (Ascending)"
-		"MainMenu_Campaigns_Search_SortBy_Last"						"Last played time"
-		"MainMenu_Campaigns_Search_SortBy_Completion"				"Overall completion"
-		"MainMenu_Campaigns_Search_SortBy_CampaignSrc"				"Campaign source"
+		"MainMenu_Campaigns_Search_SortBy_NewSubs"					"最近添加"
+		"MainMenu_Campaigns_Search_SortBy_AtoZ"						"按字母排序（正序）"
+		"MainMenu_Campaigns_Search_SortBy_ZtoA"						"按字母排序（倒序）"
+		"MainMenu_Campaigns_Search_SortBy_Last"						"上次游玩时间"
+		"MainMenu_Campaigns_Search_SortBy_Completion"				"流程进度"
+		"MainMenu_Campaigns_Search_SortBy_CampaignSrc"				"战役来源"
 
 		"MainMenu_Content_Unplayed"									"未游玩过"
 		"MainMenu_Content_InProgress"								"开发中"
@@ -1036,41 +1036,43 @@
 		
 		// this is used if a campaign requires an appid they don't have mounted
 		"MainMenu_Campaigns_MissingMount_Title"						"无法加载战役"
-		"MainMenu_Campaigns_MissingMount_Description"				"无法加载此战役，因为以下游戏未安装: \n{s:missing_mounts_list}\n请先安装并挂载上述游戏以访问此战役"
+		"MainMenu_Campaigns_MissingMount_Description"				"无法加载此战役，因为以下游戏未安装: 
+{s:missing_mounts_list}
+请先安装并挂载上述游戏以访问此战役"
 
 		// Warn the user if playing on map or server with no active campaign and attempting a save
 		"MainMenu_Campaigns_NoActiveCampaign_Warning_Title"			"警告: 不在相应内容组中"
-		"MainMenu_Campaigns_NoActiveCampaign_Warning_Desc"			"您当前未在相应内容组内玩游戏(例如: 战役或创意工坊)\n如果您通过开发者控制台启动地图或通过Hammer关卡编辑器中的"运行地图"\n对话框启动地图，可能会出现这种情况\n\n在此状态下，创建和加载存档仍然可行，但这些文件不会显示在主菜单中\n\n在内容组外玩游戏仅用于开发目的；强烈建议您返回菜单并正常游戏\n\n每次打开此菜单时，都会出现此警告。"
+		"MainMenu_Campaigns_NoActiveCampaign_Warning_Desc"			"您当前未在相应内容组内玩游戏(例如: 战役或创意工坊)。如果您通过开发者控制台启动地图或通过Hammer关卡编辑器中的"运行地图"对话框启动地图，可能会出现这种情况。\n\n在此状态下，创建和加载存档仍然可行，但这些文件不会显示在主菜单中。\n\n在内容组外玩游戏仅用于开发目的；强烈建议您返回菜单并正常游戏。\n\n每次打开此菜单时，都会出现此警告。"
 
 		// Bad Campaign
 		"MainMenu_Campaigns_BgLoadFailed_Title"						"加载内容失败"
 		"MainMenu_Campaigns_BgLoadFailed_Description"				"你尝试运行的战役指定了一个无法加载的背景地图\n确保所需的内容已正确下载并挂载"
 		"MainMenu_Campaigns_LoadFailed_Title"						"启动战役失败！"
-		"MainMenu_Campaigns_LoadFailed_Description"					"此战役启动失败\n检查控制台以获取详情"
+		"MainMenu_Campaigns_LoadFailed_Description"					"此战役启动失败。\n检查控制台以获取详情。"
 		"MainMenu_Campaigns_Error_Generic_Title"					"错误"
 		"MainMenu_Campaigns_Error_InvalidKV3_Title"					"无法启动战役"
-		"MainMenu_Campaigns_Error_InvalidKV3_Desc"					"此战役无法启动，因为其脚本文件中指定的数据无效\n\n请将此问题及相应的错误日志报告给插件作者"
+		"MainMenu_Campaigns_Error_InvalidKV3_Desc"					"此战役无法启动，因为其脚本文件中指定的数据无效。\n\n请将此问题及相应的错误日志报告给插件作者。"
 		"MainMenu_Campaigns_Error_InvalidChapterMapData_Title"		"无法开始章节"
-		"MainMenu_Campaigns_Error_InvalidChapterMapData_Desc"		"此战役无法启动，因为您选择的章节中没有定义地图\n\n请将此问题及相应的错误日志报告给插件作者"
+		"MainMenu_Campaigns_Error_InvalidChapterMapData_Desc"		"此战役无法启动，因为您选择的章节中没有定义地图。\n\n请将此问题及相应的错误日志报告给插件作者。"
 		
 		// dependency game names
-		"MainMenu_Campaigns_Mounts_AppId_630"						"《异形丛生》 (630)"
-		"MainMenu_Campaigns_Mounts_AppId_300"						"《胜利之日: 起源》 (300)"
-		"MainMenu_Campaigns_Mounts_AppId_220"						"《半衰期2》 (220)"
-		"MainMenu_Campaigns_Mounts_AppId_280"						"《半衰期: 起源》 (280)"
-		"MainMenu_Campaigns_Mounts_AppId_400"						"《传送门》 (400)"
-		"MainMenu_Campaigns_Mounts_AppId_660"						"《传送门2——第六感运动包》 (660)"
-		"MainMenu_Campaigns_Mounts_AppId_247120"					"《传送门2——第六感附加包》 (247120)"
-		"MainMenu_Campaigns_Mounts_AppId_440"						"《军团要塞2》 (440)"
-		"MainMenu_Campaigns_Mounts_AppId_500"						"《求生之路》 (500)"
-		"MainMenu_Campaigns_Mounts_AppId_550"						"《求生之路2》 (550)"
-		"MainMenu_Campaigns_Mounts_AppId_240"						"《反恐精英: 起源》 (240)"
-		"MainMenu_Campaigns_Mounts_AppId_4465480"					"《反恐精英: 全球攻势》 (4465480)"
+		"MainMenu_Campaigns_Mounts_AppId_630"						"异形丛生（630）"
+		"MainMenu_Campaigns_Mounts_AppId_300"						"胜利之日: 起源（300）"
+		"MainMenu_Campaigns_Mounts_AppId_220"						"半衰期2（220）"
+		"MainMenu_Campaigns_Mounts_AppId_280"						"半衰期: 起源（280）"
+		"MainMenu_Campaigns_Mounts_AppId_400"						"传送门（400）"
+		"MainMenu_Campaigns_Mounts_AppId_660"						"传送门2——第六感运动包（660）"
+		"MainMenu_Campaigns_Mounts_AppId_247120"					"传送门2——第六感附加包（247120）"
+		"MainMenu_Campaigns_Mounts_AppId_440"						"军团要塞2（440）"
+		"MainMenu_Campaigns_Mounts_AppId_500"						"求生之路（500）"
+		"MainMenu_Campaigns_Mounts_AppId_550"						"求生之路2（550）"
+		"MainMenu_Campaigns_Mounts_AppId_240"						"反恐精英: 起源（240）"
+		"MainMenu_Campaigns_Mounts_AppId_4465480"					"反恐精英: 全球攻势（4465480）"
 
 		// temp for better solution
 		"MainMenu_Campaigns_MountRequired_Header"					"游戏挂载缺失"
-		"MainMenu_Campaigns_MountRequired_220"						"此战役需要拥有并挂载《半衰期2》（20周年纪念版）\n有关更改游戏挂载的说明，请查阅维基百科"
-		"MainMenu_Campaigns_MountRequired_400"						"此战役需要拥有并挂载《传送门》\n有关更改游戏挂载的说明，请查阅维基百科"
+		"MainMenu_Campaigns_MountRequired_220"						"此战役需要拥有并挂载《半衰期2》（20周年纪念版）。\n有关更改游戏挂载的说明，请查阅Wiki。"
+		"MainMenu_Campaigns_MountRequired_400"						"此战役需要拥有并挂载《传送门》\n有关更改游戏挂载的说明，请查阅Wiki。"
 		
 		// campaign details card
 		"MainMenu_Campaigns_DetailCard_CompletionPercentage"		"{i:campaign_completion}% 已完成"
@@ -1089,7 +1091,7 @@
 		"MainMenu_Campaigns_MM_LoadGame"							"加载游戏"
 		"MainMenu_Campaigns_MM_SaveGame"							"保存游戏"
 		"MainMenu_Campaigns_MM_ReturnToCampaignMenu"				"返回战役选择"
-		"MainMenu_Campaigns_MM_ReturnToCampaignMenu_InGame"			"要切换到其他战役，请返回主菜单"
+		"MainMenu_Campaigns_MM_ReturnToCampaignMenu_InGame"			"要切换到其他战役，请返回主菜单。"
 		"MainMenu_Campaigns_MM_Back"								"返回"
 		"MainMenu_Campaigns_MM_CampaignName_placeholder"			"{s:campaign_name}"	// This string is for campaigns that don't have a logo
 		"MainMenu_Campaigns_MM_CampaignDescription_placeholder"		"{s:campaign_desc}"
@@ -1105,77 +1107,77 @@
 		"MainMenu_Campaigns_MM_DEV_NoCampaignPH"					"未检测到激活的战役"
 		
 		// campaign setup
-		"MainMenu_Campaigns_Setup_ExitNote"							"To start this campaign, complete any remaining changes in this page and then return to the main setup area."
-		"MainMenu_Campaigns_Setup_Summary_NoChanges"				"No changes detected."
-		"MainMenu_Campaigns_Setup_ResetToDefaults"					"Reset to Defaults"
+		"MainMenu_Campaigns_Setup_ExitNote"							"要开始游玩此战役，请先完成本页面剩余的所有修改，然后回到主设置区域。"
+		"MainMenu_Campaigns_Setup_Summary_NoChanges"				"未发现更改。"
+		"MainMenu_Campaigns_Setup_ResetToDefaults"					"重置为默认选项"
 		
 		// campaign setup - main panel
 		"MainMenu_Campaigns_Setup_Title"							"战役/地图设置"
 		"MainMenu_Campaigns_Setup_Tagline"							"自定义游戏设置"
-		"MainMenu_Campaigns_Setup_AdvExpand"						"Advanced Game Settings and Custom Options"
-		"MainMenu_Campaigns_Setup_PanelButton_Presets_Title"		"Presets"
-		"MainMenu_Campaigns_Setup_PanelButton_Presets_Desc"			"Apply a pre-defined set of customizations"
-		"MainMenu_Campaigns_Setup_PanelButton_Admin_Title"			"Server settings"
-		"MainMenu_Campaigns_Setup_PanelButton_Admin_Desc"			"Administrative settings; player counts, lockdown, demo recording..."
+		"MainMenu_Campaigns_Setup_AdvExpand"						"高级设置与自定义选项"
+		"MainMenu_Campaigns_Setup_PanelButton_Presets_Title"		"预设"
+		"MainMenu_Campaigns_Setup_PanelButton_Presets_Desc"			"应用已预设好的一组设置"
+		"MainMenu_Campaigns_Setup_PanelButton_Admin_Title"			"服务器设置"
+		"MainMenu_Campaigns_Setup_PanelButton_Admin_Desc"			"管理类设置；设定人数上限，锁定服务器，录制演示..."
 		"MainMenu_Campaigns_Setup_PanelButton_MapSelect_Title"		"地图选择"
 		"MainMenu_Campaigns_Setup_PanelButton_MapSelect_Desc"		"从本章中的特定地图开始"
-		"MainMenu_Campaigns_Setup_PanelButton_BaseGameplay_Title"	"Basic Gameplay"
-		"MainMenu_Campaigns_Setup_PanelButton_BaseGameplay_Desc"	"Simple configurable constraints"
-		"MainMenu_Campaigns_Setup_PanelButton_Modifiers_Title"		"Gameplay Modifiers"
-		"MainMenu_Campaigns_Setup_PanelButton_Modifiers_Desc"		"Select custom features and scripts that change how the game behaves"
+		"MainMenu_Campaigns_Setup_PanelButton_BaseGameplay_Title"	"基础体验"
+		"MainMenu_Campaigns_Setup_PanelButton_BaseGameplay_Desc"	"简单体验，选项有限"
+		"MainMenu_Campaigns_Setup_PanelButton_Modifiers_Title"		"修改玩法"
+		"MainMenu_Campaigns_Setup_PanelButton_Modifiers_Desc"		"可选择自定义功能选项和脚本，改变游戏的行为方式"
 		
 		// proto
-		"MainMenu_Campaigns_Setup_Proto_Title"						"This system is a prototype experiment and may be changed or removed in the future."
-		"MainMenu_Campaigns_Setup_Proto_Desc"						"Convars changed through this system will not persist in saves. They will also not be reverted upon exiting a campaign."
+		"MainMenu_Campaigns_Setup_Proto_Title"						"该系统为原型实验项目，未来可能会进行改动或删除。"
+		"MainMenu_Campaigns_Setup_Proto_Desc"						"使用该系统修改的控制台变量不会保存在存档中。此外，在退出战役时，这些修改也不会被还原。"
 		
 		// campaign setup - server settings
 		// GameplayBase
-		"MainMenu_Campaigns_Setup_Var_cl_mirror_world"				"Flip World"
-		"MainMenu_Campaigns_Setup_Var_cl_mirror_world_Description"	"Flips the world horizontally. A great way to ruin somebody's day\n\nDefault: Off"
-		"MainMenu_Campaigns_Setup_Var_sv_gravity"					"World Gravity"
-		"MainMenu_Campaigns_Setup_Var_sv_gravity_Description"		"Controls downward gravitational force from the world. This is measured in Hammer units (HU), equivalent to a real-world inch (or 2.54 centimeters)\n\nThe default gravity is 600 HU/s."
-		"MainMenu_Campaigns_Setup_Var_skill"						"Game Difficulty"
-		"MainMenu_Campaigns_Setup_Var_skill_Description"			"Changes behavior of damage modifiers and pickups. Higher difficulties will have increasingly difficult enemies and more ammo scarcity\n\nThis does not apply to Portal campaigns\n\nDefault: Normal"
-		"MainMenu_Campaigns_Setup_Var_skill_1"						"Easy"
-		"MainMenu_Campaigns_Setup_Var_skill_2"						"Normal"
-		"MainMenu_Campaigns_Setup_Var_skill_3"						"Hard"
-		"MainMenu_Campaigns_Setup_Var_player_throwenable"					"Enable Throwing Objects"
-		"MainMenu_Campaigns_Setup_Var_player_throwenable_Description"		"Enables Half-Life 2-style pickup behavior, allowing objects to be thrown at will\n\nDefault: Off"
-		"MainMenu_Campaigns_Setup_Var_player_throwforce"					"Object Throw Force"
-		"MainMenu_Campaigns_Setup_Var_player_throwforce_Description"		"The initial strength of throw objects, in Hammer units (HU). Requires \"Enable Throwing Objects\"."
-		"MainMenu_Campaigns_Setup_Var_mv_bhop"						"\"Bunny-hop\" Speed Boost Bug"
-		"MainMenu_Campaigns_Setup_Var_mv_bhop_Description"			"Enables a \"bunny-hopping\" bug that allows players to gain extra momentum by abusing broken movement behavior, as depicted in legacy versions of Source engine games\n\nDefault: Off"
-		"MainMenu_Campaigns_Setup_Var_mv_duckjump"					"Allow Crouch Jumping"
-		"MainMenu_Campaigns_Setup_Var_mv_duckjump_Description"		"Allows the player to jump while crouched/ducked. This is a requirement for maps making use of specific Half-Life 2 movement behavior\n\nDefault: Off"
-		"MainMenu_Campaigns_Setup_Var_sv_enableholdrotation"				"Enable Hold Rotation"
-		"MainMenu_Campaigns_Setup_Var_sv_enableholdrotation_Description"	"Allows the player to rotate held physics objects by pressing and holding +ATTACK2\n\nDefault: Off"
-		"MainMenu_Campaigns_Setup_Var_sv_enablepreferredcarry"				"Enable Preferred Carry"
-		"MainMenu_Campaigns_Setup_Var_sv_enablepreferredcarry_Description"	"Keep held physics objects at their preferred carry angle\n\nDefault: On"
+		"MainMenu_Campaigns_Setup_Var_cl_mirror_world"				"翻转世界"
+		"MainMenu_Campaigns_Setup_Var_cl_mirror_world_Description"	"水平翻转世界。毁掉某人好心情的绝佳方式\n\n默认：关"
+		"MainMenu_Campaigns_Setup_Var_sv_gravity"					"世界重力"
+		"MainMenu_Campaigns_Setup_Var_sv_gravity_Description"		"控制世界的重力大小。该数值以 Hammer units（HU）为计量单位，相当于现实世界中的1英寸（2.54厘米）。\n\n默认重力值为600 HU/s"
+		"MainMenu_Campaigns_Setup_Var_skill"						"游戏难度"
+		"MainMenu_Campaigns_Setup_Var_skill_Description"			"更改了伤害修正器和道具的行为。难度越高，敌人越难对付，弹药也越稀缺\n\n此设置不适用于《传送门》战役\n\n默认：普通"
+		"MainMenu_Campaigns_Setup_Var_skill_1"						"简单"
+		"MainMenu_Campaigns_Setup_Var_skill_2"						"普通"
+		"MainMenu_Campaigns_Setup_Var_skill_3"						"困难"
+		"MainMenu_Campaigns_Setup_Var_player_throwenable"					"物品投掷"
+		"MainMenu_Campaigns_Setup_Var_player_throwenable_Description"		"启用《半衰期2》风格的拾取机制，允许随意投掷物品\n\n默认：关"
+		"MainMenu_Campaigns_Setup_Var_player_throwforce"					"物体投掷力"
+		"MainMenu_Campaigns_Setup_Var_player_throwforce_Description"		"投掷物的初始力量，单位为 Hammer units（HU）。需要启用“物品投掷”。"
+		"MainMenu_Campaigns_Setup_Var_mv_bhop"						"“兔子跳”加速漏洞"
+		"MainMenu_Campaigns_Setup_Var_mv_bhop_Description"			"启用“兔子跳”加速漏洞，允许玩家利用移动系统的漏洞来获得额外的动量，和早期版本的起源引擎游戏一样\n\n默认：关"
+		"MainMenu_Campaigns_Setup_Var_mv_duckjump"					"允许蹲跳"
+		"MainMenu_Campaigns_Setup_Var_mv_duckjump_Description"		"允许玩家在蹲下/俯身状态下跳跃。某些使用了特定《半衰期2》移动行为的地图必须启用这一功能\n\n默认：关"
+		"MainMenu_Campaigns_Setup_Var_sv_enableholdrotation"				"旋转所持物体"
+		"MainMenu_Campaigns_Setup_Var_sv_enableholdrotation_Description"	"允许玩家按住副开火键来旋转所持有的物体\n\n默认：关"
+		"MainMenu_Campaigns_Setup_Var_sv_enablepreferredcarry"				"优先携带角度"
+		"MainMenu_Campaigns_Setup_Var_sv_enablepreferredcarry_Description"	"将持有的物体保持在优先携带角度\n\n默认：开"
 
 		// ServerSettings
-		"MainMenu_Campaigns_Setup_Var_hostname"						"Server Name"
-		"MainMenu_Campaigns_Setup_Var_hostname_Description"			"The searchable name of this server, as shown in the server browser. Not applicable for single-player games."
-		"MainMenu_Campaigns_Setup_Var_sv_tags"						"Server Tags"
-		"MainMenu_Campaigns_Setup_Var_sv_tags_Description"			"Keywords to use when searching for servers with specific customizations or gamemodes. Not applicable for single-player games\n\nDefault: None"
-		"MainMenu_Campaigns_Setup_Var_maxplayers"					"Maximum Player Count"
-		"MainMenu_Campaigns_Setup_Var_maxplayers_Description"		"The maximum number of players that can connect to this server at once. Setting this to 1 forces single-player mode\n\nDefault: 1"
-		"MainMenu_Campaigns_Setup_Var_sv_password"					"Server Password"
-		"MainMenu_Campaigns_Setup_Var_sv_password_Description"		"A password/code players can use to join this server. Ideal for hosting private sessions and LAN parties\n\nDefault: None"
-		"MainMenu_Campaigns_Setup_Var_sv_lan"						"Host on LAN"
-		"MainMenu_Campaigns_Setup_Var_sv_lan_Description"			"Limits inbound connections to this server only those originating from the current local network. Recommended for private sessions and LAN parties."
-		"MainMenu_Campaigns_Setup_Var_sv_cheats"					"Enable Server Cheats"
+		"MainMenu_Campaigns_Setup_Var_hostname"						"服务器名称"
+		"MainMenu_Campaigns_Setup_Var_hostname_Description"			"该服务器在服务器浏览器中显示的可搜索名称。不适用于单人游戏。"
+		"MainMenu_Campaigns_Setup_Var_sv_tags"						"服务器标签"
+		"MainMenu_Campaigns_Setup_Var_sv_tags_Description"			"在搜索具有特定自定义设置或游戏模式的服务器时可使用的关键词。不适用于单人游戏。\n\n默认：无"
+		"MainMenu_Campaigns_Setup_Var_maxplayers"					"玩家人数上限"
+		"MainMenu_Campaigns_Setup_Var_maxplayers_Description"		"该服务器同时可连接玩家的最大数量。将此值设为 1 将强制设定为单人模式。\n\n默认：1"
+		"MainMenu_Campaigns_Setup_Var_sv_password"					"服务器密码"
+		"MainMenu_Campaigns_Setup_Var_sv_password_Description"		"玩家可使用此密码加入该服务器。非常适合举办私人对局和局域网聚会\n\n默认：无"
+		"MainMenu_Campaigns_Setup_Var_sv_lan"						"仅限局域网连接"
+		"MainMenu_Campaigns_Setup_Var_sv_lan_Description"			"仅允许当前本地网络下的玩家连接到此服务器。推荐用于私人对局和局域网聚会。"
+		"MainMenu_Campaigns_Setup_Var_sv_cheats"					"启用服务器作弊"
 		"MainMenu_Campaigns_Setup_Var_sv_cheats_Description"		"Enables access to special commands flagged as \"cheats\", such as <pre>noclip</pre>, <pre>impulse</pre>, and <pre>ent_fire</pre>\n\nDefault: Off"
-		"MainMenu_Campaigns_Setup_Var_p2p"							"Use Steam Networking"
-		"MainMenu_Campaigns_Setup_Var_p2p_Description"				"Uses the <a href="https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay">Steam Datagram Relay</a> to enable hosting peer-to-peer (P2P) and dedicated servers over the Internet with minimal technical setup. Game traffic is sent to Valve relay servers to anonymize player information and protect the server host."
+		"MainMenu_Campaigns_Setup_Var_p2p"							"使用 Steam 网络"
+		"MainMenu_Campaigns_Setup_Var_p2p_Description"				"利用<a href="https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay">Steam数据报中继</a>在互联网上以极简的技术配置托管点对点（P2P）和专用服务器。游戏流量会被发送至Valve的中继服务器，以匿名化玩家信息并保护服务器主机。"
 		
 		// CampaignSetupDiscardDialog
-		"MainMenu_Campaigns_Setup_Discard_Title"					"Discard Changes"
-		"MainMenu_Campaigns_Setup_Discard_Description"				"Are you sure you want to leave campaign setup?\n\nAll settings made during setup will be lost."
+		"MainMenu_Campaigns_Setup_Discard_Title"					"放弃更改"
+		"MainMenu_Campaigns_Setup_Discard_Description"				"确定要离开战役设置流程吗？\n\n所有已设置的选项将会丢失。"
 		
 		// NewGameWarningDialog
 		"Action_NewGame_Title"										"开始游戏"
-		"Action_NewGame_Description"								"Are you sure you want to start a new game?\n\nPrevious progress will be lost."
-		"Action_NewGame_CampaignSetup_Description"					"Are you sure you want to start a new game with these settings?\n\nNote that previous progress will be lost and that any gameplay modifiers cannot be reverted once a new game has started."
+		"Action_NewGame_Description"								"是否确定要开始新游戏？\n所有未保存的进度将会丢失。"
+		"Action_NewGame_CampaignSetup_Description"					"您确定要使用这些设置开始新游戏吗？\n\n请注意，开始新游戏后，之前的进度将丢失，且任何游戏机制修改都无法撤销。"
 
 		// campaign list
 		
@@ -1185,29 +1187,29 @@
 		"MainMenu_Campaigns_P2CE_Description"		"[DEV - REPLACE ME] Temporary P2:CE Campaign Description"
 		
 		// for valve campaigns
-		"MainMenu_Campaigns_Valve_Author"			"维尔福软件公司"
+		"MainMenu_Campaigns_Valve_Author"			"Valve Software"
 		
 		// portal2
-		"MainMenu_Campaigns_portal2"				"《传送门2》"
-		"MainMenu_Campaigns_portal2_Description"	"《传送门2》引入了一批充满活力的新角色、一系列新的谜题元素，以及更多设计巧妙的测试室。玩家将探索从未见过的光圈科技区域，并将再次与GLaDOS——这位在原作中曾引导他们的、偶尔充满杀意的计算机同伴——重聚"
-		"MainMenu_Campaigns_portal2_MP"				"Portal 2 Co-op"
-		"MainMenu_Campaigns_portal2_MP_Description"	"Co-op features its own entirely separate campaign with a unique story, test chambers, and two new player characters. This new mode forces players to reconsider everything they thought they knew about portals. Success will require them to not just act cooperatively, but to think cooperatively."
+		"MainMenu_Campaigns_portal2"				"传送门2"
+		"MainMenu_Campaigns_portal2_Description"	"《传送门2》引入了一批充满活力的新角色、一系列新的谜题元素，以及更多设计巧妙的测试室。玩家将探索从未见过的光圈科技区域，并将再次与GLaDOS——这位在原作中曾引导他们的、偶尔充满杀意的计算机同伴——重聚。"
+		"MainMenu_Campaigns_portal2_MP"				"传送门2合作模式"
+		"MainMenu_Campaigns_portal2_MP_Description"	"合作模式有着完全独立的战役，包含独特的故事、测试室以及两名全新可操控角色。这一新模式将迫使玩家重新审视他们自以为了解的有关传送门的全部知识。若想成功闯过难关，玩家不仅需要通力合作，更需要协同思考。"
 		
 		// portal
-		"MainMenu_Campaigns_portal"					"《传送门1》"
-		"MainMenu_Campaigns_portal_Description"		"故事背景设定在神秘的光圈科技实验室，《传送门1》已被营为业界最具创意的新游戏，它将为玩家带来数十小时独一无二的游戏体验。此游戏旨在改变玩家在特定环境中处理、应付和推测可能性情况的方法；与《半衰期2》的“重力枪”开辟在特定环境下处理目标的新方法类似。玩家必须通过空间打开前往操纵物体和谜题的入口,解决物理难题和挑战"
+		"MainMenu_Campaigns_portal"					"传送门1"
+		"MainMenu_Campaigns_portal_Description"		"故事背景设定在神秘的光圈科技实验室，《传送门1》已被营为业界最具创意的新游戏，它将为玩家带来数十小时独一无二的游戏体验。此游戏旨在改变玩家在特定环境中处理、应付和推测可能性情况的方法；与《半衰期2》的“重力枪”开辟在特定环境下处理目标的新方法类似。玩家必须通过空间打开前往操纵物体和谜题的入口,解决物理难题和挑战。"
 		
 		// hl2
-		"MainMenu_Campaigns_hl2"					"《半衰期2》"
-		"MainMenu_Campaigns_hl2_Description"		"七小时战争已经失败。地球已投降。黑山事件成为遥远的记忆。玩家再次拿起研究科学家戈登·弗里曼博士的撬棍，他发现自己身处外星生物横行的地球，这颗星球的资源已枯竭，人口在减少，正被剥夺殆尽。弗里曼被迫承担起不容羡慕的角色，从他在黑山基地释放的错误中拯救世界。而许多他关心的人都在依赖他"
+		"MainMenu_Campaigns_hl2"					"半衰期2"
+		"MainMenu_Campaigns_hl2_Description"		"七小时战争已经失败。地球已投降。黑山事件成为遥远的记忆。玩家再次拿起研究科学家戈登·弗里曼博士的撬棍，他发现自己身处外星生物横行的地球，这颗星球的资源已枯竭，人口在减少，正被剥夺殆尽。弗里曼被迫承担起不容羡慕的角色，从他在黑山基地释放的错误中拯救世界。而许多他关心的人都在依赖他。"
 		
 		// episodic
-		"MainMenu_Campaigns_episodic"				"《半衰期2: 第一章》"
-		"MainMenu_Campaigns_episodic_Description"	"在《半衰期2》事件之后，戈登·弗里曼博士和艾利克斯·凡斯试图减缓一场将摧毁17号城市的不可避免的连锁反应。在面对强大阻力的情况下，他们必须疏散城市并拯救其居民，以免一切毁于一旦"
+		"MainMenu_Campaigns_episodic"				"半衰期2: 第一章"
+		"MainMenu_Campaigns_episodic_Description"	"在《半衰期2》事件之后，戈登·弗里曼博士和艾利克斯·凡斯试图减缓一场将摧毁17号城市的不可避免的连锁反应。在面对强大阻力的情况下，他们必须疏散城市并拯救其居民，以免一切毁于一旦。"
 		
 		// ep2
-		"MainMenu_Campaigns_ep2"					"《半衰期2: 第二章》"
-		"MainMenu_Campaigns_ep2_Description"		"在人类四散之后，外星势力继续争夺对地球的控制权。物理学家戈登·弗里曼和艾利克斯·凡斯必须努力拦截联合军的传输，并在地球人类被摧毁之前与叛军部队会合"
+		"MainMenu_Campaigns_ep2"					"半衰期2: 第二章"
+		"MainMenu_Campaigns_ep2_Description"		"在人类四散之后，外星势力继续争夺对地球的控制权。物理学家戈登·弗里曼和艾利克斯·凡斯必须努力拦截联合军的传输，并在地球人类被摧毁之前与叛军部队会合。"
 		
 		// Main Menu - Addons
 		"MainMenu_Addons_Refresh"					"刷新插件列表"
@@ -1228,10 +1230,10 @@
 		"MainMenu_Mounts_MountGame"					"挂载"
 		"MainMenu_Mounts_UnmountGame"				"卸载"
 		"MainMenu_Mounts_TooMany"					"挂载游戏数过多"
-		"MainMenu_Mounts_TooMany_Desc"				"有{i:num_mounted_games}个游戏挂载在《传送门2: 社区版》上，由于技术限制，挂载文件中仅有{i:max_mounts}个游戏会被显示"
-		"MainMenu_Mounts_Game_MaxTagline"			"已达到可显示挂载游戏的最大数量"
-		"MainMenu_Mounts_WIP_Title"					"挂载设置正在开发中，目前暂不可用"
-		"MainMenu_Mounts_WIP_Tagline"				"点击此处了解更多关于在《传送门 2: 社区版》中设置挂载的信息"
+		"MainMenu_Mounts_TooMany_Desc"				"有{i:num_mounted_games}个游戏挂载在《传送门2: 社区版》上。由于技术限制，挂载文件中仅有{i:max_mounts}个游戏会被显示。"
+		"MainMenu_Mounts_Game_MaxTagline"			"已达到可显示挂载游戏的最大数量。"
+		"MainMenu_Mounts_WIP_Title"					"挂载设置正在开发中，目前暂不可用。"
+		"MainMenu_Mounts_WIP_Tagline"				"点击此处了解更多关于在《传送门 2: 社区版》中设置挂载的信息。"
 
 		// for non-campaign addons with maps
 		"MainMenu_Addons_MapDropdown_Select"		"选择一张地图..."
@@ -1241,19 +1243,19 @@
 		// Filtering
 		// Filtering - Time
 		"MainMenu_Addons_SearchBox_FillerText"				"搜索插件..."
-		"MainMenu_Addons_Filtering_Title"					"Filtering and Sorting Options (NOT IMPLEMENTED)"
-		"MainMenu_Addons_Filtering_Edit_Tooltip"			"Change the way how addons are filtered and sorted by in the addon list."
-		"MainMenu_Addons_Filtering_EnableAddons_Tooltip"	"启用或禁用列表中的所有插件"
-		"MainMenu_Addons_Filtering_Sort_Title"				"Sort by:"
-		"MainMenu_Addons_Filtering_Sort_TimeInstalled"		"Time Subscribed/Added"
-		"MainMenu_Addons_Filtering_Sort_Alpha"				"Alphabetical"
-		"MainMenu_Addons_Filtering_Sort_TimePublished"		"Upload/Published Date"
-		"MainMenu_Addons_Filtering_Sort_TimeLastUpdate"		"Last Updated Date"
+		"MainMenu_Addons_Filtering_Title"					"筛选与排序（不可用）"
+		"MainMenu_Addons_Filtering_Edit_Tooltip"			"更改插件列表中插件的筛选和排序方式。"
+		"MainMenu_Addons_Filtering_EnableAddons_Tooltip"	"启用或禁用列表中的所有插件。"
+		"MainMenu_Addons_Filtering_Sort_Title"				"排序方式："
+		"MainMenu_Addons_Filtering_Sort_TimeInstalled"		"订阅/添加时间"
+		"MainMenu_Addons_Filtering_Sort_Alpha"				"插件名称"
+		"MainMenu_Addons_Filtering_Sort_TimePublished"		"上传/发布日期"
+		"MainMenu_Addons_Filtering_Sort_TimeLastUpdate"		"上次更新日期"
 		
 		// Filtering - Source Type
-		"MainMenu_Addons_Filtering_Sort_InstallSrc"			"Addon Source Type"
-		"MainMenu_Addons_Filtering_Sort_InstallSrc_Local"	"Local Install"
-		"MainMenu_Addons_Filtering_Sort_InstallSrc_UGC"		"Steam Workshop"
+		"MainMenu_Addons_Filtering_Sort_InstallSrc"			"插件来源"
+		"MainMenu_Addons_Filtering_Sort_InstallSrc_Local"	"本地安装"
+		"MainMenu_Addons_Filtering_Sort_InstallSrc_UGC"		"Steam创意工坊"
 		
 		// Filtering - Campaigns
 		// These are sourced from the internal tags in workshop.kv3
@@ -1267,38 +1269,38 @@
 		
 		// Filtering - Addon Tags
 		// These are sourced from the internal tags in workshop.kv3
-		"MainMenu_Addons_Filtering_Sort_AddonTags"				"Addon Tags"
-		"MainMenu_Addons_Filtering_Sort_AddonTags_Model"		"Models"
-		"MainMenu_Addons_Filtering_Sort_AddonTags_Mats"			"Materials/Textures"
-		"MainMenu_Addons_Filtering_Sort_AddonTags_Scripts"		"Scripts"
-		"MainMenu_Addons_Filtering_Sort_AddonTags_Instance"		"Instances/Prefabs"
-		"MainMenu_Addons_Filtering_Sort_AddonTags_Theme"		"Theme"
-		"MainMenu_Addons_Filtering_Sort_AddonTags_Ported"		"Game Port"
+		"MainMenu_Addons_Filtering_Sort_AddonTags"				"插件类别"
+		"MainMenu_Addons_Filtering_Sort_AddonTags_Model"		"模型"
+		"MainMenu_Addons_Filtering_Sort_AddonTags_Mats"			"材质/贴图"
+		"MainMenu_Addons_Filtering_Sort_AddonTags_Scripts"		"脚本"
+		"MainMenu_Addons_Filtering_Sort_AddonTags_Instance"		"编辑器预制件"
+		"MainMenu_Addons_Filtering_Sort_AddonTags_Theme"		"主题"
+		"MainMenu_Addons_Filtering_Sort_AddonTags_Ported"		"移植"
 
 		// General Actions
-		"Common_On"									"On"
-		"Common_Off"								"Off"
-		"Common_Update"								"Update"
-		"Common_ComingSoon"							"Coming Soon!"
-		"Common_Gamemode"							"Gamemode"
-		"Common_Game"								"Game"
-		"Common_GameUpper"							"GAME"
+		"Common_On"									"开"
+		"Common_Off"								"关"
+		"Common_Update"								"更新"
+		"Common_ComingSoon"							"即将推出！"
+		"Common_Gamemode"							"游戏模式"
+		"Common_Game"								"游戏"
+		"Common_GameUpper"							"游戏"
 		"Common_Save"								"保存"
 		"Common_Close"								"关闭"
 		"Common_Cancel"								"取消"
 		"Common_OK"									"确定"
-		"Common_DontShowAgain"						"Don't show this again"
-		"Common_SelectAll"							"Select All"
-		"Common_Delete"								"Delete"
-		"Common_Remove"								"Remove"
-		"Common_Create"								"Create"
-		"Common_Edit"								"Edit"
-		"Common_Refresh"							"Refresh"
+		"Common_DontShowAgain"						"不再显示"
+		"Common_SelectAll"							"全选"
+		"Common_Delete"								"删除"
+		"Common_Remove"								"移除"
+		"Common_Create"								"新建"
+		"Common_Edit"								"编辑"
+		"Common_Refresh"							"刷新"
 		"Common_Search"								"搜索"
-		"Common_By"									"By"
+		"Common_By"									"作者："
 		"Common_SearchEllipsis"						"搜索..."
-		"Common_Multiplayer"						"Multiplayer"
-		"Common_Wiki"								"Open Wiki in Overlay"
+		"Common_Multiplayer"						"多人模式"
+		"Common_Wiki"								"在Steam叠加界面打开Wiki"
 		
 		"Action_Yes"								"是的"
 		"Action_No"									"不"
@@ -1311,17 +1313,17 @@
 		"Action_Discard"							"撤销"
 		
 		// Feature Unavailable
-		"MainMenu_Feature_Unavailable_Title"		"Feature Not Available"
-		"MainMenu_Feature_Unavailable_Description"	"This feature is a work-in-progress and cannot be accessed at this time."
+		"MainMenu_Feature_Unavailable_Title"		"功能暂未开放"
+		"MainMenu_Feature_Unavailable_Description"	"该功能正在开发中，暂未开放。"
 		
 		// QuitPrompt
 		"Action_Quit"								"退出"
 		"Action_QuitToDesktop"						"退出到桌面"
 		"Action_Quit_Message" 						"您确定要退出吗？"
-		"Action_Quit_InGame_Message"				"您确定要退出吗？\n\n未保存的进度可能丢失"
+		"Action_Quit_InGame_Message"				"您确定要退出吗？\n\n未保存的进度可能丢失。"
 		// quit_prompt console command
-		"MainMenu_ExitGameConfirmation_Title"		"Quit Game"
-		"MainMenu_ExitGameConfirmation_Message"		"Are you sure you want to quit the game?\n\nUnsaved progress may be lost."
+		"MainMenu_ExitGameConfirmation_Title"		"退出游戏"
+		"MainMenu_ExitGameConfirmation_Message"		"你确定要退出游戏吗？\n\n未保存的进度可能会丢失。"
 		
 		// Loading Screen
 		"LoadingProgress_Connecting" 				"正在连接服务器..."
@@ -1340,28 +1342,28 @@
 		// Temp Notices
 		// Unfinished Software Reminder
 		"MainMenu_PrereleaseNotice_Title"			"这是不稳定的预发布软件"
-		"MainMenu_PrereleaseNotice_Description"		"《传送门2: 社区版》是一个模组开发框架。目前，它仍然是未完成的软件。此预览版本仅面向内容创作者；某些关键功能可能缺失或正在积极开发中，并且底层游戏引擎正在进行重大代码重构，这些重构会完全重写和/或移除过时的遗留代码，为更大的质量改进和新功能铺平道路。因此，《传送门2: 社区版》及其SDK工具的某些方面可能存在可能对您的模组开发工作流程产生重大影响的错误"
+		"MainMenu_PrereleaseNotice_Description"		"《传送门2: 社区版》是一个模组开发框架。目前，它仍然是未完成的软件。此预览版本仅面向内容创作者；某些关键功能可能缺失或正在积极开发中，并且底层游戏引擎正在进行重大代码重构，这些重构会完全重写和/或移除过时的遗留代码，为更大的质量改进和新功能铺平道路。因此，《传送门2: 社区版》及其SDK工具的某些方面可能存在可能对您的模组开发工作流程产生重大影响的错误。
 
-The P2:CE campaign is also not finished, and is therefore not included in this preview release.
+《传送门2：社区版》的战役流程尚未完成，因此未包含在此预览版中。
 		
-We encourage you to file bug reports and feature requests on P2:CE's issue trackers at:
+我们鼓励您前往下列网站向《传送门2：社区版》提交问题报告和功能请求：
 
 	• https://github.com/StrataSource/Portal-2-Community-Edition
 	• https://github.com/StrataSource/Engine
 		
-By clicking on \"I Understand\", you acknowledge the risks involved in using this preview release. If you choose to decline these terms, P2:CE will exit.
+点击“我已了解”，即表示您已明白使用预发布版本所涉及的风险。若您选择拒绝，《传送门2：社区版》将退出。
 
-This message will only be displayed once, and will not be shown again upon acceptance."
+此信息仅显示一次，一旦确认，将不再显示。"
 
 		"MainMenu_Compat_Warning_Header"			"兼容性警告"
-		"MainMenu_Compat_Warning"					"<b>《传送门1》和《半衰期2》尚无法在《传送门2: 社区版》上完全正常运行</b>您可能会遇到诸如缺失或替换的材质、动画损坏、程序崩溃、缺失关键游戏元素等问题，但这并不是优先事项<b>请不要报告与《传送门1》/《半衰期2》相关的错误</b>"
+		"MainMenu_Compat_Warning"					"<b>《传送门1》和《半衰期2》尚无法在《传送门2: 社区版》上完全正常运行。</b>您可能会遇到诸如缺失或替换的材质、动画损坏、程序崩溃、缺失关键游戏元素等问题，但这并不是优先事项。<b>请不要报告与《传送门1》/《半衰期2》相关的错误。</b>"
 
-		"MainMenu_PrereleaseNotice_Acknowledge"		"I Understand"
-		"MainMenu_PrereleaseNotice_Decline"			"Decline"
+		"MainMenu_PrereleaseNotice_Acknowledge"		"我已了解"
+		"MainMenu_PrereleaseNotice_Decline"			"拒绝"
 		
 		// Playtest DOSA
 		"MainMenu_PlaytestDOSA_Title"				"欢迎来到《传送门2: 社区版》游戏测试！"
-		"MainMenu_PlaytestDOSA_Description"			"作为试玩测试的一部分，游戏将记录您的游戏演示和一些基本的性能数据\n这些数据将在事后上传，以供我们的开发人员审核，从而帮助我们改进游戏体验\n\n注意: 您可以在设置中随时同意或撤销此项许可"
+		"MainMenu_PlaytestDOSA_Description"			"作为试玩测试的一部分，游戏将记录您的游戏演示和一些基本的性能数据。\n这些数据将在事后上传，以供我们的开发人员审核，从而帮助我们改进游戏体验。\n\n注意: 您可以在设置中随时同意或撤销此项许可。"
 		"MainMenu_PlaytestDOSA_Consent"				"同意进行试玩数据收集"
 		"MainMenu_PlaytestDOSA_Revoke"				"撤回同意"
 	
@@ -1375,11 +1377,11 @@ This message will only be displayed once, and will not be shown again upon accep
 		"ColorPicker_Alpha"							"A"
 
 		// Dependency Warning
-		"DependencyWarning_Generic"					"您缺少一个或多个保障正常运行所依赖的插件"
+		"DependencyWarning_Generic"					"您缺少一个或多个保障正常运行所依赖的插件。"
 		"DependencyWarning_Header"					"缺少依赖项"
-		"DependencyWarning_Desc"					"您尝试启动的内容依赖于您未拥有的插件，下面列出了您缺少的插件，点击插件可以在Steam叠加界面中打开其Steam创意工坊页面。您可以忽略此警告并继续，但请对可能出现的缺少纹理或模型等问题做好心理预期"
-		"DependencyWarning_Loading"					"Retrieving Details..."
-		"DependencyWarning_Failed"					"Failed to retrieve details!"
+		"DependencyWarning_Desc"					"您尝试启动的内容依赖于您未拥有的插件。下面列出了您缺少的插件，点击插件可以在Steam叠加界面中打开其Steam创意工坊页面。您可以忽略此警告并继续，但请对可能出现的缺少纹理或模型等问题做好心理预期。"
+		"DependencyWarning_Loading"					"正在获取详细信息..."
+		"DependencyWarning_Failed"					"获取详细信息失败！"
 		"DependencyWarning_Action_Ignore"			"管他呢，继续！"
 		"DependencyWarning_Action_Cancel"			"取消"
 		"DependencyWarning_Resolved_Header"			"依赖问题已解决"
@@ -1397,76 +1399,76 @@ This message will only be displayed once, and will not be shown again upon accep
 		"MainMenu_DisconnectDialog_Message"					"原因如下：\n\n{s:disconnect_reason}"
 		
 		// generic disconnect reasons
-		"MainMenu_DisconnectDialog_Reason_TimeOut"			"服务器可能已崩溃或失去了网络连接。请稍等片刻，然后再次尝试连接"
-		"MainMenu_DisconnectDialog_Reason_TimeOutConnect"	"无法与服务器建立连接。指定的服务器IP地址/主机名无效，或者你的网络连接出现问题"
-		"MainMenu_DisconnectDialog_Reason_BuildTooOld"		"《传送门2: 社区版》可能需要更新才能连接该服务器。请退出游戏并在Steam客户端中确认更新至最新版本"
-		"MainMenu_DisconnectDialog_Reason_BuildTooNew"		"你的《传送门2: 社区版》的版本高于服务端版本。服主可能需要将服务器更新到最新版本"
-		"MainMenu_DisconnectDialog_Reason_DSExit"			"服务器已被所有者关闭"
-		"MainMenu_DisconnectDialog_Reason_Kicked"			"你已被该服务器踢出"
-		"MainMenu_DisconnectDialog_Reason_KickedVote"		"你已被该服务器投票踢出"
-		"MainMenu_DisconnectDialog_Reason_Banned"			"你已被该服务器封禁"
-		"MainMenu_DisconnectDialog_Reason_BannedVote"		"你已被该服务器投票封禁"
+		"MainMenu_DisconnectDialog_Reason_TimeOut"			"服务器可能已崩溃或失去了网络连接。请稍等片刻，然后再次尝试连接。"
+		"MainMenu_DisconnectDialog_Reason_TimeOutConnect"	"无法与服务器建立连接。指定的服务器IP地址/主机名无效，或者你的网络连接出现问题。"
+		"MainMenu_DisconnectDialog_Reason_BuildTooOld"		"《传送门2: 社区版》可能需要更新才能连接该服务器。请退出游戏并在Steam客户端中确认更新至最新版本。"
+		"MainMenu_DisconnectDialog_Reason_BuildTooNew"		"你的《传送门2: 社区版》的版本高于服务端版本。服主可能需要将服务器更新到最新版本。"
+		"MainMenu_DisconnectDialog_Reason_DSExit"			"服务器已被所有者关闭。"
+		"MainMenu_DisconnectDialog_Reason_Kicked"			"你已被该服务器踢出。"
+		"MainMenu_DisconnectDialog_Reason_KickedVote"		"你已被该服务器投票踢出。"
+		"MainMenu_DisconnectDialog_Reason_Banned"			"你已被该服务器封禁。"
+		"MainMenu_DisconnectDialog_Reason_BannedVote"		"你已被该服务器投票封禁。"
 		
 		// Disconnect Notices - ENetworkDisconnectionReason (per matchmaking dll and cross-ref with csgo_english + dota_english)
 		// These need to be shared on here and in panorama_english for DS host reasons
-		"GameUI_Disconnect_User"							"玩家已断开与服务器的连接"						// NETWORK_DISCONNECT_DISCONNECT_BY_USER
-		"GameUI_Disconnect_Server"							"玩家已被服务器移除"								// NETWORK_DISCONNECT_DISCONNECT_BY_SERVER
-		"GameUI_Disconnect_ConnectionLost"					"与服务器的连接丢失"							// NETWORK_DISCONNECT_LOST, NETWORK_DISCONNECT_SNS_CONNECTION_LOST
-		"GameUI_Disconnect_ConnectionOverflow"				"客户端接收到的数据包过大"				// NETWORK_DISCONNECT_OVERFLOW
-		"GameUI_Disconnect_ServerInfoOverflow"				"服务器元数据数据包过大"					// NETWORK_DISCONNECT_SERVERINFO_OVERFLOW
-		"GameUI_Disconnect_TickMessage"						"Tick数据包过大"								// NETWORK_DISCONNECT_TICKMSG_OVERFLOW
-		"GameUI_Disconnect_StringTableMessage"				"客户端接收到的StringTable数据过大"		// NETWORK_DISCONNECT_STRINGTABLEMSG_OVERFLOW
-		"GameUI_Disconnect_DeltaEntMessage"					"客户端接收到的DeltaEnt数据过大"		// NETWORK_DISCONNECT_DELTAENTMSG_OVERFLOW
-		"GameUI_Disconnect_TempEntMessage"					"客户端接收到的TempEnt数据过大"			// NETWORK_DISCONNECT_TEMPENTMSG_OVERFLOW
-		"GameUI_Disconnect_SoundsMessage"					"同时尝试播放的音效过多"			// NETWORK_DISCONNECT_SOUNDSMSG_OVERFLOW
-		"GameUI_Disconnect_ReliableOverflow"				"服务器端发生了可靠数据流溢出"				// NETWORK_DISCONNECT_RELIABLEOVERFLOW
-		"GameUI_Disconnect_BadClientDeltaTick"				"客户端收到错误的Tick时间点"			// NETWORK_DISCONNECT_BADDELTATICK
-		"GameUI_Disconnect_NoMoreSplits"					"暂无更多可用的分屏位置"					// NETWORK_DISCONNECT_NOMORESPLITS
-		"GameUI_Disconnect_TimedOut"						"服务器响应超时"					// NETWORK_DISCONNECT_TIMEDOUT
-		"GameUI_Disconnect_Disconnected"					"你已从服务器断开连接"			// NETWORK_DISCONNECT_DISCONNECTED
-		"GameUI_Disconnect_LeavingSplit"					"正在退出分屏模式"							// NETWORK_DISCONNECT_LEAVINGSPLIT
-		"GameUI_Disconnect_DifferentClassTables"			"服务器的类表结构与客户端不一致"	// NETWORK_DISCONNECT_DIFFERENTCLASSTABLES
-		"GameUI_Disconnect_NoSpectators"					"此服务器不支持旁观者模式"			// NETWORK_DISCONNECT_NOSPECTATORS
-		"GameUI_Disconnect_Kicked"							"被服务器踢出"									// NETWORK_DISCONNECT_KICKED
-		"GameUI_Disconnect_BanAdded"						"被服务器封禁"									// NETWORK_DISCONNECT_BANADDED
-		"GameUI_Disconnect_KickBanAdded"					"被服务器封禁"									// NETWORK_DISCONNECT_KICKBANADDED - Isn't this the same thing as BANADDED?
-		"GameUI_Disconnect_PureServer_ClientExtra"			"内容有效性检查失败：客户端加载了其他非共享资源"	// NETWORK_DISCONNECT_PURESERVER_CLIENTEXTRA
-		"GameUI_Disconnect_PureServer_Mismatch"				"内容一致性检查失败：客户端资源与服务端版本不匹配"	// NETWORK_DISCONNECT_PURESERVER_MISMATCH
-		"GameUI_Disconnect_UserCmd"							"解析用户命令时出错"						// NETWORK_DISCONNECT_USERCMD
-		"GameUI_Disconnect_RejectedByGame"					"连接被服务器拒绝"						// NETWORK_DISCONNECT_REJECTED_BY_GAME
-		"GameUI_Disconnect_BadServerPassword"				"服务器密码无效"								// NETWORK_DISCONNECT_BAD_SERVER_PASSWORD
-		"GameUI_Disconnect_ConnectionFailure"				"无法连接到服务器"							// NETWORK_DISCONNECT_CONNECTION_FAILURE
-		"GameUI_Disconnect_ConnectionClosing"				"连接已被服务器关闭"							// NETWORK_DISCONNECT_CONNECTION_CLOSING
-		"GameUI_Disconnect_SessionMigrated"					"当前对局已被转移至另一服务器"			// NETWORK_DISCONNECT_SESSION_MIGRATED
-		"GameUI_Disconnect_PlayerRemovedFromHostSession"	"玩家已被房主移除"								// NETWORK_DISCONNECT_PLAYER_REMOVED_FROM_HOST_SESSION
-		"GameUI_Disconnect_TooManyCommands"					"向服务器发出的命令过多"					// NETWORK_DISCONNECT_SERVER_DOS
-		"GameUI_Disconnect_SteamIDBanned"					"该帐户已被禁止访问Steam社区"			// NETWORK_DISCONNECT_STEAM_BANNED
-		"GameUI_Disconnect_SteamIDInUse"					"该Steam帐户目前正在被其他人使用"		// NETWORK_DISCONNECT_STEAM_INUSE
-		"GameUI_Disconnect_SteamInUse"						"该Steam帐户目前正在被其他人使用"		// NETWORK_DISCONNECT_STEAM_LOGGED_IN_ELSEWHERE - Why the hell is this disconnect reason duped twice?
-		"GameUI_Disconnect_SteamTicket"						"Steam登录凭证无效"							// NETWORK_DISCONNECT_STEAM_TICKET
-		"GameUI_Disconnect_SteamLogon"						"玩家尚未登录Steam网络"			// NETWORK_DISCONNECT_STEAM_LOGON, NETWORK_DISCONNECT_STEAM_AUTHCANCELLED, NETWORK_DISCONNECT_STEAM_AUTHALREADYUSED, NETWORK_DISCONNECT_STEAM_AUTHINVALID
-		"GameUI_Disconnect_SteamVAC"						"该玩家因作弊被禁止参与在线游戏"		// NETWORK_DISCONNECT_STEAM_VACBANSTATE
-		"GameUI_Disconnect_SteamTimeOut"					"无法验证维尔福反作弊系统 (VAC) 的封禁状态"	// NETWORK_DISCONNECT_STEAM_VAC_CHECK_TIMEDOUT
-		"GameUI_Disconnect_SteamDropped"					"您已断开与Steam网络的连接"	// NETWORK_DISCONNECT_STEAM_DROPPED
-		"GameUI_Disconnect_SteamOwnership"					"当前Steam帐户未持有《传送门 2》 和/ 或《传送门2: 社区版》的许可"	// NETWORK_DISCONNECT_STEAM_OWNERSHIP
-		"GameUI_Disconnect_LocalProblem_ManyRelays"			"多次尝试连接Steam数据报中继 (SDR) 服务器后，仍无法恢复游戏状态。这台计算机的网络连接可能存在问题"		// NETWORK_DISCONNECT_SNS_LOCAL_MANYRELAYS
-		"GameUI_Disconnect_LocalProblem_HostedServerPrimaryRelay"		"服务器与Steam数据报中继 (SDR) 服务器断开连接"		// NETWORK_DISCONNECT_SNS_LOCAL_HOSTEDSERVERPRIMARYRELAY
-		"GameUI_Disconnect_LocalProblem_NetworkConfig"		"无法下载Steam数据报中继 (SDR) 服务器配置数据"		// NETWORK_DISCONNECT_SNS_LOCAL_NETWORKCONFIG
-		"GameUI_Disconnect_LocalProblem_Other"				"SDR中继通信失败"						// NETWORK_DISCONNECT_SNS_LOCAL_OTHER
-		"GameUI_Disconnect_RemoteProblem_TimeoutConnecting"	"等待连接服务器时超时"				// NETWORK_DISCONNECT_SNS_REMOTE_TIMEOUTCONNECTING
-		"GameUI_Disconnect_RemoteProblem_Timeout"			"等待服务器时超时"							// NETWORK_DISCONNECT_SNS_REMOTE_TIMEOUT
-		"GameUI_Disconnect_RemoteProblem_BadCrypt"			"从服务器接收到的加密设置无效或配置错误"		// NETWORK_DISCONNECT_SNS_REMOTE_BADCRYPT
-		"GameUI_Disconnect_RemoteProblem_BadCert"			"服务器提供的加密证书无效"	// NETWORK_DISCONNECT_SNS_REMOTE_BADCERT
-		"GameUI_Disconnect_ClosedByPeer_Timeout"			"在等待对端响应时超时"			// NETWORK_DISCONNECT_SNS_CLOSEDBYPEER_TIMEOUT
-		"GameUI_Disconnect_ClosedByPeer"					"连接被对端关闭"							// NETWORK_DISCONNECT_SNS_CLOSEDBYPEER_OTHER
-		"GameUI_Disconnect_InternalError"					"内部通信错误。检查开发者控制台以获取详细信息"	// NETWORK_DISCONNECT_SNS_INTERNALERROR
-		"GameUI_Disconnect_Unusual"							"客户端/服务器连接发生未知错误。检查开发者控制台以获取详细信息"		// NETWORK_DISCONNECT_SNS_UNUSUAL
-		"GameUI_Disconnect_HLTVBadRelayPassword"			"SourceTV中继代理密码无效"						// NETWORK_DISCONNECT_HLTV_BADRELAYPASSWORD
-		"GameUI_Disconnect_HLTVBadSpectatorPassword"		"SourceTV观战密码无效"					// NETWORK_DISCONNECT_HLTV_BADSPECTATORPASSWORD
-		"GameUI_Disconnect_HLTVRestricted"					"观战功能仅限局域网客户端使用"				// NETWORK_DISCONNECT_HLTV_RESTRICTED
-		"GameUI_Disconnect_HLTVUnavailable"					"SourceTV在此服务器上不可用"			// NETWORK_DISCONNECT_HLTV_UNAVAILABLE
-		"GameUI_Disconnect_HLTVStop"						"SourceTV观战主机正在关闭"				// NETWORK_DISCONNECT_HLTV_STOP
-		"GameUI_Disconnect_HLTVNoRelaysAvailable"			"无可用的SourceTV中继代理"			// NETWORK_DISCONNECT_HLTV_NO_RELAYS_AVAILABLE
-		"GameUI_Disconnect_HLTVRestrictedToLocalSpectators"			"观战功能仅限局域网客户端使用"		// NETWORK_DISCONNECT_HLTV_RESTRICTED_TO_LOCAL_SPECTATORS - Again???
+		"GameUI_Disconnect_User"							"玩家已断开与服务器的连接。"						// NETWORK_DISCONNECT_DISCONNECT_BY_USER
+		"GameUI_Disconnect_Server"							"玩家已被服务器移除。"								// NETWORK_DISCONNECT_DISCONNECT_BY_SERVER
+		"GameUI_Disconnect_ConnectionLost"					"与服务器的连接丢失。"							// NETWORK_DISCONNECT_LOST, NETWORK_DISCONNECT_SNS_CONNECTION_LOST
+		"GameUI_Disconnect_ConnectionOverflow"				"客户端接收到的数据包过大。"				// NETWORK_DISCONNECT_OVERFLOW
+		"GameUI_Disconnect_ServerInfoOverflow"				"服务器元数据数据包过大。"					// NETWORK_DISCONNECT_SERVERINFO_OVERFLOW
+		"GameUI_Disconnect_TickMessage"						"Tick数据包过大。"								// NETWORK_DISCONNECT_TICKMSG_OVERFLOW
+		"GameUI_Disconnect_StringTableMessage"				"客户端接收到的StringTable数据过大。"		// NETWORK_DISCONNECT_STRINGTABLEMSG_OVERFLOW
+		"GameUI_Disconnect_DeltaEntMessage"					"客户端接收到的DeltaEnt数据过大。"		// NETWORK_DISCONNECT_DELTAENTMSG_OVERFLOW
+		"GameUI_Disconnect_TempEntMessage"					"客户端接收到的TempEnt数据过大。"			// NETWORK_DISCONNECT_TEMPENTMSG_OVERFLOW
+		"GameUI_Disconnect_SoundsMessage"					"同时尝试播放的音效过多。"			// NETWORK_DISCONNECT_SOUNDSMSG_OVERFLOW
+		"GameUI_Disconnect_ReliableOverflow"				"服务器端发生了可靠数据流溢出。"				// NETWORK_DISCONNECT_RELIABLEOVERFLOW
+		"GameUI_Disconnect_BadClientDeltaTick"				"客户端收到错误的Tick时间点。"			// NETWORK_DISCONNECT_BADDELTATICK
+		"GameUI_Disconnect_NoMoreSplits"					"暂无更多可用的分屏位置。"					// NETWORK_DISCONNECT_NOMORESPLITS
+		"GameUI_Disconnect_TimedOut"						"服务器响应超时。"					// NETWORK_DISCONNECT_TIMEDOUT
+		"GameUI_Disconnect_Disconnected"					"你已从服务器断开连接。"			// NETWORK_DISCONNECT_DISCONNECTED
+		"GameUI_Disconnect_LeavingSplit"					"正在退出分屏模式。"							// NETWORK_DISCONNECT_LEAVINGSPLIT
+		"GameUI_Disconnect_DifferentClassTables"			"服务器的类表结构与客户端不一致。"	// NETWORK_DISCONNECT_DIFFERENTCLASSTABLES
+		"GameUI_Disconnect_NoSpectators"					"此服务器不支持旁观者模式。"			// NETWORK_DISCONNECT_NOSPECTATORS
+		"GameUI_Disconnect_Kicked"							"被服务器踢出。"									// NETWORK_DISCONNECT_KICKED
+		"GameUI_Disconnect_BanAdded"						"被服务器封禁。"									// NETWORK_DISCONNECT_BANADDED
+		"GameUI_Disconnect_KickBanAdded"					"被服务器封禁。"									// NETWORK_DISCONNECT_KICKBANADDED - Isn't this the same thing as BANADDED?
+		"GameUI_Disconnect_PureServer_ClientExtra"			"内容有效性检查失败：客户端加载了其他非共享资源。"	// NETWORK_DISCONNECT_PURESERVER_CLIENTEXTRA
+		"GameUI_Disconnect_PureServer_Mismatch"				"内容一致性检查失败：客户端资源与服务端版本不匹配。"	// NETWORK_DISCONNECT_PURESERVER_MISMATCH
+		"GameUI_Disconnect_UserCmd"							"解析用户命令时出错。"						// NETWORK_DISCONNECT_USERCMD
+		"GameUI_Disconnect_RejectedByGame"					"连接被服务器拒绝。"						// NETWORK_DISCONNECT_REJECTED_BY_GAME
+		"GameUI_Disconnect_BadServerPassword"				"服务器密码无效。"								// NETWORK_DISCONNECT_BAD_SERVER_PASSWORD
+		"GameUI_Disconnect_ConnectionFailure"				"无法连接到服务器。"							// NETWORK_DISCONNECT_CONNECTION_FAILURE
+		"GameUI_Disconnect_ConnectionClosing"				"连接已被服务器关闭。"							// NETWORK_DISCONNECT_CONNECTION_CLOSING
+		"GameUI_Disconnect_SessionMigrated"					"当前对局已被转移至另一服务器。"			// NETWORK_DISCONNECT_SESSION_MIGRATED
+		"GameUI_Disconnect_PlayerRemovedFromHostSession"	"玩家已被房主移除。"								// NETWORK_DISCONNECT_PLAYER_REMOVED_FROM_HOST_SESSION
+		"GameUI_Disconnect_TooManyCommands"					"向服务器发出的命令过多。"					// NETWORK_DISCONNECT_SERVER_DOS
+		"GameUI_Disconnect_SteamIDBanned"					"该帐户已被禁止访问Steam社区。"			// NETWORK_DISCONNECT_STEAM_BANNED
+		"GameUI_Disconnect_SteamIDInUse"					"该Steam帐户目前正在被其他人使用。"		// NETWORK_DISCONNECT_STEAM_INUSE
+		"GameUI_Disconnect_SteamInUse"						"该Steam帐户目前正在被其他人使用。"		// NETWORK_DISCONNECT_STEAM_LOGGED_IN_ELSEWHERE - Why the hell is this disconnect reason duped twice?
+		"GameUI_Disconnect_SteamTicket"						"Steam登录凭证无效。"							// NETWORK_DISCONNECT_STEAM_TICKET
+		"GameUI_Disconnect_SteamLogon"						"玩家尚未登录Steam网络。"			// NETWORK_DISCONNECT_STEAM_LOGON, NETWORK_DISCONNECT_STEAM_AUTHCANCELLED, NETWORK_DISCONNECT_STEAM_AUTHALREADYUSED, NETWORK_DISCONNECT_STEAM_AUTHINVALID
+		"GameUI_Disconnect_SteamVAC"						"该玩家因作弊被禁止参与在线游戏。"		// NETWORK_DISCONNECT_STEAM_VACBANSTATE
+		"GameUI_Disconnect_SteamTimeOut"					"无法验证Valve反作弊系统 (VAC) 的封禁状态。"	// NETWORK_DISCONNECT_STEAM_VAC_CHECK_TIMEDOUT
+		"GameUI_Disconnect_SteamDropped"					"您已断开与Steam网络的连接。"	// NETWORK_DISCONNECT_STEAM_DROPPED
+		"GameUI_Disconnect_SteamOwnership"					"当前Steam帐户未持有《传送门 2》 和/ 或《传送门2: 社区版》的许可。"	// NETWORK_DISCONNECT_STEAM_OWNERSHIP
+		"GameUI_Disconnect_LocalProblem_ManyRelays"			"多次尝试连接Steam数据报中继 (SDR) 服务器后，仍无法恢复游戏状态。这台计算机的网络连接可能存在问题。"		// NETWORK_DISCONNECT_SNS_LOCAL_MANYRELAYS
+		"GameUI_Disconnect_LocalProblem_HostedServerPrimaryRelay"		"服务器与Steam数据报中继 (SDR) 服务器断开连接。"		// NETWORK_DISCONNECT_SNS_LOCAL_HOSTEDSERVERPRIMARYRELAY
+		"GameUI_Disconnect_LocalProblem_NetworkConfig"		"无法下载Steam数据报中继 (SDR) 服务器配置数据。"		// NETWORK_DISCONNECT_SNS_LOCAL_NETWORKCONFIG
+		"GameUI_Disconnect_LocalProblem_Other"				"SDR中继通信失败。"						// NETWORK_DISCONNECT_SNS_LOCAL_OTHER
+		"GameUI_Disconnect_RemoteProblem_TimeoutConnecting"	"等待连接服务器时超时。"				// NETWORK_DISCONNECT_SNS_REMOTE_TIMEOUTCONNECTING
+		"GameUI_Disconnect_RemoteProblem_Timeout"			"等待服务器时超时。"							// NETWORK_DISCONNECT_SNS_REMOTE_TIMEOUT
+		"GameUI_Disconnect_RemoteProblem_BadCrypt"			"从服务器接收到的加密设置无效或配置错误。"		// NETWORK_DISCONNECT_SNS_REMOTE_BADCRYPT
+		"GameUI_Disconnect_RemoteProblem_BadCert"			"服务器提供的加密证书无效。"	// NETWORK_DISCONNECT_SNS_REMOTE_BADCERT
+		"GameUI_Disconnect_ClosedByPeer_Timeout"			"在等待对端响应时超时。"			// NETWORK_DISCONNECT_SNS_CLOSEDBYPEER_TIMEOUT
+		"GameUI_Disconnect_ClosedByPeer"					"连接被对端关闭。"							// NETWORK_DISCONNECT_SNS_CLOSEDBYPEER_OTHER
+		"GameUI_Disconnect_InternalError"					"内部通信错误。检查开发者控制台以获取详细信息。"	// NETWORK_DISCONNECT_SNS_INTERNALERROR
+		"GameUI_Disconnect_Unusual"							"客户端/服务器连接发生未知错误。检查开发者控制台以获取详细信息。"		// NETWORK_DISCONNECT_SNS_UNUSUAL
+		"GameUI_Disconnect_HLTVBadRelayPassword"			"SourceTV中继代理密码无效。"						// NETWORK_DISCONNECT_HLTV_BADRELAYPASSWORD
+		"GameUI_Disconnect_HLTVBadSpectatorPassword"		"SourceTV观战密码无效。"					// NETWORK_DISCONNECT_HLTV_BADSPECTATORPASSWORD
+		"GameUI_Disconnect_HLTVRestricted"					"观战功能仅限局域网客户端使用。"				// NETWORK_DISCONNECT_HLTV_RESTRICTED
+		"GameUI_Disconnect_HLTVUnavailable"					"SourceTV在此服务器上不可用。"			// NETWORK_DISCONNECT_HLTV_UNAVAILABLE
+		"GameUI_Disconnect_HLTVStop"						"SourceTV观战主机正在关闭。"				// NETWORK_DISCONNECT_HLTV_STOP
+		"GameUI_Disconnect_HLTVNoRelaysAvailable"			"无可用的SourceTV中继代理。"			// NETWORK_DISCONNECT_HLTV_NO_RELAYS_AVAILABLE
+		"GameUI_Disconnect_HLTVRestrictedToLocalSpectators"			"观战功能仅限局域网客户端使用。"		// NETWORK_DISCONNECT_HLTV_RESTRICTED_TO_LOCAL_SPECTATORS - Again???
 	}
 }
