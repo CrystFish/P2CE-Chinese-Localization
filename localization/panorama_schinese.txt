@@ -288,7 +288,7 @@
 
 		"P2COOP_SelectScreen_SelectNoOption"		"请前进到拆卸房间。"
 		"P2COOP_SelectScreen_Select"				"请选择关卡，然后\n前进到拆卸房间。"
-		"P2COOP_SelectScreen_CourseNum"				"Course {s:coop_course_name}"
+		"P2COOP_SelectScreen_CourseNum"				"测试 {s:coop_course_name}"
 		"P2COOP_SelectScreen_PercentComplete"		"已完成 {i:coop_completion_percentage}%"
 		
 		// CSGO Pano
@@ -1273,7 +1273,7 @@
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Model"		"模型"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Mats"			"材质/贴图"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Scripts"		"脚本"
-		"MainMenu_Addons_Filtering_Sort_AddonTags_Instance"		"Instances/Prefabs"
+		"MainMenu_Addons_Filtering_Sort_AddonTags_Instance"		"编辑器预制件"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Theme"		"主题"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Ported"		"移植"
 
