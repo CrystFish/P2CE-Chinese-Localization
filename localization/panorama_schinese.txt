@@ -208,8 +208,8 @@
 
 		"P2_Taunt_Earned"					"动作解读"
 
-		"P2_Scoreboard_Ping"				"Ping"
-		"P2_Scoreboard_Dead"				"Dead"
+		"P2_Scoreboard_Ping"				"交流数"
+		"P2_Scoreboard_Dead"				"死亡数"
 		"P2_Team_Red"						"P-body"
 		"P2_Team_Blue"						"Atlas"
 		"P2_Team_RedUpper"					"P-BODY"
@@ -218,15 +218,15 @@
 		"P2_ScoreBoard_Player"				"%s2 - %s1"
 		"P2_ScoreBoard_Players"				"%s2 - %s1s"
 
-		"Valve_Hint_Sprint"					"奔跑"
-		"Valve_Hint_GravGun"				"Punt and Pull Objects"
+		"Valve_Hint_Sprint"					"疾跑"
+		"Valve_Hint_GravGun"				"抛掷与拉起物品"
 
 		"Valve_Hint_Look_Up"				"向上看"
 		"Valve_Hint_Look_Down"				"向下看"
 		"Valve_Hint_Use_Bed"				"睡觉"
-		"Valve_Hint_Movement_Keys"			"步行"
+		"Valve_Hint_Movement_Keys"			"行走"
 		"Valve_Hint_Say_Apple"				"说 苹果"
-		"Valve_Hint_Talk"					"说话"
+		"Valve_Hint_Talk"					"是"
 
 		"Valve_Hint_Crouch"					"蹲下"
 		"Valve_Hint_Uncrouch"				"站起"
@@ -254,14 +254,14 @@
 		// Instructor
 		"Instructor_Air_Taunt"				"空中动作"
 		"Instructor_New_Taunt_Earned"		"动作"
-		"Instructor_Partner_View"			"按住预览伙伴视角"
+		"Instructor_Partner_View"			"按住查看伙伴视角"
 		"Instructor_Start_Countdown"		"按住开始倒计时"
 		"Instructor_Return_To_Hub"			"回到大厅"
 		"Instructor_Create_Blue_Portal"		"建立蓝色传送门"
 		"Instructor_Create_Purple_Portal"	"建立紫色传送门"
 		"Instructor_Create_Orange_Portal"	"建立橙色传送门"
 		"Instructor_Create_Red_Portal"		"建立红色传送门"
-		"Instructor_Walk"					"步行"
+		"Instructor_Walk"					"行走"
 		"Instructor_Push_Button"			"激活"
 		"Instructor_Pick_Up"				"拾取"
 		"Instructor_Drop"					"放下"
@@ -270,26 +270,26 @@
 		"Instructor_Zoom"					"缩放"
 		"Instructor_SS_Control"				"按键以控制其他玩家"
 
-		"Paint_Instructor_teach_bounce_suppression"				"Hold to prevent bouncing"
+		"Paint_Instructor_teach_bounce_suppression"				"按住以停止弹跳"
 		
 		// Invites
-		"P2COOP_Invite_Title"						"Portal 2 Invite"
-		"P2COOP_Invite_Body"						"You have been invited to play a Portal 2 cooperative game!"
+		"P2COOP_Invite_Title"						"《传送门2》邀请"
+		"P2COOP_Invite_Body"						"您已被邀请进行《传送门2》的合作游戏！"
 
 		// COOP
-		"P2COOP_TrackName_1"						"Team Building"
-		"P2COOP_TrackName_2"						"Mass and Velocity"
-		"P2COOP_TrackName_3"						"Hard-Light Surfaces"
-		"P2COOP_TrackName_4"						"Excursion Funnels"
-		"P2COOP_TrackName_5"						"Mobility Gels"
-		"P2COOP_TrackName_6"						"Advanced Chambers"
+		"P2COOP_TrackName_1"						"团队构筑"
+		"P2COOP_TrackName_2"						"重力与加速度"
+		"P2COOP_TrackName_3"						"强光"
+		"P2COOP_TrackName_4"						"牵引光束"
+		"P2COOP_TrackName_5"						"流动凝胶"
+		"P2COOP_TrackName_6"						"进阶测试"
 
-		"P2COOP_WAITINGFORPARTNER"					"Waiting for Partner"
+		"P2COOP_WAITINGFORPARTNER"					"等待伙伴中"
 
-		"P2COOP_SelectScreen_SelectNoOption"		"Please proceed to the disassembly\nchambers."
-		"P2COOP_SelectScreen_Select"				"Please select a level, then\nproceed to the disassembly chambers."
+		"P2COOP_SelectScreen_SelectNoOption"		"请前进到拆卸房间。"
+		"P2COOP_SelectScreen_Select"				"请选择关卡，然后\n前进到拆卸房间。"
 		"P2COOP_SelectScreen_CourseNum"				"Course {s:coop_course_name}"
-		"P2COOP_SelectScreen_PercentComplete"		"{i:coop_completion_percentage}% COMPLETED"
+		"P2COOP_SelectScreen_PercentComplete"		"已完成 {i:coop_completion_percentage}%"
 		
 		// CSGO Pano
 		"UI_Submit"									"提交"
@@ -447,7 +447,7 @@
 		"Debugger_Revert"							"撤销全部更改"
 		"Debugger_PanelStyleInvalid"				"编辑时样式变更！按下 F5 键重新载入显示样式"
 		"Debugger_AnimationHeader"					"动画关键帧"
-		"Debugger_ToggleTheme"						"Toggle Theme"
+		"Debugger_ToggleTheme"						"切换主题"
 		"Debugger_DevInfo"							"显示开发者信息"
 		"Debugger_Smaller"							"▼ 更小"
 		"Debugger_Larger"							"▲ 更大"
@@ -469,7 +469,7 @@
 		"Settings_General_Disabled"						"已禁用"
 		"Settings_General_Auto"							"自动"
 		"Settings_General_Autodetect"					"自动检测"
-		"Settings_General_EngineersToast"				"The Engineer's Toaster"	// YEAH, TOAST!!!!!!
+		"Settings_General_EngineersToast"				"工程师的面包机"	// YEAH, TOAST!!!!!!
 		"Settings_General_Potato"						"PotatOS级"
 		"Settings_General_VeryLow"						"非常低"
 		"Settings_General_Low"							"低"
@@ -667,40 +667,40 @@
 		"Settings_Video_TripleMonitor"					"三重显示模式"
 		"Settings_Video_TripleMonitor_Info"				"将UI和HUD限制在显示屏的中央三分之一区域。适用于跨三台显示器的显示屏。"
 
-		"Settings_TextureReplace_Title"					"Texture Loading"
-		"Settings_TextureReplace_Type"					"Default Error Texture Appearance"
-		"Settings_TextureReplace_Type_Info"				"What replacement texture to use for missing materials, for when certain games (e.g. HL2, CS:GO, TF2) are not installed and mounted.
-		<h2>Unshaded</h2>Unshaded purple and black error chekerboard textures seen in other Source Engine games. Not intended for gameplay, but makes it clear to map authors if a texture is missing.
-		<h2>Shaded</h2>Grey checkerboard textures, but with shading from map lighting, so should provide reasonably good visiblity ingame. Recommended for anyone playing with missing textures.
-		A map reload is required for this change to take effect."
-		"Settings_TextureReplace_0"						"Unshaded (Purple-Black)"
-		"Settings_TextureReplace_1"						"Shaded (Grey)"
-		"Settings_TextureReplace_TypeCubemap"			"Cubemap Error Texture Appearance"
-		"Settings_TextureReplace_TypeCubemap_Info"		"What replacement texture to use for missing cubemaps. Cubemaps are used to achieve reflective surfaces. They can be missing if a map didn't have them built as part of the compile process.
-		<h2>Unshaded (Purple-Black)</h2>Similar to identically-named default error texture.
-		<h2>Unshaded (Black)</h2>Black, non reflective texture, used when a map was not designed with cubemaps in mind. Recommended for gameplay.
-		<h2>Default Engine Cubemap</h2>Imitates reflection from preset surroundings. Does not take actual map geometry into account. Will not look convincing most of the time."
-		"Settings_TextureReplace_TypeCubemap_0"			"Unshaded (Purple-Black)"
-		"Settings_TextureReplace_TypeCubemap_1"			"Unshaded (Black)"
-		"Settings_TextureReplace_TypeCubemap_2"			"Default Engine Cubemap"
-		"Settings_TextureReplace_Advanced"				"Color-Accurate Error Texture Replacements"
-		"Settings_TextureReplace_Advanced_Info"			"Use a more gameplay-friendly approach for missing textures instead of default error textures.
-		<h2>Disabled</h2>Do not use this feature and use default error textures instead.
-		<h2>Colored</h2>Missing textures will be colored based on the surface's reflectivity data. This should be similar to the overall color of the missing texture. Use this on maps where the subsequent option falsely detects surfaces as water or the like.
-		<h2>Colored and Special Overrides</h2>Missing textures will be colored, like the above option, but will also detect transparent textures and provide meaningful replacements. Recommended unless you are mapping.
-		A map reload is required for this change to take effect."
-		"Settings_TextureReplace_Advanced_0"			"Disabled"
-		"Settings_TextureReplace_Advanced_1"			"Colored"
-		"Settings_TextureReplace_Advanced_2"			"Colored and Special Overrides"
-		"Settings_TextureReplace_ReplaceTexture"		"Replacement Base Texture"
-		"Settings_TextureReplace_ReplaceTexture_Info"	"What base texture to use when 'Color-accurate Error Texture Replacements' are enabled, previewable on the left. The approximated color will then get applied to it ingame.
-		Adds definition to textures, helpful for seeing depth and distance.
-		A map reload is required for this change to take effect."
-		"Settings_TextureReplace_Texture_None"			"None"
-		"Settings_TextureReplace_Texture_Noise"			"Noise"
-		"Settings_TextureReplace_Texture_Grid"			"Grid"
-		"Settings_TextureReplace_Texture_GridWithNoise"	"Grid with Noise"
-		"Settings_TextureReplace_Texture_Custom"		"Custom"
+		"Settings_TextureReplace_Title"					"纹理加载"
+		"Settings_TextureReplace_Type"					"默认错误纹理外观"
+		"Settings_TextureReplace_Type_Info"				"用于替代缺失材质的纹理。当某些游戏（例如 HL2、CS:GO、TF2）未安装或未挂载时，将使用所选替代纹理。
+		<h2>无光照</h2>与其他起源引擎游戏中相同的紫黑相间棋盘格纹理。不适合正常游玩，但能让地图作者更容易发现缺失的纹理。
+		<h2>受光照</h2>灰色棋盘格纹理，会受到地图光照影响，因此在游戏中具有较低的违和度。推荐遇到缺失纹理的玩家使用。
+		此更改需要重新加载地图后才会生效。"
+		"Settings_TextureReplace_0"						"无光照（紫黑）"
+		"Settings_TextureReplace_1"						"受光照（灰色）"
+		"Settings_TextureReplace_TypeCubemap"			"立方体贴图错误纹理外观"
+		"Settings_TextureReplace_TypeCubemap_Info"		"用于缺失立方体贴图时的替代纹理。立方体贴图用于实现反射表面。如果地图在编译过程中未生成立方体贴图，则可能会缺失。
+		<h2>无光照（紫黑）</h2>与同名默认错误纹理类似。
+		<h2>无光照（黑色）</h2>黑色、无反射纹理，适用于未针对立方体贴图设计的地图。推荐用于正常游玩。
+		<h2>引擎默认立方体贴图</h2>模拟来自预设环境的反射，不会考虑地图的实际几何结构，因此大多数情况下效果不会很真实。"
+		"Settings_TextureReplace_TypeCubemap_0"			"无光照（紫黑）"
+		"Settings_TextureReplace_TypeCubemap_1"			"无光照（黑色）"
+		"Settings_TextureReplace_TypeCubemap_2"			"引擎默认立方体贴图"
+		"Settings_TextureReplace_Advanced"				"为错误纹理着色"
+		"Settings_TextureReplace_Advanced_Info"			"使用更贴合游戏体验的方式处理缺失纹理，而不是展示默认错误纹理。
+		<h2>禁用</h2>不启用此功能，使用默认错误纹理。
+		<h2>着色</h2>根据表面的反射率数据为缺失纹理着色，使其整体颜色尽可能接近原始纹理。若下一项选项错误地将表面识别为水面等特殊材质，请使用此选项。
+		<h2>着色并应用特殊替换</h2>除为缺失纹理着色外，还会识别透明纹理等特殊材质并提供更合适的替代效果。除正在制作地图外推荐使用此选项。
+		此更改需要重新加载地图后才会生效。"
+		"Settings_TextureReplace_Advanced_0"			"禁用"
+		"Settings_TextureReplace_Advanced_1"			"着色"
+		"Settings_TextureReplace_Advanced_2"			"着色并应用特殊替换"
+		"Settings_TextureReplace_ReplaceTexture"		"替代基础纹理"
+		"Settings_TextureReplace_ReplaceTexture_Info"	"启用“颜色精确错误纹理替换”后，用作基础的替代纹理，可在左侧预览。游戏中将根据推测出的颜色对其进行着色。
+		可为纹理增加细节，有助于辨别深度和距离。
+		此更改需要重新加载地图后才会生效。"
+		"Settings_TextureReplace_Texture_None"			"无"
+		"Settings_TextureReplace_Texture_Noise"			"噪点"
+		"Settings_TextureReplace_Texture_Grid"			"网格"
+		"Settings_TextureReplace_Texture_GridWithNoise"	"带噪点的网格"
+		"Settings_TextureReplace_Texture_Custom"		"自定义"
 		
 		"Settings_Portal_Coop_SS_SplitMode"				"分屏方向"
 		"Settings_Portal_Coop_SS_SplitMode_info"		"确定分屏模式下两位玩家的视角应分割的方向。\n<h2>水平</h2>玩家的视角将沿水平线分割，两者分别位于屏幕的顶部和底部。\n<h2>垂直</h2>玩家的视角将沿垂直线分割，两者分别位于屏幕的左侧和右侧。\n<h2>自动</h2>游戏将根据显示器的屏幕分辨率和宽高比自动决定选择哪种模式。\n<movie src=\"file://{media}/sp_credits_bg.webm\" />"
@@ -1012,10 +1012,10 @@
 		"MainMenu_Campaigns_OpenWS_Tagline"							"下载并管理内容"
 		
 		// mode selection
-		"MainMenu_Campaigns_ModeSel_Solo_Title"						"Solo Maps"
-		"MainMenu_Campaigns_ModeSel_Solo_Tagline"					"Bite-sized experiences"
-		"MainMenu_Campaigns_ModeSel_ServerBrowser_Title"			"Custom Games"
-		"MainMenu_Campaigns_ModeSel_ServerBrowser_Tagline"			"Find or create a perfect game, unrestricted"
+		"MainMenu_Campaigns_ModeSel_Solo_Title"						"单张地图"
+		"MainMenu_Campaigns_ModeSel_Solo_Tagline"					"小巧玲珑的游戏体验"
+		"MainMenu_Campaigns_ModeSel_ServerBrowser_Title"			"自定义游戏"
+		"MainMenu_Campaigns_ModeSel_ServerBrowser_Tagline"			"寻找或创建自由构建的理想游戏"
 		"MainMenu_Campaigns_CType_SP"								"单人游戏"
 		"MainMenu_Campaigns_CType_MP"								"多人游戏/双人合作"
 		"MainMenu_Campaigns_MapType_p2ce"							"《传送门2: 社区版》地图"
@@ -1118,57 +1118,57 @@
 		"MainMenu_Campaigns_Setup_PanelButton_Presets_Title"		"预设"
 		"MainMenu_Campaigns_Setup_PanelButton_Presets_Desc"			"应用已预设好的一组设置"
 		"MainMenu_Campaigns_Setup_PanelButton_Admin_Title"			"服务器设置"
-		"MainMenu_Campaigns_Setup_PanelButton_Admin_Desc"			"Administrative settings; player counts, lockdown, demo recording..."
+		"MainMenu_Campaigns_Setup_PanelButton_Admin_Desc"			"管理类设置；设定人数上限，锁定服务器，录制演示..."
 		"MainMenu_Campaigns_Setup_PanelButton_MapSelect_Title"		"地图选择"
 		"MainMenu_Campaigns_Setup_PanelButton_MapSelect_Desc"		"从本章中的特定地图开始"
-		"MainMenu_Campaigns_Setup_PanelButton_BaseGameplay_Title"	"Basic Gameplay"
-		"MainMenu_Campaigns_Setup_PanelButton_BaseGameplay_Desc"	"Simple configurable constraints"
-		"MainMenu_Campaigns_Setup_PanelButton_Modifiers_Title"		"Gameplay Modifiers"
-		"MainMenu_Campaigns_Setup_PanelButton_Modifiers_Desc"		"Select custom features and scripts that change how the game behaves"
+		"MainMenu_Campaigns_Setup_PanelButton_BaseGameplay_Title"	"基础体验"
+		"MainMenu_Campaigns_Setup_PanelButton_BaseGameplay_Desc"	"简单体验，选项有限"
+		"MainMenu_Campaigns_Setup_PanelButton_Modifiers_Title"		"修改玩法"
+		"MainMenu_Campaigns_Setup_PanelButton_Modifiers_Desc"		"可选择自定义功能选项和脚本，改变游戏的行为方式"
 		
 		// proto
-		"MainMenu_Campaigns_Setup_Proto_Title"						"This system is a prototype experiment and may be changed or removed in the future."
-		"MainMenu_Campaigns_Setup_Proto_Desc"						"Convars changed through this system will not persist in saves. They will also not be reverted upon exiting a campaign."
+		"MainMenu_Campaigns_Setup_Proto_Title"						"该系统为原型实验项目，未来可能会进行改动或删除。"
+		"MainMenu_Campaigns_Setup_Proto_Desc"						"使用该系统修改的控制台变量不会保存在存档中。此外，在退出战役时，这些修改也不会被还原。"
 		
 		// campaign setup - server settings
 		// GameplayBase
-		"MainMenu_Campaigns_Setup_Var_cl_mirror_world"				"Flip World"
-		"MainMenu_Campaigns_Setup_Var_cl_mirror_world_Description"	"Flips the world horizontally. A great way to ruin somebody's day\n\nDefault: Off"
-		"MainMenu_Campaigns_Setup_Var_sv_gravity"					"World Gravity"
-		"MainMenu_Campaigns_Setup_Var_sv_gravity_Description"		"Controls downward gravitational force from the world. This is measured in Hammer units (HU), equivalent to a real-world inch (or 2.54 centimeters)\n\nThe default gravity is 600 HU/s."
-		"MainMenu_Campaigns_Setup_Var_skill"						"Game Difficulty"
-		"MainMenu_Campaigns_Setup_Var_skill_Description"			"Changes behavior of damage modifiers and pickups. Higher difficulties will have increasingly difficult enemies and more ammo scarcity\n\nThis does not apply to Portal campaigns\n\nDefault: Normal"
-		"MainMenu_Campaigns_Setup_Var_skill_1"						"Easy"
-		"MainMenu_Campaigns_Setup_Var_skill_2"						"Normal"
-		"MainMenu_Campaigns_Setup_Var_skill_3"						"Hard"
-		"MainMenu_Campaigns_Setup_Var_player_throwenable"					"Enable Throwing Objects"
-		"MainMenu_Campaigns_Setup_Var_player_throwenable_Description"		"Enables Half-Life 2-style pickup behavior, allowing objects to be thrown at will\n\nDefault: Off"
-		"MainMenu_Campaigns_Setup_Var_player_throwforce"					"Object Throw Force"
-		"MainMenu_Campaigns_Setup_Var_player_throwforce_Description"		"The initial strength of throw objects, in Hammer units (HU). Requires \"Enable Throwing Objects\"."
-		"MainMenu_Campaigns_Setup_Var_mv_bhop"						"\"Bunny-hop\" Speed Boost Bug"
-		"MainMenu_Campaigns_Setup_Var_mv_bhop_Description"			"Enables a \"bunny-hopping\" bug that allows players to gain extra momentum by abusing broken movement behavior, as depicted in legacy versions of Source engine games\n\nDefault: Off"
-		"MainMenu_Campaigns_Setup_Var_mv_duckjump"					"Allow Crouch Jumping"
-		"MainMenu_Campaigns_Setup_Var_mv_duckjump_Description"		"Allows the player to jump while crouched/ducked. This is a requirement for maps making use of specific Half-Life 2 movement behavior\n\nDefault: Off"
-		"MainMenu_Campaigns_Setup_Var_sv_enableholdrotation"				"Enable Hold Rotation"
-		"MainMenu_Campaigns_Setup_Var_sv_enableholdrotation_Description"	"Allows the player to rotate held physics objects by pressing and holding +ATTACK2\n\nDefault: Off"
-		"MainMenu_Campaigns_Setup_Var_sv_enablepreferredcarry"				"Enable Preferred Carry"
-		"MainMenu_Campaigns_Setup_Var_sv_enablepreferredcarry_Description"	"Keep held physics objects at their preferred carry angle\n\nDefault: On"
+		"MainMenu_Campaigns_Setup_Var_cl_mirror_world"				"翻转世界"
+		"MainMenu_Campaigns_Setup_Var_cl_mirror_world_Description"	"水平翻转世界。毁掉某人好心情的绝佳方式\n\n默认：关"
+		"MainMenu_Campaigns_Setup_Var_sv_gravity"					"世界重力"
+		"MainMenu_Campaigns_Setup_Var_sv_gravity_Description"		"控制世界的重力大小。该数值以 Hammer units（HU）为计量单位，相当于现实世界中的1英寸（2.54厘米）。\n\n默认重力值为600 HU/s"
+		"MainMenu_Campaigns_Setup_Var_skill"						"游戏难度"
+		"MainMenu_Campaigns_Setup_Var_skill_Description"			"更改了伤害修正器和道具的行为。难度越高，敌人越难对付，弹药也越稀缺\n\n此设置不适用于《传送门》战役\n\n默认：普通"
+		"MainMenu_Campaigns_Setup_Var_skill_1"						"简单"
+		"MainMenu_Campaigns_Setup_Var_skill_2"						"普通"
+		"MainMenu_Campaigns_Setup_Var_skill_3"						"困难"
+		"MainMenu_Campaigns_Setup_Var_player_throwenable"					"物品投掷"
+		"MainMenu_Campaigns_Setup_Var_player_throwenable_Description"		"启用《半衰期2》风格的拾取机制，允许随意投掷物品\n\n默认：关"
+		"MainMenu_Campaigns_Setup_Var_player_throwforce"					"物体投掷力"
+		"MainMenu_Campaigns_Setup_Var_player_throwforce_Description"		"投掷物的初始力量，单位为 Hammer units（HU）。需要启用“物品投掷”。"
+		"MainMenu_Campaigns_Setup_Var_mv_bhop"						"“兔子跳”加速漏洞"
+		"MainMenu_Campaigns_Setup_Var_mv_bhop_Description"			"启用“兔子跳”加速漏洞，允许玩家利用移动系统的漏洞来获得额外的动量，和早期版本的起源引擎游戏一样\n\n默认：关"
+		"MainMenu_Campaigns_Setup_Var_mv_duckjump"					"允许蹲跳"
+		"MainMenu_Campaigns_Setup_Var_mv_duckjump_Description"		"允许玩家在蹲下/俯身状态下跳跃。某些使用了特定《半衰期2》移动行为的地图必须启用这一功能\n\n默认：关"
+		"MainMenu_Campaigns_Setup_Var_sv_enableholdrotation"				"旋转所持物体"
+		"MainMenu_Campaigns_Setup_Var_sv_enableholdrotation_Description"	"允许玩家按住副开火键来旋转所持有的物体\n\n默认：关"
+		"MainMenu_Campaigns_Setup_Var_sv_enablepreferredcarry"				"优先携带角度"
+		"MainMenu_Campaigns_Setup_Var_sv_enablepreferredcarry_Description"	"将持有的物体保持在优先携带角度\n\n默认：开"
 
 		// ServerSettings
-		"MainMenu_Campaigns_Setup_Var_hostname"						"Server Name"
-		"MainMenu_Campaigns_Setup_Var_hostname_Description"			"The searchable name of this server, as shown in the server browser. Not applicable for single-player games."
-		"MainMenu_Campaigns_Setup_Var_sv_tags"						"Server Tags"
-		"MainMenu_Campaigns_Setup_Var_sv_tags_Description"			"Keywords to use when searching for servers with specific customizations or gamemodes. Not applicable for single-player games\n\nDefault: None"
-		"MainMenu_Campaigns_Setup_Var_maxplayers"					"Maximum Player Count"
-		"MainMenu_Campaigns_Setup_Var_maxplayers_Description"		"The maximum number of players that can connect to this server at once. Setting this to 1 forces single-player mode\n\nDefault: 1"
-		"MainMenu_Campaigns_Setup_Var_sv_password"					"Server Password"
-		"MainMenu_Campaigns_Setup_Var_sv_password_Description"		"A password/code players can use to join this server. Ideal for hosting private sessions and LAN parties\n\nDefault: None"
-		"MainMenu_Campaigns_Setup_Var_sv_lan"						"Host on LAN"
-		"MainMenu_Campaigns_Setup_Var_sv_lan_Description"			"Limits inbound connections to this server only those originating from the current local network. Recommended for private sessions and LAN parties."
-		"MainMenu_Campaigns_Setup_Var_sv_cheats"					"Enable Server Cheats"
+		"MainMenu_Campaigns_Setup_Var_hostname"						"服务器名称"
+		"MainMenu_Campaigns_Setup_Var_hostname_Description"			"该服务器在服务器浏览器中显示的可搜索名称。不适用于单人游戏。"
+		"MainMenu_Campaigns_Setup_Var_sv_tags"						"服务器标签"
+		"MainMenu_Campaigns_Setup_Var_sv_tags_Description"			"在搜索具有特定自定义设置或游戏模式的服务器时可使用的关键词。不适用于单人游戏。\n\n默认：无"
+		"MainMenu_Campaigns_Setup_Var_maxplayers"					"玩家人数上限"
+		"MainMenu_Campaigns_Setup_Var_maxplayers_Description"		"该服务器同时可连接玩家的最大数量。将此值设为 1 将强制设定为单人模式。\n\n默认：1"
+		"MainMenu_Campaigns_Setup_Var_sv_password"					"服务器密码"
+		"MainMenu_Campaigns_Setup_Var_sv_password_Description"		"玩家可使用此密码加入该服务器。非常适合举办私人对局和局域网聚会\n\n默认：无"
+		"MainMenu_Campaigns_Setup_Var_sv_lan"						"仅限局域网连接"
+		"MainMenu_Campaigns_Setup_Var_sv_lan_Description"			"仅允许当前本地网络下的玩家连接到此服务器。推荐用于私人对局和局域网聚会。"
+		"MainMenu_Campaigns_Setup_Var_sv_cheats"					"启用服务器作弊"
 		"MainMenu_Campaigns_Setup_Var_sv_cheats_Description"		"Enables access to special commands flagged as \"cheats\", such as <pre>noclip</pre>, <pre>impulse</pre>, and <pre>ent_fire</pre>\n\nDefault: Off"
-		"MainMenu_Campaigns_Setup_Var_p2p"							"Use Steam Networking"
-		"MainMenu_Campaigns_Setup_Var_p2p_Description"				"Uses the <a href="https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay">Steam Datagram Relay</a> to enable hosting peer-to-peer (P2P) and dedicated servers over the Internet with minimal technical setup. Game traffic is sent to Valve relay servers to anonymize player information and protect the server host."
+		"MainMenu_Campaigns_Setup_Var_p2p"							"使用 Steam 网络"
+		"MainMenu_Campaigns_Setup_Var_p2p_Description"				"利用<a href="https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay">Steam数据报中继</a>在互联网上以极简的技术配置托管点对点（P2P）和专用服务器。游戏流量会被发送至Valve的中继服务器，以匿名化玩家信息并保护服务器主机。"
 		
 		// CampaignSetupDiscardDialog
 		"MainMenu_Campaigns_Setup_Discard_Title"					"放弃更改"
@@ -1248,7 +1248,7 @@
 		"MainMenu_Addons_Filtering_EnableAddons_Tooltip"	"启用或禁用列表中的所有插件。"
 		"MainMenu_Addons_Filtering_Sort_Title"				"排序方式："
 		"MainMenu_Addons_Filtering_Sort_TimeInstalled"		"订阅/添加时间"
-		"MainMenu_Addons_Filtering_Sort_Alpha"				"Alphabetical"
+		"MainMenu_Addons_Filtering_Sort_Alpha"				"插件名称"
 		"MainMenu_Addons_Filtering_Sort_TimePublished"		"上传/发布日期"
 		"MainMenu_Addons_Filtering_Sort_TimeLastUpdate"		"上次更新日期"
 		
@@ -1272,10 +1272,10 @@
 		"MainMenu_Addons_Filtering_Sort_AddonTags"				"插件类别"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Model"		"模型"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Mats"			"材质/贴图"
-		"MainMenu_Addons_Filtering_Sort_AddonTags_Scripts"		"Scripts"
+		"MainMenu_Addons_Filtering_Sort_AddonTags_Scripts"		"脚本"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Instance"		"Instances/Prefabs"
-		"MainMenu_Addons_Filtering_Sort_AddonTags_Theme"		"Theme"
-		"MainMenu_Addons_Filtering_Sort_AddonTags_Ported"		"Game Port"
+		"MainMenu_Addons_Filtering_Sort_AddonTags_Theme"		"主题"
+		"MainMenu_Addons_Filtering_Sort_AddonTags_Ported"		"移植"
 
 		// General Actions
 		"Common_On"									"开"
@@ -1297,7 +1297,7 @@
 		"Common_Edit"								"编辑"
 		"Common_Refresh"							"刷新"
 		"Common_Search"								"搜索"
-		"Common_By"									"By"
+		"Common_By"									"作者："
 		"Common_SearchEllipsis"						"搜索..."
 		"Common_Multiplayer"						"多人模式"
 		"Common_Wiki"								"在Steam叠加界面打开Wiki"
