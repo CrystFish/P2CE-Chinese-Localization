@@ -10,7 +10,7 @@
 		///////////////////////////////////////////////////////////////////////////////////////////////
 
 		// cfg_xboxlive_builtin_strings.cfg 
-		"X_STRINGID_TITLENAME"					"传送门2"
+		"X_STRINGID_TITLENAME"					"《传送门2：社区版》"
 
 		// cfg_xboxlive_presence_strings.cfg 
 		"RICHPRESENCE_IDLE" 					"发呆"
@@ -32,10 +32,10 @@
 		"SP_PRESENCE_TEXT_CH9"					"第九章\n分离之处"
 		"SP_PRESENCE_TEXT_CH10"					"第十章\n制作团队"
 
-		"COOP_PRESENCE_WAITING_DEFAULT"			"正在等待同伴"
+		"COOP_PRESENCE_WAITING_DEFAULT"			"正在等待同伴..."
 		"COOP_PRESENCE_WAITING_SPLITSCREEN"		"本地分屏"
-		"COOP_PRESENCE_WAITING_FRIEND"			"正在等待同伴"
-		"COOP_PRESENCE_WAITING_QUICKMATCH"		"正在等待陌生人"
+		"COOP_PRESENCE_WAITING_FRIEND"			"正在等待同伴..."
+		"COOP_PRESENCE_WAITING_QUICKMATCH"		"正在等待陌生人..."
 
 		"COOP_PRESENCE_TAGLINE_DEFAULT"			"正在游玩双人合作"
 		"COOP_PRESENCE_TAGLINE_SPLITSCREEN"		"双人本地分屏"
@@ -77,7 +77,7 @@
 
 		// figure out a way to override these strings in episodic
 		"HL2_GameOver_Object_ep2"			"到此为止\n弗里曼博士不珍惜\n被认为对胜利至关重要的资源\n不可避免的厄运一瞥笼罩着漩渊精华"
-		"HL2_GameOver_Ally_ep2"				"所以到此为止\n弗里曼博士未能保全一条对胜利必需的生命\n这就是我们在旋涡精华中看到的形状"
+		"HL2_GameOver_Ally_ep2"				"所以到此为止\n弗里曼博士未能保护一条对胜利必需的生命\n这就是我们在旋涡精华中看到的形状"
 		"HL2_GameOver_Timer_ep2"			"一切到此为止\n弗里曼博士未能迅速取得胜利导致我们的彻底失败"
 		"HL2_GameOver_Stuck_ep2"			"任务: 已终止\n对象: 弗里曼\n缘由: 极其糟糕的判断能力"
 
@@ -89,7 +89,7 @@
 		"HL2_357Handgun"					"9x33毫米左轮手枪\n（.357马格南）"
 		"HL2_SMG1"							"SMG\n（冲锋枪）"
 		"HL2_Pulse_Rifle"					"标准监视配备\n（脉冲步枪）"
-		"HL2_Shotgun"						"SPAS12\n（霰弹枪）"
+		"HL2_Shotgun"						"SPAS-12\n（霰弹枪）"
 		"HL2_Crossbow"						"钢筋弩"
 		"HL2_Grenade"						"破片手榴弹"
 		"HL2_RPG"							"RPG\n（火箭推进榴弹）"
@@ -225,7 +225,7 @@
 		"Valve_Hint_Look_Down"				"向下看"
 		"Valve_Hint_Use_Bed"				"睡觉"
 		"Valve_Hint_Movement_Keys"			"行走"
-		"Valve_Hint_Say_Apple"				"说 苹果"
+		"Valve_Hint_Say_Apple"				"说“苹果”"
 		"Valve_Hint_Talk"					"是"
 
 		"Valve_Hint_Crouch"					"蹲下"
@@ -236,7 +236,7 @@
 		"Valve_Hint_Door"					"打开门"
 		"Valve_Hint_Lever"					"拉杠杆"
 		"Valve_Hint_Zoom"					"缩放"
-		"Valve_Hint_Pickup_Glados"			"拾取 GLaDOS"
+		"Valve_Hint_Pickup_Glados"			"拾取GLaDOS"
 		"Valve_Hint_Socket"					"激活插座"
 
 		"Valve_Hint_USEPickup"				"拾取物体"
@@ -273,7 +273,7 @@
 		"Paint_Instructor_teach_bounce_suppression"				"按住以停止弹跳"
 		
 		// Invites
-		"P2COOP_Invite_Title"						"《传送门2》邀请"
+		"P2COOP_Invite_Title"						"《传送门2：社区版》邀请"
 		"P2COOP_Invite_Body"						"您已被邀请进行《传送门2》的合作游戏！"
 
 		// COOP
@@ -346,19 +346,19 @@
 		"UI_UnknownTime"							"未知"
 
 		"UI_Label_CopySelected"						"复制所选文本"
-		"UI_Label_OpenLinkInBrowser"				"在浏览器中打开 URL"
-		"UI_Label_CopyURLToClipboard" 				"复制 URL 到剪贴板"
+		"UI_Label_OpenLinkInBrowser"				"在浏览器中打开URL"
+		"UI_Label_CopyURLToClipboard" 				"复制URL到剪贴板"
 
 		"UI_TextEntry_CutToClipboard"				"剪切"
 		"UI_TextEntry_CopyToClipboard"				"复制"
 		"UI_TextEntry_PasteClipboard"				"粘贴"
 
 		"UI_Agreements"								"协议"
-		"UI_ViewAgreements"							"查看《Steam 订户协议》和《隐私政策》"
+		"UI_ViewAgreements"							"查看《Steam订户协议》和《隐私政策》"
 		"UI_I_Agree"								"我同意"
 
 		"UI_ConfirmExitTitle"						"确认退出"
-		"UI_ConfirmExitMessage"						"确定要退出回桌面？"
+		"UI_ConfirmExitMessage"						"确定要退回桌面？"
 		"UI_Quit"									"退出"
 		"UI_Return"									"返回"
 		"UI_Continue"								"继续"
@@ -411,9 +411,9 @@
 		"Panorama_Lang_Footer_German"				"德语"
 		"Panorama_Lang_Footer_Greek"				"希腊语"
 		"Panorama_Lang_Footer_Korean"				"韩语"
-		"Panorama_Lang_Footer_Simplified_Chinese"	"简体中文"
-		"Panorama_Lang_Footer_Traditional_Chinese"	"繁体中文"
-		"Panorama_Lang_Footer_Russian"				"俄罗斯语"
+		"Panorama_Lang_Footer_Simplified_Chinese"	"简中"
+		"Panorama_Lang_Footer_Traditional_Chinese"	"繁中"
+		"Panorama_Lang_Footer_Russian"				"俄语"
 		"Panorama_Lang_Footer_Thai"					"泰语"
 		"Panorama_Lang_Footer_Japanese"				"日语"
 		"Panorama_Lang_Footer_Portuguese"			"葡萄牙语"
@@ -441,7 +441,7 @@
 		"Debugger_Properties"						"属性："
 		"Debugger_StyleFileLink"					"{s:stylefile}"
 		"Debugger_LayoutFileLink"					"{s:layoutfile}"
-		"Debugger_LayoutFileLink_Code"				"来自 XML/代码"	
+		"Debugger_LayoutFileLink_Code"				"来自XML/代码"	
 		"Debugger_InheritedStyleHeader"				"继承自"
 		"Debugger_Save"								"保存全部更改"
 		"Debugger_Revert"							"撤销全部更改"
@@ -489,8 +489,8 @@
 		"Settings_General_Search_OneCharHeader"			"查询不完整"
 		"Settings_General_Search_OneCharDesc"			"您的搜索查询包含单字母词。"
 		"Settings_General_Search_MatchedEnglishTag"		"匹配的 "
-		"Settings_General_Search_VeryFull"				"{s:count} 个更匹配的"
-		"Settings_General_Search_VeryFull_Plural"		"{s:count} 个更匹配的"
+		"Settings_General_Search_VeryFull"				"{s:count}个更匹配的"
+		"Settings_General_Search_VeryFull_Plural"		"{s:count}个更匹配的"
 		"OS_Default_Device"								"系统默认输出设备"
 		
 		// Settings - Import/Export
@@ -546,11 +546,11 @@
 		"Settings_ClosedCaptions_Font_GorDIN"				"DIN 1451 / GorDIN (《半衰期2》)"
 		"Settings_ClosedCaptions_Font_Verdana"				"Verdana (旧)"
 		"Settings_ClosedCaptions_Font_NotoSans"				"Noto Sans (Steam大屏幕模式)"
-		"Settings_ClosedCaptions_Font_Stratum2"				"Stratum2 (CS:GO)"
+		"Settings_ClosedCaptions_Font_Stratum2"				"Stratum No2 (CS:GO)"
 		"Settings_ClosedCaptions_FontSize"					"字体大小"
-		"Settings_ClosedCaptions_FontSize_info"				"决定屏幕上的字幕应以多大尺寸显示给用户。以每像素点数（pt）计算。\n*译者注: 这个设置目前有问题，锁定为0调节不了是正常的"
+		"Settings_ClosedCaptions_FontSize_info"				"决定屏幕上的字幕应以多大尺寸显示给用户。以每像素点数（pt）计算。\n*注: 这个设置目前有问题，锁定为0调节不了是正常的"
 		"Settings_ClosedCaptions_BGOpacity"					"背景不透明度"
-		"Settings_ClosedCaptions_BGOpacity_info"			"控制屏幕字幕背景面板的不透明度。\n较低的数值可能会导致可读性降低，并可能引起可读性问题。建议使用较暗的背景（或纯黑色）以获得最佳的可读性。\n*译者注: 这个设置目前有问题，锁定为0%调节不了是正常的"
+		"Settings_ClosedCaptions_BGOpacity_info"			"控制屏幕字幕背景面板的不透明度。\n较低的数值可能会导致可读性降低，并可能引起可读性问题。建议使用较暗的背景（或纯黑色）以获得最佳的可读性。\n*注: 这个设置目前有问题，锁定为0%调节不了是正常的"
 		"Settings_ClosedCaptions_Alignment"					"文字对齐"
 		"Settings_ClosedCaptions_Alignment_info"			"对字幕的位置进行对齐。"
 		"Settings_ClosedCaptions_Alignment_left"			"左侧"
@@ -567,7 +567,7 @@
 		"Settings_AudioDevices_Speaker_StereoSpeakers"		"立体声音响"
 		"Settings_AudioDevices_Speaker_Quad"				"四声道环绕声"
 		"Settings_AudioDevices_Speaker_51"					"5.1声道环绕声"
-		 "Settings_AudioDevices_Speaker_71" 				"7.1声道环绕声"	// Unsupported by CSGO and Strata?
+		"Settings_AudioDevices_Speaker_71"					"7.1声道环绕声"	// Unsupported by CSGO and Strata?
 		"Settings_AudioDevices_Speaker"						"音频输出设置"
 		"Settings_AudioDevices_Speaker_info"				"通过根据特定设备配置将特定声音通道分配给各个扬声器，改变音频播放行为。"
 		
@@ -588,11 +588,11 @@
 		"Settings_Video_Resolution"						"视频分辨率"
 		"Settings_Video_DisplayMode"					"显示模式"
 		"Settings_Video_DisplayMode_Fullscreen"			"全屏"
-		"Settings_Video_DisplayMode_FullscreenWindowed"	"全屏 (窗口化)"		// temp until we can get this changed to SW_NoBorder below
-		"Settings_Video_DisplayMode_SW_NoBorder"		"全屏 (窗口化)"
+		"Settings_Video_DisplayMode_FullscreenWindowed"	"全屏(窗口化)"		// temp until we can get this changed to SW_NoBorder below
+		"Settings_Video_DisplayMode_SW_NoBorder"		"全屏(窗口化)"
 		"Settings_Video_DisplayMode_Windowed"			"窗口化"
 		
-		"Settings_Video_FOV"							"视野大小 (FOV)"
+		"Settings_Video_FOV"							"视野大小(FOV)"
 		"Settings_Video_FOV_Info"						"控制玩家视野的最大可见范围，以度为单位。"
 
 		"Settings_Video_MaxFPS"							"最大FPS"
@@ -616,10 +616,10 @@
 		"Settings_Render_FilteringMode_Info"			"提高纹理过滤设置可以改善游戏中纹理的外观。提高过滤质量可能会降低图形性能。"
 		"Settings_Render_FilteringMode_Bilinear"		"双线性"
 		"Settings_Render_FilteringMode_Trilinear"		"三线性"
-		"Settings_Render_FilteringMode_Aniso2X"			"各向异性 (2倍)"
-		"Settings_Render_FilteringMode_Aniso4X"			"各向异性 (4倍)"
-		"Settings_Render_FilteringMode_Aniso8X"			"各向异性 (8倍)"
-		"Settings_Render_FilteringMode_Aniso16X"		"各向异性 (16倍)"
+		"Settings_Render_FilteringMode_Aniso2X"			"各向异性(2倍)"
+		"Settings_Render_FilteringMode_Aniso4X"			"各向异性(4倍)"
+		"Settings_Render_FilteringMode_Aniso8X"			"各向异性(8倍)"
+		"Settings_Render_FilteringMode_Aniso16X"		"各向异性(16倍)"
 		
 		"Settings_Render_AntialiasingMode"				"多重采样抗锯齿（MSAA）"
 		"Settings_Render_AntialiasingMode_Info"			"抗锯齿在几何体边缘提供平滑的外观，消除锯齿状边缘。提高抗锯齿质量可能会降低图形性能。"
@@ -699,7 +699,7 @@
 		"Settings_TextureReplace_Texture_None"			"无"
 		"Settings_TextureReplace_Texture_Noise"			"噪点"
 		"Settings_TextureReplace_Texture_Grid"			"网格"
-		"Settings_TextureReplace_Texture_GridWithNoise"	"带噪点的网格"
+		"Settings_TextureReplace_Texture_GridWithNoise"	"噪声网格"
 		"Settings_TextureReplace_Texture_Custom"		"自定义"
 		
 		"Settings_Portal_Coop_SS_SplitMode"				"分屏方向"
@@ -1095,8 +1095,8 @@
 		"MainMenu_Campaigns_MM_Back"								"返回"
 		"MainMenu_Campaigns_MM_CampaignName_placeholder"			"{s:campaign_name}"	// This string is for campaigns that don't have a logo
 		"MainMenu_Campaigns_MM_CampaignDescription_placeholder"		"{s:campaign_desc}"
-		"MainMenu_Campaigns_MM_CampaignAuthor"						"作者 {s:author}"
-		"MainMenu_Campaigns_MM_ChapterNum"							"第 {i:chapter_num} 章"
+		"MainMenu_Campaigns_MM_CampaignAuthor"						"作者：{s:author}"
+		"MainMenu_Campaigns_MM_ChapterNum"							"第{i:chapter_num}章"
 		"MainMenu_Campaigns_MM_ChapterName"							"{s:chapter_name}"
 		"MainMenu_Campaigns_MM_ChapterDesc"							"{s:chapter_desc}"
 		"MainMenu_Campaigns_MM_ChapterMapName"						"{s:chapter_map_name}"
@@ -1133,41 +1133,41 @@
 		// campaign setup - server settings
 		// GameplayBase
 		"MainMenu_Campaigns_Setup_Var_cl_mirror_world"				"翻转世界"
-		"MainMenu_Campaigns_Setup_Var_cl_mirror_world_Description"	"水平翻转世界。毁掉某人好心情的绝佳方式\n\n默认：关"
+		"MainMenu_Campaigns_Setup_Var_cl_mirror_world_Description"	"水平翻转世界。毁掉某人好心情的绝佳方式\n\n默认项：关"
 		"MainMenu_Campaigns_Setup_Var_sv_gravity"					"世界重力"
-		"MainMenu_Campaigns_Setup_Var_sv_gravity_Description"		"控制世界的重力大小。该数值以 Hammer units（HU）为计量单位，相当于现实世界中的1英寸（2.54厘米）。\n\n默认重力值为600 HU/s"
+		"MainMenu_Campaigns_Setup_Var_sv_gravity_Description"		"控制世界的重力大小。该数值以Hammer Units（HU）为计量单位，相当于现实世界中的1英寸（2.54厘米）。\n\n默认重力值为600 HU/s"
 		"MainMenu_Campaigns_Setup_Var_skill"						"游戏难度"
-		"MainMenu_Campaigns_Setup_Var_skill_Description"			"更改了伤害修正器和道具的行为。难度越高，敌人越难对付，弹药也越稀缺\n\n此设置不适用于《传送门》战役\n\n默认：普通"
+		"MainMenu_Campaigns_Setup_Var_skill_Description"			"更改了武器伤害和道具的行为。难度越高，敌人越难对付，弹药也越稀缺\n\n此设置不适用于《传送门》战役\n\n默认项：普通"
 		"MainMenu_Campaigns_Setup_Var_skill_1"						"简单"
 		"MainMenu_Campaigns_Setup_Var_skill_2"						"普通"
 		"MainMenu_Campaigns_Setup_Var_skill_3"						"困难"
 		"MainMenu_Campaigns_Setup_Var_player_throwenable"					"物品投掷"
-		"MainMenu_Campaigns_Setup_Var_player_throwenable_Description"		"启用《半衰期2》风格的拾取机制，允许随意投掷物品\n\n默认：关"
+		"MainMenu_Campaigns_Setup_Var_player_throwenable_Description"		"启用《半衰期2》风格的拾取机制，允许随意投掷物品\n\n默认项：关"
 		"MainMenu_Campaigns_Setup_Var_player_throwforce"					"物体投掷力"
-		"MainMenu_Campaigns_Setup_Var_player_throwforce_Description"		"投掷物的初始力量，单位为 Hammer units（HU）。需要启用“物品投掷”。"
+		"MainMenu_Campaigns_Setup_Var_player_throwforce_Description"		"投掷物的初始力量，单位为Hammer Units（HU）。需要启用“物品投掷”。"
 		"MainMenu_Campaigns_Setup_Var_mv_bhop"						"“兔子跳”加速漏洞"
-		"MainMenu_Campaigns_Setup_Var_mv_bhop_Description"			"启用“兔子跳”加速漏洞，允许玩家利用移动系统的漏洞来获得额外的动量，和早期版本的起源引擎游戏一样\n\n默认：关"
+		"MainMenu_Campaigns_Setup_Var_mv_bhop_Description"			"启用“兔子跳”加速漏洞，允许玩家利用移动系统的漏洞来获得额外的动量，和早期版本的起源引擎游戏一样\n\n默认项：关"
 		"MainMenu_Campaigns_Setup_Var_mv_duckjump"					"允许蹲跳"
-		"MainMenu_Campaigns_Setup_Var_mv_duckjump_Description"		"允许玩家在蹲下/俯身状态下跳跃。某些使用了特定《半衰期2》移动行为的地图必须启用这一功能\n\n默认：关"
+		"MainMenu_Campaigns_Setup_Var_mv_duckjump_Description"		"允许玩家在蹲下/俯身状态下跳跃。某些使用了特定《半衰期2》移动行为的地图必须启用这一功能\n\n默认项：关"
 		"MainMenu_Campaigns_Setup_Var_sv_enableholdrotation"				"旋转所持物体"
-		"MainMenu_Campaigns_Setup_Var_sv_enableholdrotation_Description"	"允许玩家按住副开火键来旋转所持有的物体\n\n默认：关"
+		"MainMenu_Campaigns_Setup_Var_sv_enableholdrotation_Description"	"允许玩家按住副开火键来旋转所持有的物体\n\n默认项：关"
 		"MainMenu_Campaigns_Setup_Var_sv_enablepreferredcarry"				"优先携带角度"
-		"MainMenu_Campaigns_Setup_Var_sv_enablepreferredcarry_Description"	"将持有的物体保持在优先携带角度\n\n默认：开"
+		"MainMenu_Campaigns_Setup_Var_sv_enablepreferredcarry_Description"	"将持有的物体保持在优先携带角度\n\n默认项：开"
 
 		// ServerSettings
 		"MainMenu_Campaigns_Setup_Var_hostname"						"服务器名称"
 		"MainMenu_Campaigns_Setup_Var_hostname_Description"			"该服务器在服务器浏览器中显示的可搜索名称。不适用于单人游戏。"
 		"MainMenu_Campaigns_Setup_Var_sv_tags"						"服务器标签"
-		"MainMenu_Campaigns_Setup_Var_sv_tags_Description"			"在搜索具有特定自定义设置或游戏模式的服务器时可使用的关键词。不适用于单人游戏。\n\n默认：无"
+		"MainMenu_Campaigns_Setup_Var_sv_tags_Description"			"在搜索具有特定自定义设置或游戏模式的服务器时可使用的关键词。不适用于单人游戏。\n\n默认项：无"
 		"MainMenu_Campaigns_Setup_Var_maxplayers"					"玩家人数上限"
-		"MainMenu_Campaigns_Setup_Var_maxplayers_Description"		"该服务器同时可连接玩家的最大数量。将此值设为 1 将强制设定为单人模式。\n\n默认：1"
+		"MainMenu_Campaigns_Setup_Var_maxplayers_Description"		"该服务器同时可连接玩家的最大数量。将此值设为 1 将强制设定为单人模式。\n\n默认项：1"
 		"MainMenu_Campaigns_Setup_Var_sv_password"					"服务器密码"
-		"MainMenu_Campaigns_Setup_Var_sv_password_Description"		"玩家可使用此密码加入该服务器。非常适合举办私人对局和局域网聚会\n\n默认：无"
+		"MainMenu_Campaigns_Setup_Var_sv_password_Description"		"玩家可使用此密码加入该服务器。非常适合举办私人对局和局域网聚会\n\n默认项：无"
 		"MainMenu_Campaigns_Setup_Var_sv_lan"						"仅限局域网连接"
 		"MainMenu_Campaigns_Setup_Var_sv_lan_Description"			"仅允许当前本地网络下的玩家连接到此服务器。推荐用于私人对局和局域网聚会。"
 		"MainMenu_Campaigns_Setup_Var_sv_cheats"					"启用服务器作弊"
-		"MainMenu_Campaigns_Setup_Var_sv_cheats_Description"		"Enables access to special commands flagged as \"cheats\", such as <pre>noclip</pre>, <pre>impulse</pre>, and <pre>ent_fire</pre>\n\nDefault: Off"
-		"MainMenu_Campaigns_Setup_Var_p2p"							"使用 Steam 网络"
+		"MainMenu_Campaigns_Setup_Var_sv_cheats_Description"		"允许被\"sv_cheats\"所保护的特殊命令，例如：<pre>noclip</pre>, <pre>impulse</pre>和<pre>ent_fire</pre>\n\n默认项：关"
+		"MainMenu_Campaigns_Setup_Var_p2p"							"使用Steam网络"
 		"MainMenu_Campaigns_Setup_Var_p2p_Description"				"利用<a href="https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay">Steam数据报中继</a>在互联网上以极简的技术配置托管点对点（P2P）和专用服务器。游戏流量会被发送至Valve的中继服务器，以匿名化玩家信息并保护服务器主机。"
 		
 		// CampaignSetupDiscardDialog
@@ -1192,7 +1192,7 @@
 		// portal2
 		"MainMenu_Campaigns_portal2"				"传送门2"
 		"MainMenu_Campaigns_portal2_Description"	"《传送门2》引入了一批充满活力的新角色、一系列新的谜题元素，以及更多设计巧妙的测试室。玩家将探索从未见过的光圈科技区域，并将再次与GLaDOS——这位在原作中曾引导他们的、偶尔充满杀意的计算机同伴——重聚。"
-		"MainMenu_Campaigns_portal2_MP"				"传送门2合作模式"
+		"MainMenu_Campaigns_portal2_MP"				"传送门2：双人合作"
 		"MainMenu_Campaigns_portal2_MP_Description"	"合作模式有着完全独立的战役，包含独特的故事、测试室以及两名全新可操控角色。这一新模式将迫使玩家重新审视他们自以为了解的有关传送门的全部知识。若想成功闯过难关，玩家不仅需要通力合作，更需要协同思考。"
 		
 		// portal
@@ -1365,7 +1365,7 @@
 		"MainMenu_PlaytestDOSA_Title"				"欢迎来到《传送门2: 社区版》游戏测试！"
 		"MainMenu_PlaytestDOSA_Description"			"作为试玩测试的一部分，游戏将记录您的游戏演示和一些基本的性能数据。\n这些数据将在事后上传，以供我们的开发人员审核，从而帮助我们改进游戏体验。\n\n注意: 您可以在设置中随时同意或撤销此项许可。"
 		"MainMenu_PlaytestDOSA_Consent"				"同意进行试玩数据收集"
-		"MainMenu_PlaytestDOSA_Revoke"				"撤回同意"
+		"MainMenu_PlaytestDOSA_Revoke"				"撤回协议"
 	
 		// Color Picker
 		"ColorPicker_Hue"							"H"
@@ -1426,7 +1426,7 @@
 		"GameUI_Disconnect_NoMoreSplits"					"暂无更多可用的分屏位置。"					// NETWORK_DISCONNECT_NOMORESPLITS
 		"GameUI_Disconnect_TimedOut"						"服务器响应超时。"					// NETWORK_DISCONNECT_TIMEDOUT
 		"GameUI_Disconnect_Disconnected"					"你已从服务器断开连接。"			// NETWORK_DISCONNECT_DISCONNECTED
-		"GameUI_Disconnect_LeavingSplit"					"正在退出分屏模式。"							// NETWORK_DISCONNECT_LEAVINGSPLIT
+		"GameUI_Disconnect_LeavingSplit"					"正在退出本地分屏..."							// NETWORK_DISCONNECT_LEAVINGSPLIT
 		"GameUI_Disconnect_DifferentClassTables"			"服务器的类表结构与客户端不一致。"	// NETWORK_DISCONNECT_DIFFERENTCLASSTABLES
 		"GameUI_Disconnect_NoSpectators"					"此服务器不支持旁观者模式。"			// NETWORK_DISCONNECT_NOSPECTATORS
 		"GameUI_Disconnect_Kicked"							"被服务器踢出。"									// NETWORK_DISCONNECT_KICKED
