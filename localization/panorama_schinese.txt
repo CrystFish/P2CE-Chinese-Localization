@@ -487,7 +487,7 @@
 		"Settings_General_Search_EmptyHeader"			"无搜索结果"
 		"Settings_General_Search_EmptyNoResults"		"您的搜索在设置菜单中未匹配到任何结果。"
 		"Settings_General_Search_OneCharHeader"			"查询不完整"
-		"Settings_General_Search_OneCharDesc"			"您的搜索查询只包含单字母词。"
+		"Settings_General_Search_OneCharDesc"			"您的搜索查询包含单字母词。"
 		"Settings_General_Search_MatchedEnglishTag"		"匹配项 "
 		"Settings_General_Search_VeryFull"				"还有{s:count}个匹配项"
 		"Settings_General_Search_VeryFull_Plural"		"还有{s:count}个匹配项"
