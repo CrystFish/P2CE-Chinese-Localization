@@ -68,18 +68,18 @@
 		"P2Controller_QuickPing"			"快速交流"
 		"P2Controller_Zoom"					"放大"
 
-		"HL2_GameOver_Object"				"任务: 已终止\n对象: 弗里曼\n缘由: 未能保全关键任务资源"
-		"HL2_GameOver_Ally"					"任务: 已终止\n对象: 弗里曼\n缘由: 未能保全关键任务人员"
-		"HL2_GameOver_Timer"				"任务: 已终止\n对象: 弗里曼\n缘由: 未能防止关键时间序列"
-		"HL2_GameOver_Stuck"				"任务: 已终止\n对象: 弗里曼\n缘由: 极其糟糕的判断能力"
+		"HL2_GameOver_Object"				"任务：已终止\n对象：弗里曼\n缘由：未能保全关键任务资源"
+		"HL2_GameOver_Ally"					"任务：已终止\n对象：弗里曼\n缘由：未能保全关键任务人员"
+		"HL2_GameOver_Timer"				"任务：已终止\n对象：弗里曼\n缘由：未能阻止关键时间序列"
+		"HL2_GameOver_Stuck"				"任务：已终止\n对象：弗里曼\n缘由：极其糟糕的判断能力"
 		
-		"Episodic_GameOver_AlyxDead"		"爱莉克斯死了"
+		"Episodic_GameOver_AlyxDead"		"爱莉克斯•凡斯已经死了\n没有她，我们无法坚持下去"
 
 		// figure out a way to override these strings in episodic
-		"HL2_GameOver_Object_ep2"			"到此为止\n弗里曼博士不珍惜\n被认为对胜利至关重要的资源\n不可避免的厄运一瞥笼罩着漩渊精华"
-		"HL2_GameOver_Ally_ep2"				"所以到此为止\n弗里曼博士未能保护一条对胜利必需的生命\n这就是我们在旋涡精华中看到的形状"
-		"HL2_GameOver_Timer_ep2"			"一切到此为止\n弗里曼博士未能迅速取得胜利导致我们的彻底失败"
-		"HL2_GameOver_Stuck_ep2"			"任务: 已终止\n对象: 弗里曼\n缘由: 极其糟糕的判断能力"
+		"HL2_GameOver_Object_ep2"			"在这里结束\n弗里曼无法保存\n迎向胜利的关键资源\n无法逃避的厄运微光笼罩共生元气"
+		"HL2_GameOver_Ally_ep2"				"所以结束了\n弗里曼无法保住性命迎接胜利\n这是我们在共生元气中看到的形状"
+		"HL2_GameOver_Timer_ep2"			"都结束了\n弗里曼失败了，无法快速成功\n导致我们全军覆没"
+		"HL2_GameOver_Stuck_ep2"			"任务：已终止\n对象：弗里曼\n缘由：极其糟糕的判断能力"
 
 		"Portal_Portalgun"					"光圈科技手持式传送门设备\n（传送枪）"
 		
@@ -156,7 +156,7 @@
 		"HL2_Chapter9_Title"				"小节9\n诺瓦矿场"
 		"HL2_Chapter9a_Title"				"小节9A\n牵连设备"
 		"HL2_Chapter10_Title"				"小节10\n反叛者1号"
-		"HL2_Chapter11_Title"				"小节11\n\“跟着弗里曼!”"
+		"HL2_Chapter11_Title"				"小节11\n\“跟着弗里曼！”"
 		"HL2_Chapter12_Title"				"小节12\n我们的恩主"
 		"HL2_Chapter13_Title"				"小节13\n暗能"
 		"HL2_Chapter14_Title"				"小节14\n制作团队"
@@ -236,7 +236,7 @@
 		"Valve_Hint_Door"					"打开门"
 		"Valve_Hint_Lever"					"拉杠杆"
 		"Valve_Hint_Zoom"					"缩放"
-		"Valve_Hint_Pickup_Glados"			"拾取GLaDOS"
+		"Valve_Hint_Pickup_Glados"			"拾取PotatOS"
 		"Valve_Hint_Socket"					"激活插座"
 
 		"Valve_Hint_USEPickup"				"拾取物体"
@@ -641,7 +641,7 @@
 		"Settings_Render_ColorCorrection_Info"			"某些地图会使用色彩校正改变色彩平衡以实现特定的美学效果。该设置对图形性能没有影响。"
 
 		"Settings_Render_Multicore"						"多核渲染"
-		"Settings_Render_Multicore_Info"				"多核渲染允许《传送门2: 社区版》在系统中的多个 CPU 和 GPU 核心之间分配渲染任务。禁用此设置可能会对整体帧率和画质产生负面影响。"
+		"Settings_Render_Multicore_Info"				"多核渲染允许《传送门2：社区版》在系统中的多个 CPU 和 GPU 核心之间分配渲染任务。禁用此设置可能会对整体帧率和画质产生负面影响。"
 
 		"Settings_Render_ShaderDetail"					"着色器细节"
 		"Settings_Render_ShaderDetail_Info"				"着色器细节控制游戏中应用于物体表面的光照和阴影效果的复杂程度。较高的设置可以提升视觉效果，但可能会降低图形性能。"
@@ -853,13 +853,13 @@
 		"Settings_Menu_Sentry"							"“哨戒”崩溃报告"
 		"Settings_Menu_Sentry_info"						"控制崩溃转储的提交，通过“哨戒”处理。\n崩溃报告中使用的数据包含完整的调用堆栈，记录了引擎在崩溃前的最后瞬间（包括开发者控制台日志输出的最后几行）、当前的Steam构建ID以及您的Steam社区个人资料ID。其他数据不会发送给《传送门2: 社区版》团队。\n此功能为可选项，可随时开启或关闭。"
 		"Settings_Menu_DiscordIntegration"				"Discord丰富状态显示"
-		"Settings_Menu_DiscordIntegration_info"			"通过将当前游戏状态显示为活动，启用Discord与《传送门2: 社区版》的丰富状态集成。\n此开关不会更改SDK工具（例如Hammer）中Discord丰富状态的启用状态。"
+		"Settings_Menu_DiscordIntegration_info"			"通过将当前游戏状态显示为活动，启用Discord与《传送门2：社区版》的丰富状态集成。\n此开关不会更改SDK工具（例如Hammer）中Discord丰富状态的启用状态。"
 		
 		// Main Menu
 		"MainMenu_PH_Note"								"本页面正在开发中。"
 		"MainMenu_ControllerUI_Note_Title"				"控制器支持警告"
-		"MainMenu_ControllerUI_Note_Desc"				"菜单界面的手柄输入支持仍处于实验阶段。\n\n如果您在使用此模式时遇到错误或有反馈，请提交至《传送门2: 社区版》漏洞跟踪器。"
-		"MainMenu_Graphics_Notice"						"注意: 如果您遇到图形问题，请尝试在Steam中切换到“stable”游戏分支。"
+		"MainMenu_ControllerUI_Note_Desc"				"菜单界面的手柄输入支持仍处于实验阶段。\n\n如果您在使用此模式时遇到错误或有反馈，请提交至《传送门2：社区版》漏洞跟踪器。"
+		"MainMenu_Graphics_Notice"						"注意：如果您遇到图形问题，请尝试在Steam中切换到“stable”游戏分支。"
 		"MainMenu_Socials_GitHub"						"在Steam叠加界面中打开GitHub错误报告工具"
 		"MainMenu_Socials_Discord"						"在Steam叠加界面中打开Discord"
 
@@ -876,9 +876,9 @@
 		"MainMenu_Navigation_Workshop_Tagline"			"选择一张创意工坊地图游玩"
 		"MainMenu_Navigation_Campaign"					"战役"
 		"MainMenu_Navigation_Campaign_Tagline"			"选择一个战役游玩"
-		"MainMenu_Navigation_Play_MapTypes"				"选择一张《传送门2: 社区版》或《传送门2》创意工坊地图"
+		"MainMenu_Navigation_Play_MapTypes"				"选择一张《传送门2：社区版》或《传送门2》创意工坊地图"
 		"MainMenu_Navigation_Featured"					"精选物品"
-		"MainMenu_Navigation_Featured_Tagline"			"在Steam创意工坊浏览热门物品"
+		"MainMenu_Navigation_Featured_Tagline"			"浏览Steam创意工坊的热门物品"
 		"MainMenu_Navigation_Addons"					"插件"
 		"MainMenu_Navigation_Addons_Tagline"			"管理已安装插件以及已挂载的游戏"
 		"MainMenu_Navigation_Options"					"设置"
@@ -893,18 +893,18 @@
 		"MainMenu_Home_Resume"							"继续游戏"
 		"MainMenu_Home_Resume_Tagline"					"关闭此菜单并继续游戏"
 		"MainMenu_Home_Continue"						"继续游戏"
-		"MainMenu_Home_BackgroundCredit"				"背景制作者:"
+		"MainMenu_Home_BackgroundCredit"				"背景制作者："
 		"MainMenu_Loading"								"加载中..."
 
 		// socials
-		"MainMenu_Home_Button_MainSite"					"《传送门2: 社区版》官方网站"
-		"MainMenu_Home_Button_Discord"					"《传送门2: 社区版》Discord服务器"
+		"MainMenu_Home_Button_MainSite"					"《传送门2：社区版》官方网站"
+		"MainMenu_Home_Button_Discord"					"《传送门2：社区版》Discord服务器"
 		"MainMenu_Home_Button_Github"					"地层起源GitHub页面"
 		"MainMenu_Home_Button_Forums"					"Steam社区论坛"
 		"MainMenu_Home_Button_Workshop"					"Steam创意工坊"
 		
 		// featured
-		"MainMenu_Featured_Title"						"精选物品: {s:featured_item_name}"
+		"MainMenu_Featured_Title"						"精选物品：{s:featured_item_name}"
 		"MainMenu_Featured_Title_PH"					"查询物品详情"
 		"MainMenu_Featured_Author"						"作者：{s:featured_item_author}"
 		"MainMenu_Featured_Author_PH"					"正在从Steam创意工坊获取详情..."
@@ -978,11 +978,11 @@
 		
 		// Save Failure Reasons
 		// no space available on current storage partition
-		"MainMenu_SaveRestore_SaveFailed_NoSpace"					"《传送门2: 社区版》所安装的存储设备空间不足。"
+		"MainMenu_SaveRestore_SaveFailed_NoSpace"					"《传送门2：社区版》所安装的存储设备空间不足。"
 		// this should only display if Windows NTFS perms (e.g.: readonly flag, account security ACLs) or linux FS permissions are wrong
 		"MainMenu_SaveRestore_SaveFailed_NoPerms"					"游戏无法创建新的存档文件，因为访问存档文件目录的权限不足。请更改《传送门2: 社区版》对"SAVE"目录的权限设置。"
 		// SOMEHOW, the game's running, but the disk isn't working right. possible disk failure or MFT corruption?
-		"MainMenu_SaveRestore_SaveFailed_DriveFail"					"游戏无法创建新的存档文件，因为《传送门2: 社区版》所安装的存储设备可能存在故障。请立即备份该设备上的所有数据。"
+		"MainMenu_SaveRestore_SaveFailed_DriveFail"					"游戏无法创建新的存档文件，因为《传送门2：社区版》所安装的存储设备可能存在故障。请立即备份该设备上的所有数据。"
 		// probably applies for steam cloud quota?
 		"MainMenu_SaveRestore_SaveFailed_NoMoreSlots"				"没有可用的保存空间。"
 		// map_wants_save_disable 1
@@ -997,11 +997,11 @@
 		// Main Menu - Campaigns
 		"MainMenu_Campaigns_Title"									"战役"
 		"MainMenu_Campaigns_Tagline"								"体验特别设计的内容"
-		"MainMenu_Campaigns_MapList"								"{s:playerModeStr} 地图"
-		"MainMenu_Campaigns_MapList_Uncategorized"					"未分类的 {s:playerModeStr} 地图"
-		"MainMenu_Campaigns_MapList_Campaigns"						"{s:playerModeStr} 战役"
+		"MainMenu_Campaigns_MapList"								"{s:playerModeStr}地图"
+		"MainMenu_Campaigns_MapList_Uncategorized"					"未分类的{s:playerModeStr}地图"
+		"MainMenu_Campaigns_MapList_Campaigns"						"{s:playerModeStr}战役"
 		"MainMenu_Campaigns_MapList_Campaigns_Tagline"				"选择要游玩的战役"
-		"MainMenu_Campaigns_MapList_p2ce_Tagline"					"从《传送门2: 社区版》创意工坊中选取地图"
+		"MainMenu_Campaigns_MapList_p2ce_Tagline"					"从《传送门2：社区版》创意工坊中选取地图"
 		"MainMenu_Campaigns_MapList_portal2_Tagline"				"从《传送门2》创意工坊中选取地图"
 		"MainMenu_Campaigns_MapList_Uncategorized_Tagline"			"选择本地安装的地图"
 		"MainMenu_Campaigns_MapList_Tagline_NewlySubbed"			"新订阅数 {i:num_newly_installed_maps} "
@@ -1018,7 +1018,7 @@
 		"MainMenu_Campaigns_ModeSel_ServerBrowser_Tagline"			"寻找或新建自由构建的理想游戏"
 		"MainMenu_Campaigns_CType_SP"								"单人游戏"
 		"MainMenu_Campaigns_CType_MP"								"多人游戏/双人合作"
-		"MainMenu_Campaigns_MapType_p2ce"							"《传送门2: 社区版》地图"
+		"MainMenu_Campaigns_MapType_p2ce"							"《传送门2：社区版》地图"
 		"MainMenu_Campaigns_MapType_portal2"						"《传送门2》地图"
 		
 		// Search
@@ -1041,8 +1041,8 @@
 请先安装并挂载上述游戏以访问此战役"
 
 		// Warn the user if playing on map or server with no active campaign and attempting a save
-		"MainMenu_Campaigns_NoActiveCampaign_Warning_Title"			"警告: 不在相应内容组中"
-		"MainMenu_Campaigns_NoActiveCampaign_Warning_Desc"			"您当前未在相应内容组内玩游戏(例如: 战役或创意工坊)。如果您通过开发者控制台启动地图或通过Hammer关卡编辑器中的"运行地图"对话框启动地图，可能会出现这种情况。\n\n在此状态下，创建和加载存档仍然可行，但这些文件不会显示在主菜单中。\n\n在内容组外玩游戏仅用于开发目的；强烈建议您返回菜单并正常游戏。\n\n每次打开此菜单时，都会出现此警告。"
+		"MainMenu_Campaigns_NoActiveCampaign_Warning_Title"			"警告：不在相应的内容组中"
+		"MainMenu_Campaigns_NoActiveCampaign_Warning_Desc"			"您当前未在相应的内容组内玩游戏(例如：战役或创意工坊)。如果您通过开发者控制台启动地图或通过Hammer关卡编辑器中的"运行地图"对话框启动地图，可能会出现这种情况。\n\n在此状态下，创建和加载存档仍然可行，但这些文件不会显示在主菜单中。\n\n在内容组外玩游戏仅用于开发目的；强烈建议您返回菜单并正常游戏。\n\n每次打开此菜单时，都会出现此警告。"
 
 		// Bad Campaign
 		"MainMenu_Campaigns_BgLoadFailed_Title"						"加载内容失败"
@@ -1057,17 +1057,17 @@
 		
 		// dependency game names
 		"MainMenu_Campaigns_Mounts_AppId_630"						"异形丛生（630）"
-		"MainMenu_Campaigns_Mounts_AppId_300"						"胜利之日: 起源（300）"
+		"MainMenu_Campaigns_Mounts_AppId_300"						"胜利之日：起源（300）"
 		"MainMenu_Campaigns_Mounts_AppId_220"						"半衰期2（220）"
-		"MainMenu_Campaigns_Mounts_AppId_280"						"半衰期: 起源（280）"
+		"MainMenu_Campaigns_Mounts_AppId_280"						"半衰期：起源（280）"
 		"MainMenu_Campaigns_Mounts_AppId_400"						"传送门（400）"
 		"MainMenu_Campaigns_Mounts_AppId_660"						"传送门2——第六感运动包（660）"
 		"MainMenu_Campaigns_Mounts_AppId_247120"					"传送门2——第六感附加包（247120）"
 		"MainMenu_Campaigns_Mounts_AppId_440"						"军团要塞2（440）"
 		"MainMenu_Campaigns_Mounts_AppId_500"						"求生之路（500）"
 		"MainMenu_Campaigns_Mounts_AppId_550"						"求生之路2（550）"
-		"MainMenu_Campaigns_Mounts_AppId_240"						"反恐精英: 起源（240）"
-		"MainMenu_Campaigns_Mounts_AppId_4465480"					"反恐精英: 全球攻势（4465480）"
+		"MainMenu_Campaigns_Mounts_AppId_240"						"反恐精英：起源（240）"
+		"MainMenu_Campaigns_Mounts_AppId_4465480"					"反恐精英：全球攻势（4465480）"
 
 		// temp for better solution
 		"MainMenu_Campaigns_MountRequired_Header"					"游戏挂载缺失"
@@ -1078,10 +1078,10 @@
 		"MainMenu_Campaigns_DetailCard_CompletionPercentage"		"已完成 {i:campaign_completion}%"
 		"MainMenu_Campaigns_DetailCard_CompletationStat1"			"当前章节: {i:current_chapter}/{i:max_chapters}"
 		"MainMenu_Campaigns_DetailCard_CompletationStat1_CName"		"{s:current_chapter_name}" 	// Chapter name here, if specified
-		"MainMenu_Campaigns_DetailCard_CompletationStat2"			"总游玩时长: {t:d:total_played}"
-		"MainMenu_Campaigns_DetailCard_CompletationStat3"			"成就已解锁: {i:num_achievements_earned}/{i:total_campaign_achievements}"
-		"MainMenu_Campaigns_DetailCard_LastPlayDate"				"上次游玩日期: {t:l:last_played_date}"
-		"MainMenu_Campaigns_DetailCard_InstallDate"					"安装于: {t:l:installed_date}"
+		"MainMenu_Campaigns_DetailCard_CompletationStat2"			"总游玩时长：{t:d:total_played}"
+		"MainMenu_Campaigns_DetailCard_CompletationStat3"			"成就已解锁：{i:num_achievements_earned}/{i:total_campaign_achievements}"
+		"MainMenu_Campaigns_DetailCard_LastPlayDate"				"上次游玩日期：{t:l:last_played_date}"
+		"MainMenu_Campaigns_DetailCard_InstallDate"					"安装于：{t:l:installed_date}"
 		
 		// campaign main menu
 		"MainMenu_Campaigns_MM_LoadAuto"							"继续"
@@ -1233,7 +1233,7 @@
 		"MainMenu_Mounts_TooMany_Desc"				"《传送门2: 社区版》目前已挂载{i:num_mounted_games}款游戏。由于技术限制，仅有{i:max_mounts}款游戏会显示。"
 		"MainMenu_Mounts_Game_MaxTagline"			"已达到可显示挂载游戏的最大数量。"
 		"MainMenu_Mounts_WIP_Title"					"挂载设置正在开发中，目前暂不可用。"
-		"MainMenu_Mounts_WIP_Tagline"				"点击此处了解更多关于在《传送门 2: 社区版》中设置挂载的信息。"
+		"MainMenu_Mounts_WIP_Tagline"				"点击此处了解更多关于在《传送门 2：社区版》中设置挂载的信息。"
 
 		// for non-campaign addons with maps
 		"MainMenu_Addons_MapDropdown_Select"		"选择一张地图..."
@@ -1273,7 +1273,7 @@
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Model"		"模型"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Mats"			"材质/贴图"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Scripts"		"脚本"
-		"MainMenu_Addons_Filtering_Sort_AddonTags_Instance"		"实例/预制件"
+		"MainMenu_Addons_Filtering_Sort_AddonTags_Instance"		"编辑器实例/预制件"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Theme"		"主题"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Ported"		"移植"
 
@@ -1450,7 +1450,7 @@
 		"GameUI_Disconnect_SteamVAC"						"该玩家因作弊被禁止参与在线游戏。"		// NETWORK_DISCONNECT_STEAM_VACBANSTATE
 		"GameUI_Disconnect_SteamTimeOut"					"无法验证Valve反作弊系统 (VAC) 的封禁状态。"	// NETWORK_DISCONNECT_STEAM_VAC_CHECK_TIMEDOUT
 		"GameUI_Disconnect_SteamDropped"					"您已断开与Steam网络的连接。"	// NETWORK_DISCONNECT_STEAM_DROPPED
-		"GameUI_Disconnect_SteamOwnership"					"当前Steam帐户未持有《传送门 2》 和/ 或《传送门2: 社区版》的许可。"	// NETWORK_DISCONNECT_STEAM_OWNERSHIP
+		"GameUI_Disconnect_SteamOwnership"					"当前Steam帐户未持有《传送门2》 和/ 或《传送门2：社区版》的许可。"	// NETWORK_DISCONNECT_STEAM_OWNERSHIP
 		"GameUI_Disconnect_LocalProblem_ManyRelays"			"多次尝试连接Steam数据报中继 (SDR) 服务器后，仍无法恢复游戏状态。这台计算机的网络连接可能存在问题。"		// NETWORK_DISCONNECT_SNS_LOCAL_MANYRELAYS
 		"GameUI_Disconnect_LocalProblem_HostedServerPrimaryRelay"		"服务器与Steam数据报中继 (SDR) 服务器断开连接。"		// NETWORK_DISCONNECT_SNS_LOCAL_HOSTEDSERVERPRIMARYRELAY
 		"GameUI_Disconnect_LocalProblem_NetworkConfig"		"无法下载Steam数据报中继 (SDR) 服务器配置数据。"		// NETWORK_DISCONNECT_SNS_LOCAL_NETWORKCONFIG
