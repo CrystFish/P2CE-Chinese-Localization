@@ -236,7 +236,7 @@
 		"Valve_Hint_Door"					"打开门"
 		"Valve_Hint_Lever"					"拉杠杆"
 		"Valve_Hint_Zoom"					"缩放"
-		"Valve_Hint_Pickup_Glados"			"拾取PotatOS"
+		"Valve_Hint_Pickup_Glados"			"拾取 GLaDOS"
 		"Valve_Hint_Socket"					"激活插座"
 
 		"Valve_Hint_USEPickup"				"拾取物体"
@@ -505,7 +505,7 @@
 		"Settings_ImportExport_Failed"					"设置导入解析器失败！"
 		"Settings_ImportExport_Invalid"					"无效参数"
 		"Settings_ImportExport_B64Mode"					"Base64模式"
-		"Settings_ImportExport_B64Warning"				"注意: Base64字符串可能会因更新而失效。如果您希望保存更久，请使用常规模式！"
+		"Settings_ImportExport_B64Warning"				"注意：Base64字符串可能会因更新而失效。如果您希望保存更久，请使用常规模式！"
 		"Settings_ImportExport_Error_NoCvars"			"输入不包含任何参数，您是在尝试转换Base64吗？"
 		"Settings_ImportExport_Error_NoSettings"		"无导入的设置项！"
 		"Settings_ImportExport_Error_Outdated"			"该代码似乎已失效。"
@@ -851,7 +851,7 @@
 		"Settings_Menu_Console"							"启用开发者控制台"
 		"Settings_Menu_Console_info"					"此设置用于确定开发者控制台的启用状态，开发者控制台允许用户向游戏引擎发送内部命令。\n开发者控制台是面向高级用户（如地图制作者）的强大工具，对于正常游戏并非必需。起源引擎中存在的一些命令具有危险性，如果使用不当，可能导致游戏崩溃、保存进度丢失，或使某些游戏元素无法正常运行。"
 		"Settings_Menu_Sentry"							"“哨戒”崩溃报告"
-		"Settings_Menu_Sentry_info"						"控制崩溃转储的提交，通过“哨戒”处理。\n崩溃报告中使用的数据包含完整的调用堆栈，记录了引擎在崩溃前的最后瞬间（包括开发者控制台日志输出的最后几行）、当前的Steam构建ID以及您的Steam社区个人资料ID。其他数据不会发送给《传送门2: 社区版》团队。\n此功能为可选项，可随时开启或关闭。"
+		"Settings_Menu_Sentry_info"						"控制是否将崩溃转储文件通过“哨戒”系统提交。\n崩溃报告中的数据包含完整的调用堆栈，记录了引擎在崩溃前的最后瞬间（包括开发者控制台日志输出的最后几行）、当前的Steam构建ID以及您的Steam社区个人资料ID。其他数据不会发送给《传送门2：社区版》团队。\n此功能为可选项，可随时开启或关闭。"
 		"Settings_Menu_DiscordIntegration"				"Discord丰富状态显示"
 		"Settings_Menu_DiscordIntegration_info"			"通过将当前游戏状态显示为活动，启用Discord与《传送门2：社区版》的丰富状态集成。\n此开关不会更改SDK工具（例如Hammer）中Discord丰富状态的启用状态。"
 		
@@ -909,12 +909,12 @@
 		"MainMenu_Featured_Author"						"作者：{s:featured_item_author}"
 		"MainMenu_Featured_Author_PH"					"正在从Steam创意工坊获取详情..."
 		"MainMenu_Featured_Unavailable_Title"			"精选物品不可用"
-		"MainMenu_Featured_Unavailable_Description"		"无法访问Steam网络API，或API正经历技术问题。精选商品暂时不可用。"
+		"MainMenu_Featured_Unavailable_Description"		"无法连接Steam网络API，或许API出现了技术问题。精选物品暂时不可用。"
 		
 		// Main Menu - News
 		// temporarily removed for the time being
 		// "MainMenu_News_Unavailable_Title"				"新闻不可用"
-		// "MainMenu_News_Unavailable_Description"			"无法访问Steam网络API，或API正经历技术问题。新闻暂时不可用。"
+		// "MainMenu_News_Unavailable_Description"			"无法连接Steam网络API，或许API出现了技术问题。新闻暂时不可用。"
 		
 		// Main Menu - Saverestore
 		"MainMenu_SaveRestore_Main"							"保存/加载游戏"
@@ -980,7 +980,7 @@
 		// no space available on current storage partition
 		"MainMenu_SaveRestore_SaveFailed_NoSpace"					"《传送门2：社区版》所安装的存储设备空间不足。"
 		// this should only display if Windows NTFS perms (e.g.: readonly flag, account security ACLs) or linux FS permissions are wrong
-		"MainMenu_SaveRestore_SaveFailed_NoPerms"					"游戏无法创建新的存档文件，因为访问存档文件目录的权限不足。请更改《传送门2: 社区版》对"SAVE"目录的权限设置。"
+		"MainMenu_SaveRestore_SaveFailed_NoPerms"					"游戏无法创建新的存档文件，因为访问存档文件目录的权限不足。请更改《传送门2：社区版》对"SAVE"目录的权限设置。"
 		// SOMEHOW, the game's running, but the disk isn't working right. possible disk failure or MFT corruption?
 		"MainMenu_SaveRestore_SaveFailed_DriveFail"					"游戏无法创建新的存档文件，因为《传送门2：社区版》所安装的存储设备可能存在故障。请立即备份该设备上的所有数据。"
 		// probably applies for steam cloud quota?
@@ -1004,8 +1004,8 @@
 		"MainMenu_Campaigns_MapList_p2ce_Tagline"					"从《传送门2：社区版》创意工坊中选取地图"
 		"MainMenu_Campaigns_MapList_portal2_Tagline"				"从《传送门2》创意工坊中选取地图"
 		"MainMenu_Campaigns_MapList_Uncategorized_Tagline"			"选择本地安装的地图"
-		"MainMenu_Campaigns_MapList_Tagline_NewlySubbed"			"新订阅数 {i:num_newly_installed_maps} "
-		"MainMenu_Campaigns_MapList_Tagline_TotalMaps"				"总地图数 {i:num_total_installed_maps} "
+		"MainMenu_Campaigns_MapList_Tagline_NewlySubbed"			"新订阅数：{i:num_newly_installed_maps} "
+		"MainMenu_Campaigns_MapList_Tagline_TotalMaps"				"总地图数：{i:num_total_installed_maps} "
 		"MainMenu_Campaigns_OpenWS"									"打开Steam创意工坊界面"
 		"MainMenu_Maps_None"										"您还没有安装任何地图！您可以在 Steam 创意工坊中查找地图。"
 		"MainMenu_Campaigns_None"									"您还没有安装任何战役！您可以在 Steam 创意工坊中查找战役。"
@@ -1036,13 +1036,13 @@
 		
 		// this is used if a campaign requires an appid they don't have mounted
 		"MainMenu_Campaigns_MissingMount_Title"						"无法加载战役"
-		"MainMenu_Campaigns_MissingMount_Description"				"无法加载此战役，因为以下游戏未挂载: 
+		"MainMenu_Campaigns_MissingMount_Description"				"无法加载此战役，因为以下游戏未挂载：
 {s:missing_mounts_list}
 请先安装并挂载上述游戏以访问此战役"
 
 		// Warn the user if playing on map or server with no active campaign and attempting a save
 		"MainMenu_Campaigns_NoActiveCampaign_Warning_Title"			"警告：不在相应的内容组中"
-		"MainMenu_Campaigns_NoActiveCampaign_Warning_Desc"			"您当前未在相应的内容组内玩游戏(例如：战役或创意工坊)。如果您通过开发者控制台启动地图或通过Hammer关卡编辑器中的"运行地图"对话框启动地图，可能会出现这种情况。\n\n在此状态下，创建和加载存档仍然可行，但这些文件不会显示在主菜单中。\n\n在内容组外玩游戏仅用于开发目的；强烈建议您返回菜单并正常游戏。\n\n每次打开此菜单时，都会出现此警告。"
+		"MainMenu_Campaigns_NoActiveCampaign_Warning_Desc"			"您当前未在相应的内容组内游玩（例如：战役或创意工坊）。如果您通过开发者控制台启动地图或通过Hammer关卡编辑器中的"运行地图"对话框启动地图，可能会出现这种情况。\n\n此状态下仍然可以创建和加载存档文件，但这些文件不会显示在主菜单中。\n\n在内容组外游玩仅用于开发目的；强烈建议您返回菜单并正常游戏。\n\n每次打开此菜单时，都会出现此警告。"
 
 		// Bad Campaign
 		"MainMenu_Campaigns_BgLoadFailed_Title"						"加载内容失败"
@@ -1076,10 +1076,10 @@
 		
 		// campaign details card
 		"MainMenu_Campaigns_DetailCard_CompletionPercentage"		"已完成 {i:campaign_completion}%"
-		"MainMenu_Campaigns_DetailCard_CompletationStat1"			"当前章节: {i:current_chapter}/{i:max_chapters}"
+		"MainMenu_Campaigns_DetailCard_CompletationStat1"			"当前章节：{i:current_chapter}/{i:max_chapters}"
 		"MainMenu_Campaigns_DetailCard_CompletationStat1_CName"		"{s:current_chapter_name}" 	// Chapter name here, if specified
 		"MainMenu_Campaigns_DetailCard_CompletationStat2"			"总游玩时长：{t:d:total_played}"
-		"MainMenu_Campaigns_DetailCard_CompletationStat3"			"成就已解锁：{i:num_achievements_earned}/{i:total_campaign_achievements}"
+		"MainMenu_Campaigns_DetailCard_CompletationStat3"			"已解锁成就：{i:num_achievements_earned}/{i:total_campaign_achievements}"
 		"MainMenu_Campaigns_DetailCard_LastPlayDate"				"上次游玩日期：{t:l:last_played_date}"
 		"MainMenu_Campaigns_DetailCard_InstallDate"					"安装于：{t:l:installed_date}"
 		
@@ -1182,9 +1182,9 @@
 		// campaign list
 		
 		// p2ce-campaign
-		"MainMenu_Campaigns_P2CE"					"《传送门2: 社区版》"
-		"MainMenu_Campaigns_P2CE_Author"			"《传送门2: 社区版》团队"
-		"MainMenu_Campaigns_P2CE_Description"		"[DEV - REPLACE ME]《传送门2: 社区版》战役简介 占位符"
+		"MainMenu_Campaigns_P2CE"					"《传送门2：社区版》"
+		"MainMenu_Campaigns_P2CE_Author"			"《传送门2：社区版》团队"
+		"MainMenu_Campaigns_P2CE_Description"		"[DEV - REPLACE ME]《传送门2：社区版》战役简介 占位符"
 		
 		// for valve campaigns
 		"MainMenu_Campaigns_Valve_Author"			"Valve Software"
@@ -1204,11 +1204,11 @@
 		"MainMenu_Campaigns_hl2_Description"		"七小时战争已经失败。地球已经投降。黑山事件已成为遥远的回忆。再次拿起研究科学家戈登·弗里曼博士的撬棍的玩家，会发现自己身处外星生物横行的地球——这颗星球已被榨干殆尽，资源枯竭，人口锐减。弗里曼被迫承担起不容羡慕的使命，拯救世界，弥补他当年在黑山基地引发的灾难。而许多他珍视的人都在指望他。"
 		
 		// episodic
-		"MainMenu_Campaigns_episodic"				"半衰期2: 第一章"
+		"MainMenu_Campaigns_episodic"				"半衰期2：第一章"
 		"MainMenu_Campaigns_episodic_Description"	"故事承接《半衰期2》的结局，戈登·弗里曼博士和爱莉克斯·凡斯试图延缓一场将摧毁17号城市的不可避免的连锁反应。面对强大的阻力，他们必须在一切毁于一旦之前，疏散城市并拯救居民。"
 		
 		// ep2
-		"MainMenu_Campaigns_ep2"					"半衰期2: 第二章"
+		"MainMenu_Campaigns_ep2"					"半衰期2：第二章"
 		"MainMenu_Campaigns_ep2_Description"		"人类四散流离，外星势力仍在继续争夺地球的控制权。物理学家戈登·弗里曼和爱莉克斯·凡斯必须设法拦截联合军的传输，并在人类被灭绝之前与叛军部队会合。"
 		
 		// Main Menu - Addons
@@ -1217,7 +1217,7 @@
 		"MainMenu_Addons_Discard"					"撤销"
 		"MainMenu_Addons_ToggleAll"					"启用/禁用所有插件"
 		"MainMenu_Addons_ViewOnWS"					"查看创意工坊页面"			// DO NOT DISPLAY THIS IF IT IS A LOCAL ADDON
-		"MainMenu_Addons_Category_WS"				"《传送门2: 社区版》插件"
+		"MainMenu_Addons_Category_WS"				"《传送门2：社区版》插件"
 		"MainMenu_Addons_Category_WS_Tagline"		"创意工坊订阅与本地安装内容"
 		"MainMenu_Addons_Category_Mounts"			"挂载的游戏"
 		"MainMenu_Addons_Category_Mounts_Tagline"	"来自其他已安装的起源引擎游戏内容"
@@ -1230,7 +1230,7 @@
 		"MainMenu_Mounts_MountGame"					"挂载"
 		"MainMenu_Mounts_UnmountGame"				"卸载"
 		"MainMenu_Mounts_TooMany"					"挂载游戏数过多"
-		"MainMenu_Mounts_TooMany_Desc"				"《传送门2: 社区版》目前已挂载{i:num_mounted_games}款游戏。由于技术限制，仅有{i:max_mounts}款游戏会显示。"
+		"MainMenu_Mounts_TooMany_Desc"				"《传送门2：社区版》目前已挂载{i:num_mounted_games}款游戏。由于技术限制，仅有{i:max_mounts}款游戏会显示。"
 		"MainMenu_Mounts_Game_MaxTagline"			"已达到可显示挂载游戏的最大数量。"
 		"MainMenu_Mounts_WIP_Title"					"挂载设置正在开发中，目前暂不可用。"
 		"MainMenu_Mounts_WIP_Tagline"				"点击此处了解更多关于在《传送门 2：社区版》中设置挂载的信息。"
@@ -1342,7 +1342,7 @@
 		// Temp Notices
 		// Unfinished Software Reminder
 		"MainMenu_PrereleaseNotice_Title"			"当前版本为不稳定的预览版"
-		"MainMenu_PrereleaseNotice_Description"		"《传送门2: 社区版》是一个模组开发框架。目前阶段的开发仍未完成。此预览版仅面向内容创作者；部分关键功能可能尚未实现或正在积极开发中，同时，我们正在游戏的底层引擎进行大规模的代码重构，旨在彻底重写和/或移除过时的遗留代码，为更全面的体验优化和新功能铺平道路。因此，《传送门2: 社区版》及其SDK工具的某些方面可能存在对您的模组制作流程有着极大影响的问题。
+		"MainMenu_PrereleaseNotice_Description"		"《传送门2：社区版》是一个模组开发框架。目前阶段的开发仍未完成。此预览版仅面向内容创作者；部分关键功能可能尚未实现或正在积极开发中，同时，我们正在游戏的底层引擎进行大规模的代码重构，旨在彻底重写和/或移除过时的遗留代码，为更全面的体验优化和新功能铺平道路。因此，《传送门2：社区版》及其SDK工具的某些方面可能存在对您的模组制作流程有着极大影响的问题。
 
 《传送门2：社区版》的战役流程尚未完成，因此未包含在此预览版中。
 		
@@ -1356,14 +1356,14 @@
 此信息仅显示一次，一旦确认，将不再显示。"
 
 		"MainMenu_Compat_Warning_Header"			"兼容性警告"
-		"MainMenu_Compat_Warning"					"<b>《传送门1》和《半衰期2》尚无法在《传送门2: 社区版》上完全正常运行。</b>您可能会遇到诸如纹理缺失或被替换、动画损坏、程序崩溃、关键游戏元素缺失等问题。我们计划在将来修复其中的一些问题，但这并非我们的优先事项。<b>请不要提交与《传送门1》和《半衰期2》相关的错误报告。</b>"
+		"MainMenu_Compat_Warning"					"<b>《传送门1》和《半衰期2》尚无法在《传送门2：社区版》上完全正常运行。</b>您可能会遇到诸如纹理缺失或被替换、动画损坏、程序崩溃、关键游戏元素缺失等问题。我们计划在将来修复其中的一些问题，但这并非我们的优先事项。<b>请不要提交与《传送门1》和《半衰期2》相关的错误报告。</b>"
 
 		"MainMenu_PrereleaseNotice_Acknowledge"		"我已了解"
 		"MainMenu_PrereleaseNotice_Decline"			"拒绝"
 		
 		// Playtest DOSA
-		"MainMenu_PlaytestDOSA_Title"				"欢迎来到《传送门2: 社区版》游戏测试！"
-		"MainMenu_PlaytestDOSA_Description"			"作为游戏测试的一部分，游戏将记录您的游戏演示和一些基本的性能数据。\n这些数据将在事后上传，以供我们的开发人员查看，从而帮助我们改进游戏体验。\n\n注意: 您可以在设置中随时同意或撤销此项许可。"
+		"MainMenu_PlaytestDOSA_Title"				"欢迎来到《传送门2：社区版》游戏测试！"
+		"MainMenu_PlaytestDOSA_Description"			"作为游戏测试的一部分，游戏将记录您的游戏演示和一些基本的性能数据。\n这些数据将在事后上传，以供我们的开发人员查看，从而帮助我们改进游戏体验。\n\n注意：您可以在设置中随时同意或撤销此项许可。"
 		"MainMenu_PlaytestDOSA_Consent"				"同意收集游戏数据"
 		"MainMenu_PlaytestDOSA_Revoke"				"撤回许可"
 	
@@ -1401,8 +1401,8 @@
 		// generic disconnect reasons
 		"MainMenu_DisconnectDialog_Reason_TimeOut"			"服务器可能已崩溃或失去了网络连接。请稍等片刻，然后再次尝试连接。"
 		"MainMenu_DisconnectDialog_Reason_TimeOutConnect"	"无法与服务器建立连接。指定的服务器IP地址/主机名无效，或者你的网络连接出现问题。"
-		"MainMenu_DisconnectDialog_Reason_BuildTooOld"		"《传送门2: 社区版》可能需要更新才能连接该服务器。请退出游戏并在Steam客户端中确认更新至最新版本。"
-		"MainMenu_DisconnectDialog_Reason_BuildTooNew"		"你的《传送门2: 社区版》的版本高于服务端版本。服务器所有者可能需要将服务器更新到最新版本。"
+		"MainMenu_DisconnectDialog_Reason_BuildTooOld"		"《传送门2：社区版》可能需要更新才能连接该服务器。请退出游戏并在Steam客户端中确认更新至最新版本。"
+		"MainMenu_DisconnectDialog_Reason_BuildTooNew"		"你的《传送门2：社区版》的版本高于服务端版本。服务器所有者可能需要将服务器更新到最新版本。"
 		"MainMenu_DisconnectDialog_Reason_DSExit"			"服务器已被所有者关闭。"
 		"MainMenu_DisconnectDialog_Reason_Kicked"			"你已被该服务器踢出。"
 		"MainMenu_DisconnectDialog_Reason_KickedVote"		"你已被该服务器投票踢出。"
