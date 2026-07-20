@@ -1184,7 +1184,7 @@
 		// p2ce-campaign
 		"MainMenu_Campaigns_P2CE"					"《传送门2：社区版》"
 		"MainMenu_Campaigns_P2CE_Author"			"《传送门2：社区版》团队"
-		"MainMenu_Campaigns_P2CE_Description"		"[DEV - REPLACE ME]《传送门2：社区版》战役简介 占位符"
+		"MainMenu_Campaigns_P2CE_Description"		"[DEV - REPLACE ME] Temporary P2:CE Campaign Description"
 		
 		// for valve campaigns
 		"MainMenu_Campaigns_Valve_Author"			"Valve Software"
