@@ -541,7 +541,7 @@
 		// Storm - CC System Rewrite
 		"Settings_ClosedCaptions_Font"						"字体"
 		"Settings_ClosedCaptions_Font_info"					"决定字幕的字体。"
-		"Settings_ClosedCaptions_Font_Lexend"				"Lexend (传送门2：社区版/地层起源)"
+		"Settings_ClosedCaptions_Font_Lexend"				"Lexend (传送门2：社区版/Strata Source)"
 		"Settings_ClosedCaptions_Font_U0001"				"Univers (传送门2)"
 		"Settings_ClosedCaptions_Font_GorDIN"				"DIN 1451 / GorDIN (半衰期2)"
 		"Settings_ClosedCaptions_Font_Verdana"				"Verdana (旧)"
@@ -899,7 +899,7 @@
 		// socials
 		"MainMenu_Home_Button_MainSite"					"《传送门2：社区版》官方网站"
 		"MainMenu_Home_Button_Discord"					"《传送门2：社区版》Discord服务器"
-		"MainMenu_Home_Button_Github"					"地层起源GitHub页面"
+		"MainMenu_Home_Button_Github"					"Strata Source GitHub页面"
 		"MainMenu_Home_Button_Forums"					"Steam社区论坛"
 		"MainMenu_Home_Button_Workshop"					"Steam创意工坊"
 		
