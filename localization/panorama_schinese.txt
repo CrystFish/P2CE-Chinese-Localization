@@ -524,7 +524,7 @@
 		"Settings_Volume_Physics"							"物理音量"
 		"Settings_Volume_Physics_info"						"调整物理交互（伤害、冲击等）音效的音量。"
 		"Settings_Volume_Footsteps"							"脚步音量"
-		"Settings_Volume_Footsteps_info"					"调整玩家与NPC脚步的音量。"
+		"Settings_Volume_Footsteps_info"					"调整玩家与 NPC 脚步的音量。"
 		"Settings_Volume_PlayerWeapon"						"玩家武器音量"
 		"Settings_Volume_PlayerWeapon_info"					"调整玩家的战斗交互的音量。"
 		"Settings_Volume_OverallWeapon"						"总体武器音量"
@@ -548,7 +548,7 @@
 		"Settings_ClosedCaptions_Font_NotoSans"				"Noto Sans (Steam 大屏幕模式)"
 		"Settings_ClosedCaptions_Font_Stratum2"				"Stratum2 (CS:GO)"
 		"Settings_ClosedCaptions_FontSize"					"字体大小"
-		"Settings_ClosedCaptions_FontSize_info"				"决定屏幕上的字幕文字大小，以为每像素点数（pt）计算。"
+		"Settings_ClosedCaptions_FontSize_info"				"决定屏幕上的字幕文字大小，以每像素点数（pt）计算。"
 		"Settings_ClosedCaptions_BGOpacity"					"背景不透明度"
 		"Settings_ClosedCaptions_BGOpacity_info"			"控制字幕背景板的不透明度。\n较低的数值可能会导致文本可见性降低，并可能导致可读性问题。建议使用较暗的背景（或纯黑色）以保证最佳的可读性。"
 		"Settings_ClosedCaptions_Alignment"					"文本对齐方向"
@@ -685,9 +685,9 @@
 		"Settings_TextureReplace_TypeCubemap_2"			"引擎默认立方体贴图"
 		"Settings_TextureReplace_Advanced"				"为错误纹理着色"
 		"Settings_TextureReplace_Advanced_Info"			"使用更贴合游戏体验的方式处理缺失纹理，而非展示默认错误纹理。
-		<h2>禁用</h2>：不启用此功能，使用默认错误纹理。
-		<h2>着色</h2>：根据物体表面的反射率数据为缺失纹理着色，使其整体颜色尽可能接近原始纹理。若下一项选项错误地将物体表面识别为水面等特殊材质，请使用此选项。
-		<h2>着色并应用特殊替换</h2>：除为缺失纹理着色外，还会识别透明纹理等特殊纹理并提供更合适的替代效果。除正在制作地图外推荐使用此选项。
+		<h2>禁用</h2>不启用此功能，使用默认错误纹理。
+		<h2>着色</h2>根据物体表面的反射率数据为缺失纹理着色，使其整体颜色尽可能接近原始纹理。若下一项选项错误地将物体表面识别为水面等特殊材质，请使用此选项。
+		<h2>着色并应用特殊替换</h2>除为缺失纹理着色外，还会识别透明纹理等特殊纹理并提供更合适的替代效果。除正在制作地图外推荐使用此选项。
 		更改此选项需要重新载入一次地图后才会生效。"
 		"Settings_TextureReplace_Advanced_0"			"禁用"
 		"Settings_TextureReplace_Advanced_1"			"着色"
@@ -1112,7 +1112,7 @@
 		"MainMenu_Campaigns_Setup_ResetToDefaults"					"重置为默认选项"
 		
 		// campaign setup - main panel
-		"MainMenu_Campaigns_Setup_Title"							"战役/地图设置"
+		"MainMenu_Campaigns_Setup_Title"							"战役 / 地图设置"
 		"MainMenu_Campaigns_Setup_Tagline"							"自定义游戏设置"
 		"MainMenu_Campaigns_Setup_AdvExpand"						"高级设置与自定义选项"
 		"MainMenu_Campaigns_Setup_PanelButton_Presets_Title"		"预设"
