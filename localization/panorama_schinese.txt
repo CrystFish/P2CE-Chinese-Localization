@@ -799,9 +799,9 @@
 		
 		"Settings_Portal1_Title" 						"《传送门 1》"
 		"Settings_Portal1_compat" 						"《传送门 1》兼容模式"
-		"Settings_Portal1_compat_info" 					"启用与《传送门1》地图的向下兼容性。"
+		"Settings_Portal1_compat_info" 					"启用与《传送门 1》地图的向下兼容性。"
 		"Settings_Portal1_xhair" 						"准星样式"
-		"Settings_Portal1_xhair_info" 					"更改传送枪准星行为。\n<h2>《传送门 2》样式</h2>只显示已放置的传送门。\n<h2>《传送门1》样式</h2>显示已放置的传送门，以及一个指示上个传送门的圆形标记。\n在准星变为实心时表示所指向的表面可开启传送门"
+		"Settings_Portal1_xhair_info" 					"更改传送枪准星行为。\n<h2>《传送门 2》样式</h2>只显示已放置的传送门。\n<h2>《传送门 1》样式</h2>显示已放置的传送门，以及一个指示上个传送门的圆形标记。\n在准星变为实心时表示所指向的表面可开启传送门"
 		"Settings_Portal1_xhair_p2" 					"《传送门 2》样式"
 		"Settings_portal1_xhair_p1" 					"《传送门 1》样式"
 		
@@ -1356,7 +1356,7 @@
 此信息仅显示一次，一旦确认，将不再显示。"
 
 		"MainMenu_Compat_Warning_Header"			"兼容性警告"
-		"MainMenu_Compat_Warning"					"<b>《传送门1》和《半衰期 2》尚无法在《传送门 2：社区版》上完全正常运行。</b>\n您可能会遇到例如纹理缺失或被替换、动画损坏、程序崩溃、关键游戏物件缺失等问题。\n我们计划在将来修复其中的一些问题，但兼容性问题并不是需要优先解决的事项。\n<b>请勿提交与《传送门1》和《半衰期 2》相关的错误报告。</b>"
+		"MainMenu_Compat_Warning"					"<b>《传送门 1》和《半衰期 2》目前无法在《传送门 2：社区版》上正常运行。</b>\n您可能会遇到如纹理缺失或被替换、动画损坏、程序崩溃、关键游戏物件缺失等问题。\n我们计划在将来修复其中的一些问题，但兼容性方面并不是我们需要优先考虑的事项。\n<b>请勿提交与《传送门 1》和《半衰期 2》相关的错误报告。</b>"
 
 		"MainMenu_PrereleaseNotice_Acknowledge"		"我已了解"
 		"MainMenu_PrereleaseNotice_Decline"			"拒绝"
