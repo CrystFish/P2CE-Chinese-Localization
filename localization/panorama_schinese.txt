@@ -1022,21 +1022,21 @@
 		"MainMenu_Campaigns_MapType_portal2"						"《传送门2》地图"
 		
 		// Search
-		"MainMenu_Campaigns_Search_FillerText"						"搜索战役..."
+		"MainMenu_Campaigns_Search_FillerText"						"搜索战役包..."
 		"MainMenu_Campaigns_Search_SortBy_NewSubs"					"最近添加"
 		"MainMenu_Campaigns_Search_SortBy_AtoZ"						"按首英文字母排序（正序）"
 		"MainMenu_Campaigns_Search_SortBy_ZtoA"						"按首英文字母排序（倒序）"
 		"MainMenu_Campaigns_Search_SortBy_Last"						"上次游玩时间"
 		"MainMenu_Campaigns_Search_SortBy_Completion"				"流程进度"
-		"MainMenu_Campaigns_Search_SortBy_CampaignSrc"				"战役来源"
+		"MainMenu_Campaigns_Search_SortBy_CampaignSrc"				"战役包来源"
 
 		"MainMenu_Content_Unplayed"									"尚未游玩"
 		"MainMenu_Content_InProgress"								"开发中"
 		"MainMenu_Content_Completed"								"已开发完成"
 		
 		// this is used if a campaign requires an appid they don't have mounted
-		"MainMenu_Campaigns_MissingMount_Title"						"无法加载战役"
-		"MainMenu_Campaigns_MissingMount_Description"				"无法加载此战役——未挂载下列游戏的文件：
+		"MainMenu_Campaigns_MissingMount_Title"						"无法加载战役包"
+		"MainMenu_Campaigns_MissingMount_Description"				"无法加载此战役包——未挂载下列游戏的文件：
 {s:missing_mounts_list}
 请先安装并挂载上述游戏文件以访问此战役"
 
@@ -1046,12 +1046,12 @@
 
 		// Bad Campaign
 		"MainMenu_Campaigns_BgLoadFailed_Title"						"加载内容失败"
-		"MainMenu_Campaigns_BgLoadFailed_Description"				"你尝试运行的战役指定了一个无法加载的背景地图。确保所需的内容已正确下载并挂载。"
+		"MainMenu_Campaigns_BgLoadFailed_Description"				"你尝试运行的战役包指定了一个无法加载的背景地图。确保所需的内容已正确下载并挂载。"
 		"MainMenu_Campaigns_LoadFailed_Title"						"启动战役失败！"
 		"MainMenu_Campaigns_LoadFailed_Description"					"此战役启动失败。检查控制台以获取详情。"
 		"MainMenu_Campaigns_Error_Generic_Title"					"错误"
 		"MainMenu_Campaigns_Error_InvalidKV3_Title"					"无法启动战役"
-		"MainMenu_Campaigns_Error_InvalidKV3_Desc"					"此战役无法启动，因为其脚本文件中指定的数据无效。\n\n请将此问题及相应的错误日志报告给插件作者。"
+		"MainMenu_Campaigns_Error_InvalidKV3_Desc"					"此战役包无法启动，因为其脚本文件中指定的数据无效。\n\n请将此问题及相应的错误日志报告给插件作者。"
 		"MainMenu_Campaigns_Error_InvalidChapterMapData_Title"		"无法开始章节"
 		"MainMenu_Campaigns_Error_InvalidChapterMapData_Desc"		"此战役无法启动，因为您所选的章节中没有定义地图。\n\n请将此问题及相应的错误日志报告给插件作者。"
 		
@@ -1135,16 +1135,16 @@
 		"MainMenu_Campaigns_Setup_Var_cl_mirror_world"				"翻转世界"
 		"MainMenu_Campaigns_Setup_Var_cl_mirror_world_Description"	"水平翻转世界。毁掉某人好心情的绝佳方式。\n\n默认项：关"
 		"MainMenu_Campaigns_Setup_Var_sv_gravity"					"世界重力"
-		"MainMenu_Campaigns_Setup_Var_sv_gravity_Description"		"控制世界的重力大小。该数值以Hammer Units（HU）为计量单位，相当于现实世界中的1英寸（2.54厘米）。\n\n默认重力值为600 HU/s"
+		"MainMenu_Campaigns_Setup_Var_sv_gravity_Description"		"控制世界的重力大小。该数值以 Hammer Units（HU）为计量单位，相当于现实世界中的 1 英寸（2.54厘米）。\n\n默认重力值为 600 HU/s"
 		"MainMenu_Campaigns_Setup_Var_skill"						"游戏难度"
-		"MainMenu_Campaigns_Setup_Var_skill_Description"			"更改了武器伤害和道具的行为。难度越高，敌人越难对付，弹药也越稀缺。\n\n此设置不适用于《传送门》战役。\n\n默认项：普通"
+		"MainMenu_Campaigns_Setup_Var_skill_Description"			"更改了武器伤害和道具的行为。难度越高，敌人越难对付，弹药也越稀缺。\n\n此设置不适用于《传送门》战役包。\n\n默认项：普通"
 		"MainMenu_Campaigns_Setup_Var_skill_1"						"简单"
 		"MainMenu_Campaigns_Setup_Var_skill_2"						"普通"
 		"MainMenu_Campaigns_Setup_Var_skill_3"						"困难"
 		"MainMenu_Campaigns_Setup_Var_player_throwenable"					"物品投掷"
 		"MainMenu_Campaigns_Setup_Var_player_throwenable_Description"		"启用《半衰期2》风格的拾取机制，允许随意投掷物品。\n\n默认项：关"
 		"MainMenu_Campaigns_Setup_Var_player_throwforce"					"物体投掷力"
-		"MainMenu_Campaigns_Setup_Var_player_throwforce_Description"		"投掷物的初始力量，单位为Hammer Units（HU）。需要启用“物品投掷”。"
+		"MainMenu_Campaigns_Setup_Var_player_throwforce_Description"		"投掷物的初始力量，单位为 Hammer Units（HU）。需要启用“物品投掷”。"
 		"MainMenu_Campaigns_Setup_Var_mv_bhop"						"“兔子跳”加速漏洞"
 		"MainMenu_Campaigns_Setup_Var_mv_bhop_Description"			"启用“兔子跳”加速漏洞，允许玩家利用移动系统的漏洞来获得额外的动量，和早期版本的起源引擎游戏一样。\n\n默认项：关"
 		"MainMenu_Campaigns_Setup_Var_mv_duckjump"					"允许蹲跳"
@@ -1167,8 +1167,8 @@
 		"MainMenu_Campaigns_Setup_Var_sv_lan_Description"			"仅允许当前本地网络下的玩家连接到此服务器。推荐用于私人对局和局域网聚会。"
 		"MainMenu_Campaigns_Setup_Var_sv_cheats"					"启用服务器作弊"
 		"MainMenu_Campaigns_Setup_Var_sv_cheats_Description"		"允许执行被\"sv_cheats\"所保护的特殊命令，例如：<pre>noclip</pre>, <pre>impulse</pre>和<pre>ent_fire</pre>\n\n默认项：关"
-		"MainMenu_Campaigns_Setup_Var_p2p"							"使用Steam网络"
-		"MainMenu_Campaigns_Setup_Var_p2p_Description"				"利用<a href="https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay">Steam数据报中继</a>在互联网上以极简的技术配置托管点对点（P2P）和专用服务器。游戏流量会被发送至Valve的中继服务器，以匿名化玩家信息并保护服务器主机。"
+		"MainMenu_Campaigns_Setup_Var_p2p"							"使用 Steam 网络"
+		"MainMenu_Campaigns_Setup_Var_p2p_Description"				"利用<a href="https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay">Steam 数据包中继</a>在互联网上以极简的技术配置托管点对点（P2P）和专用服务器。游戏流量会被发送至 Valve 的中继服务器，并匿名化玩家信息并保护服务器主机。"
 		
 		// CampaignSetupDiscardDialog
 		"MainMenu_Campaigns_Setup_Discard_Title"					"放弃更改"
@@ -1182,47 +1182,47 @@
 		// campaign list
 		
 		// p2ce-campaign
-		"MainMenu_Campaigns_P2CE"					"《传送门2：社区版》"
-		"MainMenu_Campaigns_P2CE_Author"			"《传送门2：社区版》团队"
+		"MainMenu_Campaigns_P2CE"					"《传送门 2：社区版》"
+		"MainMenu_Campaigns_P2CE_Author"			"《传送门 2：社区版》团队"
 		"MainMenu_Campaigns_P2CE_Description"		"[DEV - REPLACE ME] Temporary P2:CE Campaign Description"
 		
 		// for valve campaigns
 		"MainMenu_Campaigns_Valve_Author"			"Valve Software"
 		
 		// portal2
-		"MainMenu_Campaigns_portal2"				"传送门2"
+		"MainMenu_Campaigns_portal2"				"传送门 2"
 		"MainMenu_Campaigns_portal2_Description"	"《传送门2》带来了一批充满活力的新角色、一系列新的谜题元素，以及更多巧妙设计的实验室。玩家将探索前所未见的光圈科技区域，并将再次与GLaDOS——这位在前作中曾引导他们的、偶尔充满杀意的计算机同伴——重聚。"
-		"MainMenu_Campaigns_portal2_MP"				"传送门2：双人合作"
+		"MainMenu_Campaigns_portal2_MP"				"传送门 2：双人合作"
 		"MainMenu_Campaigns_portal2_MP_Description"	"合作模式拥有完全独立的战役，包含独特的剧情、实验室以及两名全新可操控角色。这一新模式将迫使两位玩家重新审视他们自以为了解的有关传送门的全部知识。若想成功闯过难关，玩家们不仅需要通力合作，更需要协同思考。"
 		
 		// portal
-		"MainMenu_Campaigns_portal"					"传送门1"
+		"MainMenu_Campaigns_portal"					"传送门 1"
 		"MainMenu_Campaigns_portal_Description"		"游戏设定在神秘的光圈科技实验室中，玩家必须利用传送门来操控物体，在空间中穿梭，解决各类物理谜题和挑战。"
 		
 		// hl2
-		"MainMenu_Campaigns_hl2"					"半衰期2"
+		"MainMenu_Campaigns_hl2"					"半衰期 2"
 		"MainMenu_Campaigns_hl2_Description"		"七小时战争已经失败。地球已经投降。黑山事件已成为遥远的回忆。再次拿起研究科学家戈登·弗里曼博士的撬棍的玩家，会发现自己身处外星生物横行的地球——这颗星球已被榨干殆尽，资源枯竭，人口锐减。弗里曼被迫承担起不容羡慕的使命，拯救世界，弥补他当年在黑山基地引发的灾难。而许多他珍视的人都在指望他。"
 		
 		// episodic
-		"MainMenu_Campaigns_episodic"				"半衰期2：第一章"
+		"MainMenu_Campaigns_episodic"				"半衰期 2：第一章"
 		"MainMenu_Campaigns_episodic_Description"	"故事承接《半衰期2》的结局，戈登·弗里曼博士和爱莉克斯·凡斯试图延缓一场将摧毁17号城市的不可避免的连锁反应。面对强大的阻力，他们必须在一切毁于一旦之前，疏散城市并拯救居民。"
 		
 		// ep2
-		"MainMenu_Campaigns_ep2"					"半衰期2：第二章"
+		"MainMenu_Campaigns_ep2"					"半衰期 2：第二章"
 		"MainMenu_Campaigns_ep2_Description"		"人类四散流离，外星势力仍在继续争夺地球的控制权。物理学家戈登·弗里曼和爱莉克斯·凡斯必须设法拦截联合军的传输，并在人类被灭绝之前与叛军部队会合。"
 		
 		// Main Menu - Addons
 		"MainMenu_Addons_Refresh"					"刷新插件列表"
 		"MainMenu_Addons_Apply"						"应用"
 		"MainMenu_Addons_Discard"					"撤销"
-		"MainMenu_Addons_ToggleAll"					"启用/禁用所有插件"
+		"MainMenu_Addons_ToggleAll"					"启用 / 禁用所有插件"
 		"MainMenu_Addons_ViewOnWS"					"查看创意工坊页面"			// DO NOT DISPLAY THIS IF IT IS A LOCAL ADDON
-		"MainMenu_Addons_Category_WS"				"《传送门2：社区版》插件"
+		"MainMenu_Addons_Category_WS"				"《传送门 2：社区版》插件"
 		"MainMenu_Addons_Category_WS_Tagline"		"创意工坊订阅与本地安装内容"
-		"MainMenu_Addons_Category_Mounts"			"挂载的游戏"
+		"MainMenu_Addons_Category_Mounts"			"已挂载的游戏文件"
 		"MainMenu_Addons_Category_Mounts_Tagline"	"来自其他已安装的起源引擎游戏内容"
-		"MainMenu_Addons_SteamWorkshop_Tooltip"		"在叠加界面中打开Steam创意工坊"
-		"MainMenu_Addons_Advanced_Tooltip"			"切换高级插件类型的可见性"
+		"MainMenu_Addons_SteamWorkshop_Tooltip"		"在叠加界面中打开 Steam 创意工坊"
+		"MainMenu_Addons_Advanced_Tooltip"			"开/关所有插件类型的显示。"
 		
 		"MainMenu_Addons_ToggleAddon"				"切换插件的启用状态"
 		
@@ -1230,15 +1230,15 @@
 		"MainMenu_Mounts_MountGame"					"挂载"
 		"MainMenu_Mounts_UnmountGame"				"卸载"
 		"MainMenu_Mounts_TooMany"					"挂载游戏数过多"
-		"MainMenu_Mounts_TooMany_Desc"				"《传送门2：社区版》目前已挂载{i:num_mounted_games}款游戏。由于技术限制，仅有{i:max_mounts}款游戏会显示。"
+		"MainMenu_Mounts_TooMany_Desc"				"《传送门 2：社区版》目前已挂载{i:num_mounted_games}款游戏。由于技术限制，仅有 {i:max_mounts} 款游戏会在此显示。"
 		"MainMenu_Mounts_Game_MaxTagline"			"已达到可显示挂载游戏的最大数量。"
 		"MainMenu_Mounts_WIP_Title"					"挂载设置正在开发中，目前暂不可用。"
 		"MainMenu_Mounts_WIP_Tagline"				"点击此处了解更多关于在《传送门 2：社区版》中设置挂载的信息。"
 
 		// for non-campaign addons with maps
 		"MainMenu_Addons_MapDropdown_Select"		"选择一张地图..."
-		"MainMenu_Addons_LaunchMap_Multi"			"启动选择的地图"
-		"MainMenu_Addons_LaunchMap_Single"			"游玩地图"
+		"MainMenu_Addons_LaunchMap_Multi"			"游玩所选择的地图"
+		"MainMenu_Addons_LaunchMap_Single"			"游玩此地图"
 		
 		// Filtering
 		// Filtering - Time
@@ -1247,33 +1247,33 @@
 		"MainMenu_Addons_Filtering_Edit_Tooltip"			"更改插件列表中插件的筛选和排序方式。"
 		"MainMenu_Addons_Filtering_EnableAddons_Tooltip"	"启用或禁用列表中的所有插件。"
 		"MainMenu_Addons_Filtering_Sort_Title"				"排序方式："
-		"MainMenu_Addons_Filtering_Sort_TimeInstalled"		"订阅/添加时间"
+		"MainMenu_Addons_Filtering_Sort_TimeInstalled"		"订阅 / 添加时间"
 		"MainMenu_Addons_Filtering_Sort_Alpha"				"插件名称"
-		"MainMenu_Addons_Filtering_Sort_TimePublished"		"上传/发布日期"
+		"MainMenu_Addons_Filtering_Sort_TimePublished"		"上传 / 发布日期"
 		"MainMenu_Addons_Filtering_Sort_TimeLastUpdate"		"上次更新日期"
 		
 		// Filtering - Source Type
 		"MainMenu_Addons_Filtering_Sort_InstallSrc"			"插件来源"
 		"MainMenu_Addons_Filtering_Sort_InstallSrc_Local"	"本地安装"
-		"MainMenu_Addons_Filtering_Sort_InstallSrc_UGC"		"Steam创意工坊"
+		"MainMenu_Addons_Filtering_Sort_InstallSrc_UGC"		"Steam 创意工坊"
 		
 		// Filtering - Campaigns
 		// These are sourced from the internal tags in workshop.kv3
-		"MainMenu_Addons_Filtering_Sort_CampaignTags"			"战役/地图标签"
+		"MainMenu_Addons_Filtering_Sort_CampaignTags"			"战役 / 地图标签"
 		"MainMenu_Addons_Filtering_Sort_CampaignTags_SP"		"单人游戏"
 		"MainMenu_Addons_Filtering_Sort_CampaignTags_COOP"		"双人合作"
 		"MainMenu_Addons_Filtering_Sort_CampaignTags_CUSTOM"	"自定义剧情"
-		"MainMenu_Addons_Filtering_Sort_CampaignTags_LSHORT"	"短（1至3张地图）"
-		"MainMenu_Addons_Filtering_Sort_CampaignTags_LMED"		"中（4至7张地图）"
-		"MainMenu_Addons_Filtering_Sort_CampaignTags_LLONG"		"长（8张或更多地图）"
+		"MainMenu_Addons_Filtering_Sort_CampaignTags_LSHORT"	"短（1 至 3 张地图）"
+		"MainMenu_Addons_Filtering_Sort_CampaignTags_LMED"		"中（4 至 7 张地图）"
+		"MainMenu_Addons_Filtering_Sort_CampaignTags_LLONG"		"长（8 张或更多地图）"
 		
 		// Filtering - Addon Tags
 		// These are sourced from the internal tags in workshop.kv3
 		"MainMenu_Addons_Filtering_Sort_AddonTags"				"插件类别"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Model"		"模型"
-		"MainMenu_Addons_Filtering_Sort_AddonTags_Mats"			"材质/贴图"
+		"MainMenu_Addons_Filtering_Sort_AddonTags_Mats"			"材质 / 贴图"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Scripts"		"脚本"
-		"MainMenu_Addons_Filtering_Sort_AddonTags_Instance"		"编辑器实例/预制件"
+		"MainMenu_Addons_Filtering_Sort_AddonTags_Instance"		"编辑器实例 / 预制件"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Theme"		"主题"
 		"MainMenu_Addons_Filtering_Sort_AddonTags_Ported"		"移植"
 
@@ -1300,7 +1300,7 @@
 		"Common_By"									"作者："
 		"Common_SearchEllipsis"						"搜索..."
 		"Common_Multiplayer"						"多人模式"
-		"Common_Wiki"								"在Steam叠加界面打开维基"
+		"Common_Wiki"								"在 Steam 叠加界面打开维基"
 		
 		"Action_Yes"								"是的"
 		"Action_No"									"不"
@@ -1326,16 +1326,16 @@
 		"MainMenu_ExitGameConfirmation_Message"		"您确定要退出游戏吗？\n\n未保存的进度可能会丢失。"
 		
 		// Loading Screen
-		"LoadingProgress_Connecting" 				"正在连接服务器..."
+		"LoadingProgress_Connecting" 				"正在连接至服务器..."
 		"LoadingProgress_SpawningServer"			"正在启动本地服务器..."
 		"LoadingProgress_BeginConnect" 				"正在建立与服务器的连接..."
-		"LoadingProgress_Changelevel"				"正在等待服务器切换地图"
-		"LoadingProgress_LoadMap"					"正在加载BSP区块数据..."
-		"LoadingProgress_PrecacheWorld"				"正在初始化世界..."
+		"LoadingProgress_Changelevel"				"正在等待服务器切换地图..."
+		"LoadingProgress_LoadMap"					"正在加载 BSP 区块数据..."
+		"LoadingProgress_PrecacheWorld"				"正在初始化游戏世界..."
 		"LoadingProgress_LoadResources"				"正在加载资源..."
 		"LoadingProgress_ProcessServerInfo"			"正在查询当前服务器状态..."
 		"LoadingProgress_SignonLocal"				"正在初始化资源..."
-		"LoadingProgress_SignonDataLocal"			"正在完成世界初始化..."
+		"LoadingProgress_SignonDataLocal"			"正在完成游戏世界初始化..."
 		"LoadingProgress_SignonData"				"正在获取游戏数据..."
 		"LoadingProgress_SendClientInfo" 			"正在生成客户端..."
 		
@@ -1356,7 +1356,7 @@
 此信息仅显示一次，一旦确认，将不再显示。"
 
 		"MainMenu_Compat_Warning_Header"			"兼容性警告"
-		"MainMenu_Compat_Warning"					"<b>《传送门1》和《半衰期2》尚无法在《传送门2：社区版》上完全正常运行。</b>您可能会遇到诸如纹理缺失或被替换、动画损坏、程序崩溃、关键游戏元素缺失等问题。我们计划在将来修复其中的一些问题，但这并非我们的优先事项。<b>请不要提交与《传送门1》和《半衰期2》相关的错误报告。</b>"
+		"MainMenu_Compat_Warning"					"<b>《传送门1》和《半衰期2》尚无法在《传送门2：社区版》上完全正常运行。</b>\n您可能会遇到诸如纹理缺失或被替换、动画损坏、程序崩溃、关键游戏元素缺失等问题。我们计划在将来修复其中的一些问题，但这并非我们的优先事项。\n<b>请不要提交与《传送门1》和《半衰期2》相关的错误报告。</b>"
 
 		"MainMenu_PrereleaseNotice_Acknowledge"		"我已了解"
 		"MainMenu_PrereleaseNotice_Decline"			"拒绝"
@@ -1379,13 +1379,13 @@
 		// Dependency Warning
 		"DependencyWarning_Generic"					"您缺少一个或多个保障正常运行所依赖的插件。"
 		"DependencyWarning_Header"					"缺少依赖项"
-		"DependencyWarning_Desc"					"您尝试启动的内容依赖于某些无法找到的插件。下面列出了您缺失的插件，点击插件可以在Steam叠加界面中打开其Steam创意工坊页面。您可以忽略此警告并继续，但请对可能出现的纹理或模型缺失等问题做好心理预期。"
+		"DependencyWarning_Desc"					"您尝试启动的内容依赖于某些无法找到的插件。下面列出了您缺失的插件，点击插件可以在 Steam 叠加界面中打开其 Steam 创意工坊页面。您可以忽略此警告并继续，但请对可能出现的纹理或模型缺失等问题做好心理准备。"
 		"DependencyWarning_Loading"					"正在获取详细信息..."
 		"DependencyWarning_Failed"					"获取详细信息失败！"
-		"DependencyWarning_Action_Ignore"			"管他呢，继续！"
+		"DependencyWarning_Action_Ignore"			"无视风险，继续！"
 		"DependencyWarning_Action_Cancel"			"取消"
-		"DependencyWarning_Resolved_Header"			"依赖问题已解决"
-		"DependencyWarning_Resolved_Desc"			"所有插件依赖问题已解决！"
+		"DependencyWarning_Resolved_Header"			"依赖项问题已解决"
+		"DependencyWarning_Resolved_Desc"			"所有插件依赖项问题已解决！"
 
 		"UI_Upvote"									"好评"
 		"UI_Downvote"								"差评"
@@ -1396,13 +1396,13 @@
 		// Networking Stuff!!!!!
 		// Disconnect Dialog Main
 		"MainMenu_DisconnectDialog_Title"					"已与服务器断开连接"
-		"MainMenu_DisconnectDialog_Message"					"原因如下：\n\n{s:disconnect_reason}"
+		"MainMenu_DisconnectDialog_Message"					"原因：\n\n{s:disconnect_reason}"
 		
 		// generic disconnect reasons
 		"MainMenu_DisconnectDialog_Reason_TimeOut"			"服务器可能已崩溃或失去了网络连接。请稍等片刻，然后再次尝试连接。"
-		"MainMenu_DisconnectDialog_Reason_TimeOutConnect"	"无法与服务器建立连接。指定的服务器IP地址/主机名无效，或者你的网络连接出现问题。"
-		"MainMenu_DisconnectDialog_Reason_BuildTooOld"		"《传送门2：社区版》可能需要更新才能连接该服务器。请退出游戏并在Steam客户端中确认更新至最新版本。"
-		"MainMenu_DisconnectDialog_Reason_BuildTooNew"		"你的《传送门2：社区版》的版本高于服务端版本。服务器所有者可能需要将服务器更新到最新版本。"
+		"MainMenu_DisconnectDialog_Reason_TimeOutConnect"	"无法与服务器建立连接。指定的服务器 IP 地址/主机名无效，或者你的网络连接出现问题。"
+		"MainMenu_DisconnectDialog_Reason_BuildTooOld"		"《传送门2：社区版》可能需要更新才能连接该服务器。请退出游戏并在 Steam 客户端中确认更新至最新版本。"
+		"MainMenu_DisconnectDialog_Reason_BuildTooNew"		"你所运行的《传送门2：社区版》的版本高于服务端。服务器所有者可能需要将服务端更新到最新版本。"
 		"MainMenu_DisconnectDialog_Reason_DSExit"			"服务器已被所有者关闭。"
 		"MainMenu_DisconnectDialog_Reason_Kicked"			"你已被该服务器踢出。"
 		"MainMenu_DisconnectDialog_Reason_KickedVote"		"你已被该服务器投票踢出。"
@@ -1415,60 +1415,60 @@
 		"GameUI_Disconnect_Server"							"玩家已被服务器移除。"								// NETWORK_DISCONNECT_DISCONNECT_BY_SERVER
 		"GameUI_Disconnect_ConnectionLost"					"与服务器的连接丢失。"							// NETWORK_DISCONNECT_LOST, NETWORK_DISCONNECT_SNS_CONNECTION_LOST
 		"GameUI_Disconnect_ConnectionOverflow"				"客户端接收到的数据包过大。"				// NETWORK_DISCONNECT_OVERFLOW
-		"GameUI_Disconnect_ServerInfoOverflow"				"服务器元数据数据包过大。"					// NETWORK_DISCONNECT_SERVERINFO_OVERFLOW
-		"GameUI_Disconnect_TickMessage"						"Tick数据包过大。"								// NETWORK_DISCONNECT_TICKMSG_OVERFLOW
-		"GameUI_Disconnect_StringTableMessage"				"客户端接收到的StringTable数据过大。"		// NETWORK_DISCONNECT_STRINGTABLEMSG_OVERFLOW
-		"GameUI_Disconnect_DeltaEntMessage"					"客户端接收到的DeltaEnt数据过大。"		// NETWORK_DISCONNECT_DELTAENTMSG_OVERFLOW
-		"GameUI_Disconnect_TempEntMessage"					"客户端接收到的TempEnt数据过大。"			// NETWORK_DISCONNECT_TEMPENTMSG_OVERFLOW
+		"GameUI_Disconnect_ServerInfoOverflow"				"服务器元数据包过大。"					// NETWORK_DISCONNECT_SERVERINFO_OVERFLOW
+		"GameUI_Disconnect_TickMessage"						"Tick 数据包过大。"								// NETWORK_DISCONNECT_TICKMSG_OVERFLOW
+		"GameUI_Disconnect_StringTableMessage"				"客户端接收到的 StringTable 数据过大。"		// NETWORK_DISCONNECT_STRINGTABLEMSG_OVERFLOW
+		"GameUI_Disconnect_DeltaEntMessage"					"客户端接收到的 DeltaEnt 数据过大。"		// NETWORK_DISCONNECT_DELTAENTMSG_OVERFLOW
+		"GameUI_Disconnect_TempEntMessage"					"客户端接收到的 TempEnt 数据过大。"			// NETWORK_DISCONNECT_TEMPENTMSG_OVERFLOW
 		"GameUI_Disconnect_SoundsMessage"					"同时尝试播放的音效过多。"			// NETWORK_DISCONNECT_SOUNDSMSG_OVERFLOW
 		"GameUI_Disconnect_ReliableOverflow"				"服务器端发生了可靠数据流溢出。"				// NETWORK_DISCONNECT_RELIABLEOVERFLOW
-		"GameUI_Disconnect_BadClientDeltaTick"				"客户端收到错误的Tick时间点。"			// NETWORK_DISCONNECT_BADDELTATICK
+		"GameUI_Disconnect_BadClientDeltaTick"				"客户端收到错误的 Tick 时间点。"			// NETWORK_DISCONNECT_BADDELTATICK
 		"GameUI_Disconnect_NoMoreSplits"					"暂无更多可用的分屏位置。"					// NETWORK_DISCONNECT_NOMORESPLITS
 		"GameUI_Disconnect_TimedOut"						"服务器响应超时。"					// NETWORK_DISCONNECT_TIMEDOUT
 		"GameUI_Disconnect_Disconnected"					"你已从服务器断开连接。"			// NETWORK_DISCONNECT_DISCONNECTED
-		"GameUI_Disconnect_LeavingSplit"					"正在退出本地分屏..."							// NETWORK_DISCONNECT_LEAVINGSPLIT
+		"GameUI_Disconnect_LeavingSplit"					"正在退出本地分屏模式..."							// NETWORK_DISCONNECT_LEAVINGSPLIT
 		"GameUI_Disconnect_DifferentClassTables"			"服务器的类表结构与客户端不一致。"	// NETWORK_DISCONNECT_DIFFERENTCLASSTABLES
-		"GameUI_Disconnect_NoSpectators"					"此服务器不支持旁观者模式。"			// NETWORK_DISCONNECT_NOSPECTATORS
-		"GameUI_Disconnect_Kicked"							"被服务器踢出。"									// NETWORK_DISCONNECT_KICKED
-		"GameUI_Disconnect_BanAdded"						"被服务器封禁。"									// NETWORK_DISCONNECT_BANADDED
-		"GameUI_Disconnect_KickBanAdded"					"被服务器封禁。"									// NETWORK_DISCONNECT_KICKBANADDED - Isn't this the same thing as BANADDED?
-		"GameUI_Disconnect_PureServer_ClientExtra"			"内容有效性检查失败：客户端加载了其他非共享资源。"	// NETWORK_DISCONNECT_PURESERVER_CLIENTEXTRA
-		"GameUI_Disconnect_PureServer_Mismatch"				"内容一致性检查失败：客户端资源与服务端版本不匹配。"	// NETWORK_DISCONNECT_PURESERVER_MISMATCH
+		"GameUI_Disconnect_NoSpectators"					"该服务器不支持旁观者模式。"			// NETWORK_DISCONNECT_NOSPECTATORS
+		"GameUI_Disconnect_Kicked"							"被该服务器踢出。"									// NETWORK_DISCONNECT_KICKED
+		"GameUI_Disconnect_BanAdded"						"被该服务器封禁。"									// NETWORK_DISCONNECT_BANADDED
+		"GameUI_Disconnect_KickBanAdded"					"被该服务器踢出并封禁。"									// NETWORK_DISCONNECT_KICKBANADDED - Isn't this the same thing as BANADDED?
+		"GameUI_Disconnect_PureServer_ClientExtra"			"资源一致性检查失败：客户端加载了服务端未使用的资源包。"	// NETWORK_DISCONNECT_PURESERVER_CLIENTEXTRA
+		"GameUI_Disconnect_PureServer_Mismatch"				"资源一致性检查失败：客户端的资源版本与服务端的资源版本不匹配。"	// NETWORK_DISCONNECT_PURESERVER_MISMATCH
 		"GameUI_Disconnect_UserCmd"							"解析用户命令时出错。"						// NETWORK_DISCONNECT_USERCMD
-		"GameUI_Disconnect_RejectedByGame"					"连接被服务器拒绝。"						// NETWORK_DISCONNECT_REJECTED_BY_GAME
+		"GameUI_Disconnect_RejectedByGame"					"连接被服务端拒绝。"						// NETWORK_DISCONNECT_REJECTED_BY_GAME
 		"GameUI_Disconnect_BadServerPassword"				"服务器密码无效。"								// NETWORK_DISCONNECT_BAD_SERVER_PASSWORD
 		"GameUI_Disconnect_ConnectionFailure"				"无法连接到服务器。"							// NETWORK_DISCONNECT_CONNECTION_FAILURE
 		"GameUI_Disconnect_ConnectionClosing"				"连接已被服务器关闭。"							// NETWORK_DISCONNECT_CONNECTION_CLOSING
 		"GameUI_Disconnect_SessionMigrated"					"当前对局已被转移至另一服务器。"			// NETWORK_DISCONNECT_SESSION_MIGRATED
-		"GameUI_Disconnect_PlayerRemovedFromHostSession"	"玩家已被房主移除。"								// NETWORK_DISCONNECT_PLAYER_REMOVED_FROM_HOST_SESSION
-		"GameUI_Disconnect_TooManyCommands"					"向服务器发出的命令过多。"					// NETWORK_DISCONNECT_SERVER_DOS
-		"GameUI_Disconnect_SteamIDBanned"					"该帐户已被禁止访问Steam社区。"			// NETWORK_DISCONNECT_STEAM_BANNED
-		"GameUI_Disconnect_SteamIDInUse"					"该Steam帐户目前正在被其他人使用。"		// NETWORK_DISCONNECT_STEAM_INUSE
-		"GameUI_Disconnect_SteamInUse"						"该Steam帐户目前正在被其他人使用。"		// NETWORK_DISCONNECT_STEAM_LOGGED_IN_ELSEWHERE - Why the hell is this disconnect reason duped twice?
-		"GameUI_Disconnect_SteamTicket"						"Steam登录凭证无效。"							// NETWORK_DISCONNECT_STEAM_TICKET
-		"GameUI_Disconnect_SteamLogon"						"玩家尚未登录Steam网络。"			// NETWORK_DISCONNECT_STEAM_LOGON, NETWORK_DISCONNECT_STEAM_AUTHCANCELLED, NETWORK_DISCONNECT_STEAM_AUTHALREADYUSED, NETWORK_DISCONNECT_STEAM_AUTHINVALID
-		"GameUI_Disconnect_SteamVAC"						"该玩家因作弊被禁止参与在线游戏。"		// NETWORK_DISCONNECT_STEAM_VACBANSTATE
-		"GameUI_Disconnect_SteamTimeOut"					"无法验证Valve反作弊系统 (VAC) 的封禁状态。"	// NETWORK_DISCONNECT_STEAM_VAC_CHECK_TIMEDOUT
-		"GameUI_Disconnect_SteamDropped"					"您已断开与Steam网络的连接。"	// NETWORK_DISCONNECT_STEAM_DROPPED
-		"GameUI_Disconnect_SteamOwnership"					"当前Steam帐户未持有《传送门2》 和/ 或《传送门2：社区版》的许可。"	// NETWORK_DISCONNECT_STEAM_OWNERSHIP
-		"GameUI_Disconnect_LocalProblem_ManyRelays"			"多次尝试连接Steam数据报中继 (SDR) 服务器后，仍无法恢复游戏状态。这台计算机的网络连接可能存在问题。"		// NETWORK_DISCONNECT_SNS_LOCAL_MANYRELAYS
-		"GameUI_Disconnect_LocalProblem_HostedServerPrimaryRelay"		"服务器与Steam数据报中继 (SDR) 服务器断开连接。"		// NETWORK_DISCONNECT_SNS_LOCAL_HOSTEDSERVERPRIMARYRELAY
-		"GameUI_Disconnect_LocalProblem_NetworkConfig"		"无法下载Steam数据报中继 (SDR) 服务器配置数据。"		// NETWORK_DISCONNECT_SNS_LOCAL_NETWORKCONFIG
-		"GameUI_Disconnect_LocalProblem_Other"				"SDR中继通信失败。"						// NETWORK_DISCONNECT_SNS_LOCAL_OTHER
-		"GameUI_Disconnect_RemoteProblem_TimeoutConnecting"	"等待连接服务器时超时。"				// NETWORK_DISCONNECT_SNS_REMOTE_TIMEOUTCONNECTING
-		"GameUI_Disconnect_RemoteProblem_Timeout"			"等待服务器时超时。"							// NETWORK_DISCONNECT_SNS_REMOTE_TIMEOUT
+		"GameUI_Disconnect_PlayerRemovedFromHostSession"	"玩家已被房主踢出。"								// NETWORK_DISCONNECT_PLAYER_REMOVED_FROM_HOST_SESSION
+		"GameUI_Disconnect_TooManyCommands"					"客户端发出的指令过多。"					// NETWORK_DISCONNECT_SERVER_DOS
+		"GameUI_Disconnect_SteamIDBanned"					"该帐户已被禁止访问 Steam 社区。"			// NETWORK_DISCONNECT_STEAM_BANNED
+		"GameUI_Disconnect_SteamIDInUse"					"该 Steam 帐户目前正在被其他人使用。"		// NETWORK_DISCONNECT_STEAM_INUSE
+		"GameUI_Disconnect_SteamInUse"						"该 Steam 帐户目前正在被其他人使用。"		// NETWORK_DISCONNECT_STEAM_LOGGED_IN_ELSEWHERE - Why the hell is this disconnect reason duped twice?
+		"GameUI_Disconnect_SteamTicket"						"Steam 登录凭证无效。"							// NETWORK_DISCONNECT_STEAM_TICKET
+		"GameUI_Disconnect_SteamLogon"						"玩家尚未登录至 Steam 网络。"			// NETWORK_DISCONNECT_STEAM_LOGON, NETWORK_DISCONNECT_STEAM_AUTHCANCELLED, NETWORK_DISCONNECT_STEAM_AUTHALREADYUSED, NETWORK_DISCONNECT_STEAM_AUTHINVALID
+		"GameUI_Disconnect_SteamVAC"						"该账户因作弊被禁止参与在线游戏。"		// NETWORK_DISCONNECT_STEAM_VACBANSTATE
+		"GameUI_Disconnect_SteamTimeOut"					"无法验证 Valve 反作弊系统 (VAC) 的封禁状态。"	// NETWORK_DISCONNECT_STEAM_VAC_CHECK_TIMEDOUT
+		"GameUI_Disconnect_SteamDropped"					"你已断开与 Steam 网络的连接。"	// NETWORK_DISCONNECT_STEAM_DROPPED
+		"GameUI_Disconnect_SteamOwnership"					"当前 Steam 帐户未持有《传送门 2》 和/ 或《传送门 2：社区版》的许可。"	// NETWORK_DISCONNECT_STEAM_OWNERSHIP
+		"GameUI_Disconnect_LocalProblem_ManyRelays"			"多次尝试连接 Steam 数据包中继 (SDR) 服务器后，仍无法恢复游戏状态。这台计算机的网络连接可能存在问题。"		// NETWORK_DISCONNECT_SNS_LOCAL_MANYRELAYS
+		"GameUI_Disconnect_LocalProblem_HostedServerPrimaryRelay"		"服务器与 Steam 数据包中继 (SDR) 服务器断开连接。"		// NETWORK_DISCONNECT_SNS_LOCAL_HOSTEDSERVERPRIMARYRELAY
+		"GameUI_Disconnect_LocalProblem_NetworkConfig"		"无法下载 Steam 数据报中继 (SDR) 服务器配置数据。"		// NETWORK_DISCONNECT_SNS_LOCAL_NETWORKCONFIG
+		"GameUI_Disconnect_LocalProblem_Other"				"与 SDR 中继服务器通信失败。"						// NETWORK_DISCONNECT_SNS_LOCAL_OTHER
+		"GameUI_Disconnect_RemoteProblem_TimeoutConnecting"	"尝试连接至服务器时超时。"				// NETWORK_DISCONNECT_SNS_REMOTE_TIMEOUTCONNECTING
+		"GameUI_Disconnect_RemoteProblem_Timeout"			"等待服务器响应时超时。"							// NETWORK_DISCONNECT_SNS_REMOTE_TIMEOUT
 		"GameUI_Disconnect_RemoteProblem_BadCrypt"			"从服务器接收到的加密设置无效或配置错误。"		// NETWORK_DISCONNECT_SNS_REMOTE_BADCRYPT
 		"GameUI_Disconnect_RemoteProblem_BadCert"			"服务器提供的加密证书无效。"	// NETWORK_DISCONNECT_SNS_REMOTE_BADCERT
 		"GameUI_Disconnect_ClosedByPeer_Timeout"			"在等待对端响应时超时。"			// NETWORK_DISCONNECT_SNS_CLOSEDBYPEER_TIMEOUT
 		"GameUI_Disconnect_ClosedByPeer"					"连接被对端关闭。"							// NETWORK_DISCONNECT_SNS_CLOSEDBYPEER_OTHER
 		"GameUI_Disconnect_InternalError"					"内部通信错误。检查开发者控制台以获取详细信息。"	// NETWORK_DISCONNECT_SNS_INTERNALERROR
-		"GameUI_Disconnect_Unusual"							"客户端/服务器连接发生未知错误。检查开发者控制台以获取详细信息。"		// NETWORK_DISCONNECT_SNS_UNUSUAL
-		"GameUI_Disconnect_HLTVBadRelayPassword"			"SourceTV中继代理密码无效。"						// NETWORK_DISCONNECT_HLTV_BADRELAYPASSWORD
-		"GameUI_Disconnect_HLTVBadSpectatorPassword"		"SourceTV观战密码无效。"					// NETWORK_DISCONNECT_HLTV_BADSPECTATORPASSWORD
+		"GameUI_Disconnect_Unusual"							"客户端 / 服务端连接发生未知错误。检查开发者控制台以获取详细信息。"		// NETWORK_DISCONNECT_SNS_UNUSUAL
+		"GameUI_Disconnect_HLTVBadRelayPassword"			"SourceTV 中继代理密码无效。"						// NETWORK_DISCONNECT_HLTV_BADRELAYPASSWORD
+		"GameUI_Disconnect_HLTVBadSpectatorPassword"		"SourceTV 观战密码无效。"					// NETWORK_DISCONNECT_HLTV_BADSPECTATORPASSWORD
 		"GameUI_Disconnect_HLTVRestricted"					"观战功能仅限局域网客户端使用。"				// NETWORK_DISCONNECT_HLTV_RESTRICTED
-		"GameUI_Disconnect_HLTVUnavailable"					"SourceTV在此服务器上不可用。"			// NETWORK_DISCONNECT_HLTV_UNAVAILABLE
-		"GameUI_Disconnect_HLTVStop"						"SourceTV观战主机正在关闭。"				// NETWORK_DISCONNECT_HLTV_STOP
-		"GameUI_Disconnect_HLTVNoRelaysAvailable"			"无可用的SourceTV中继代理。"			// NETWORK_DISCONNECT_HLTV_NO_RELAYS_AVAILABLE
+		"GameUI_Disconnect_HLTVUnavailable"					"SourceTV 在此服务器上不可用。"			// NETWORK_DISCONNECT_HLTV_UNAVAILABLE
+		"GameUI_Disconnect_HLTVStop"						"SourceTV 观战主机正在关闭。"				// NETWORK_DISCONNECT_HLTV_STOP
+		"GameUI_Disconnect_HLTVNoRelaysAvailable"			"无可用的 SourceTV 中继代理。"			// NETWORK_DISCONNECT_HLTV_NO_RELAYS_AVAILABLE
 		"GameUI_Disconnect_HLTVRestrictedToLocalSpectators"			"观战功能仅限局域网客户端使用。"		// NETWORK_DISCONNECT_HLTV_RESTRICTED_TO_LOCAL_SPECTATORS - Again???
 	}
 }
