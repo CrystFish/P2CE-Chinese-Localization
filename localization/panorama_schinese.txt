@@ -845,8 +845,8 @@
 		"Settings_Misc_ViewmodelOffset_Z"				"持枪模型偏移 (Z轴)"
 		"Settings_Misc_ViewmodelOffset_Z_info"			"调整持枪模型在X轴（上下）上的偏移量，单位为 Hammer Units（HU）"
 
-		"Settings_Video_PreventThreadSleep"				"防止主线程休眠"
-		"Settings_Video_PreventThreadSleep_Info"		"在帧率达到最大限制时，阻止主游戏线程进入休眠状态。启用此选项会使游玩体验更加流畅，但会提高CPU的使用率。"
+		"Settings_Video_PreventThreadSleep"				"阻止主线程休眠"
+		"Settings_Video_PreventThreadSleep_Info"		"在帧率达到最大限制时，阻止主游戏线程进入休眠状态。启用此选项会使游玩体验更加流畅，但会提高 CPU 的使用率。"
 		
 		"Settings_Menu_Console"							"启用开发者控制台"
 		"Settings_Menu_Console_info"					"此设置用于确定开发者控制台的启用状态，开发者控制台允许用户向游戏引擎发送内部命令。\n开发者控制台是面向高级用户（如地图制作者）的强大工具，对于正常游戏并非必需。起源引擎中存在的一些命令具有危险性，如果使用不当，可能导致游戏崩溃、保存进度丢失，或使某些游戏元素无法正常运行。"
