@@ -784,7 +784,7 @@
 		"Keybind_Quit_Prompt"							"退出游戏（弹出确认框）"
 		
 		// Settings - Controller
-		"Settings_Controller_Title"						"手柄"
+		"Settings_Controller_Title"						"控制器"
 		"Settings_Controller_SteamInputButton"			"打开 Steam 输入设置"
 
 		// Settings - UI
@@ -857,8 +857,8 @@
 		
 		// Main Menu
 		"MainMenu_PH_Note"								"本页面正在开发中。"
-		"MainMenu_ControllerUI_Note_Title"				"手柄支持警告"
-		"MainMenu_ControllerUI_Note_Desc"				"菜单界面的手柄输入支持仍处于测试阶段。\n\n如果您在使用手柄模式时遇到错误或有反馈，请提交至《传送门2：社区版》漏洞跟踪器。"
+		"MainMenu_ControllerUI_Note_Title"				"控制器支持警告"
+		"MainMenu_ControllerUI_Note_Desc"				"菜单界面的控制器输入支持仍处于测试阶段。\n\n如果您在使用控制器模式时遇到错误或有反馈，请提交至《传送门2：社区版》漏洞跟踪器。"
 		"MainMenu_Graphics_Notice"						"注意：如果您在游玩过程中遇到图形问题，请尝试在 Steam 中切换到“stable”游戏分支。"
 		"MainMenu_Socials_GitHub"						"在 Steam 叠加界面中打开 GitHub 错误报告工具"
 		"MainMenu_Socials_Discord"						"在 Steam 叠加界面中打开 Discord 网页版"
