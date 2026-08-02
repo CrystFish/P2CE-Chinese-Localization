@@ -10,10 +10,10 @@
 		///////////////////////////////////////////////////////////////////////////////////////////////
 
 		// cfg_xboxlive_builtin_strings.cfg 
-		"X_STRINGID_TITLENAME"					"传送门2：社区版"
+		"X_STRINGID_TITLENAME"					"传送门 2：社区版"
 
 		// cfg_xboxlive_presence_strings.cfg 
-		"RICHPRESENCE_IDLE" 					"发呆"
+		"RICHPRESENCE_IDLE" 					"发呆中"
 		"RICHPRESENCE_MAINMENU" 				"主菜单"
 		"RICHPRESENCE_SP" 						"{c0}"
 		"RICHPRESENCE_COOPMENU" 				"正在游玩双人合作\n{c1}"
@@ -92,7 +92,7 @@
 		"HL2_Shotgun"						"SPAS-12\n（霰弹枪）"
 		"HL2_Crossbow"						"钢筋弩"
 		"HL2_Grenade"						"破片手榴弹"
-		"HL2_RPG"							"火箭推进榴弹发射器\n（火箭筒）"
+		"HL2_RPG"							"火箭推进榴弹发射器\n（RPG）"
 		"HL2_Bugbait"						"蚁狮信息素\n（虫饵）"
 
 		"HL2_SAVING"						"保存中..."
@@ -274,7 +274,7 @@
 		
 		// Invites
 		"P2COOP_Invite_Title"						"收到《传送门2：社区版》合作模式邀请"
-		"P2COOP_Invite_Body"						"有玩家邀请你一同游玩《传送门2》的合作模式！"
+		"P2COOP_Invite_Body"						"有玩家邀请你一同游玩《传送门 2：社区版》的合作模式！"
 
 		// COOP
 		"P2COOP_TrackName_1"						"团队构筑"
@@ -1218,9 +1218,9 @@
 		"MainMenu_Addons_ToggleAll"					"启用 / 禁用所有插件"
 		"MainMenu_Addons_ViewOnWS"					"查看创意工坊页面"			// DO NOT DISPLAY THIS IF IT IS A LOCAL ADDON
 		"MainMenu_Addons_Category_WS"				"《传送门 2：社区版》插件"
-		"MainMenu_Addons_Category_WS_Tagline"		"创意工坊订阅与本地安装内容"
+		"MainMenu_Addons_Category_WS_Tagline"		"管理来自创意工坊订阅与本地安装内容"
 		"MainMenu_Addons_Category_Mounts"			"已挂载的游戏文件"
-		"MainMenu_Addons_Category_Mounts_Tagline"	"来自其他已安装的起源引擎游戏内容"
+		"MainMenu_Addons_Category_Mounts_Tagline"	"管理来自其他已安装的起源引擎游戏内容"
 		"MainMenu_Addons_SteamWorkshop_Tooltip"		"在叠加界面中打开 Steam 创意工坊"
 		"MainMenu_Addons_Advanced_Tooltip"			"开/关所有插件类型的显示。"
 		
