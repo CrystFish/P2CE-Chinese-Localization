@@ -1,4 +1,11 @@
 # 传送门2：社区版 简体中文本地化项目
-正在接受P2:CE官方委托的第三方团队审查……
+正在等待接受P2:CE官方委托的第三方团队审查……
 
 具体详情请前往[P2CE官方Discord服务器简体中文本地化讨论帖](https://discord.com/channels/663715905267564564/1523769609004781658)获取
+
+### 想要现在食用？
+1.将本项目的 ```\localization\panorama_schinese.txt``` 文件放入游戏根目录下的 ```\p2ce\panorama\localization``` 文件夹中
+
+2.为游戏添加启动参数：```-language schinese```
+
+3.启动游戏
