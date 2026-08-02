@@ -801,7 +801,7 @@
 		"Settings_Portal1_compat" 						"《传送门 1》兼容模式"
 		"Settings_Portal1_compat_info" 					"启用与《传送门1》地图的向下兼容性。"
 		"Settings_Portal1_xhair" 						"准星样式"
-		"Settings_Portal1_xhair_info" 					"更改传送枪准星行为。\n<h2>《传送门 2》样式</h2>只显示已放置的传送门。\n<h2>《传送门1》样式</h2>显示已放置的传送门，以及一个指示上个放置的传送门的圆形标记。\n在准星指向的表面可开启传送门时实心显示"
+		"Settings_Portal1_xhair_info" 					"更改传送枪准星行为。\n<h2>《传送门 2》样式</h2>只显示已放置的传送门。\n<h2>《传送门1》样式</h2>显示已放置的传送门，以及一个指示上个传送门的圆形标记。\n在准星变为实心时表示所指向的表面可开启传送门"
 		"Settings_Portal1_xhair_p2" 					"《传送门 2》样式"
 		"Settings_portal1_xhair_p1" 					"《传送门 1》样式"
 		
