@@ -273,7 +273,7 @@
 		"Paint_Instructor_teach_bounce_suppression"				"按住以避免弹跳"
 		
 		// Invites
-		"P2COOP_Invite_Title"						"收到《传送门2：社区版》合作模式邀请"
+		"P2COOP_Invite_Title"						"收到《传送门 2：社区版》合作模式邀请"
 		"P2COOP_Invite_Body"						"有玩家邀请你一同游玩《传送门 2：社区版》的合作模式！"
 
 		// COOP
@@ -540,9 +540,9 @@
 		
 		// Storm - CC System Rewrite
 		"Settings_ClosedCaptions_Font"						"字体"
-		"Settings_ClosedCaptions_Font_info"					"选择字母文本所使用的字体。"
-		"Settings_ClosedCaptions_Font_Lexend"				"Lexend (传送门2：社区版/Strata Source)"
-		"Settings_ClosedCaptions_Font_U0001"				"Univers (传送门2)"
+		"Settings_ClosedCaptions_Font_info"					"选择字幕文本所使用的字体。"
+		"Settings_ClosedCaptions_Font_Lexend"				"Lexend (传送门 2：社区版/Strata Source)"
+		"Settings_ClosedCaptions_Font_U0001"				"Univers (传送门 2)"
 		"Settings_ClosedCaptions_Font_GorDIN"				"DIN 1451 / GorDIN (半衰期 2)"
 		"Settings_ClosedCaptions_Font_Verdana"				"Verdana (旧)"
 		"Settings_ClosedCaptions_Font_NotoSans"				"Noto Sans (Steam 大屏幕模式)"
@@ -551,7 +551,7 @@
 		"Settings_ClosedCaptions_FontSize_info"				"决定屏幕上的字幕文字大小，以为每像素点数（pt）计算。"
 		"Settings_ClosedCaptions_BGOpacity"					"背景不透明度"
 		"Settings_ClosedCaptions_BGOpacity_info"			"控制字幕背景板的不透明度。\n较低的数值可能会导致文本可见性降低，并可能导致可读性问题。建议使用较暗的背景（或纯黑色）以保证最佳的可读性。"
-		"Settings_ClosedCaptions_Alignment"					"文字对齐"
+		"Settings_ClosedCaptions_Alignment"					"文本对齐方向"
 		"Settings_ClosedCaptions_Alignment_info"			"决定字幕文本的对齐方向。"
 		"Settings_ClosedCaptions_Alignment_left"			"左侧对齐"
 		"Settings_ClosedCaptions_Alignment_center"			"中心对齐"
@@ -641,7 +641,7 @@
 		"Settings_Render_ColorCorrection_Info"			"某些地图会使用色彩校正改变色彩平衡以实现特定的美学效果。该设置对图形性能没有影响。"
 
 		"Settings_Render_Multicore"						"多核渲染"
-		"Settings_Render_Multicore_Info"				"此选项将允许《传送门2：社区版》在设备中的多个 CPU 和 GPU 核心之间分配渲染任务。禁用此选项可能会对游戏整体帧率和画质产生负面影响。"
+		"Settings_Render_Multicore_Info"				"此选项将允许《传送门 2：社区版》在设备中的多个 CPU 和 GPU 核心之间分配渲染任务。禁用此选项可能会对游戏整体帧率和画质产生负面影响。"
 
 		"Settings_Render_ShaderDetail"					"着色器细节"
 		"Settings_Render_ShaderDetail_Info"				"着色器细节控制游戏中应用于物体表面的光照和阴影效果的复杂程度。较高的设置可以提升视觉效果，但可能会降低图形性能。"
@@ -797,13 +797,13 @@
 		// Settings - Personalization
 		"Settings_Customization" 						"自定义"
 		
-		"Settings_Portal1_Title" 						"《传送门1》"
-		"Settings_Portal1_compat" 						"《传送门1》兼容模式"
+		"Settings_Portal1_Title" 						"《传送门 1》"
+		"Settings_Portal1_compat" 						"《传送门 1》兼容模式"
 		"Settings_Portal1_compat_info" 					"启用与《传送门1》地图的向下兼容性。"
 		"Settings_Portal1_xhair" 						"准星样式"
-		"Settings_Portal1_xhair_info" 					"更改传送枪准星行为。\n<h2>《传送门2》样式</h2>只显示已放置的传送门。\n<h2>《传送门1》样式</h2>显示已放置的传送门，以及一个用于确定是否可在所指向的表面上放置传送门的圆形标记。"
-		"Settings_Portal1_xhair_p2" 					"《传送门2》样式"
-		"Settings_portal1_xhair_p1" 					"《传送门1》样式"
+		"Settings_Portal1_xhair_info" 					"更改传送枪准星行为。\n<h2>《传送门 2》样式</h2>只显示已放置的传送门。\n<h2>《传送门1》样式</h2>显示已放置的传送门，以及一个用于确定是否可在所指向的表面上放置传送门的圆形标记。"
+		"Settings_Portal1_xhair_p2" 					"《传送门 2》样式"
+		"Settings_portal1_xhair_p1" 					"《传送门 1》样式"
 		
 		"Settings_Portals_Title" 						"传送门"
 		"Settings_Portals_PlayerFunnel"					"传送门漏斗"
@@ -851,14 +851,14 @@
 		"Settings_Menu_Console"							"启用开发者控制台"
 		"Settings_Menu_Console_info"					"此设置用于确定开发者控制台的启用状态，开发者控制台允许用户向游戏引擎发送内部命令。\n开发者控制台是面向高级用户（如地图制作者）的强大工具，对于正常游戏并非必需。起源引擎中存在的一些命令具有危险性，如果使用不当，可能导致游戏崩溃、保存进度丢失，或使某些游戏元素无法正常运行。"
 		"Settings_Menu_Sentry"							"“哨戒”崩溃报告"
-		"Settings_Menu_Sentry_info"						"控制是否将崩溃转储文件通过“哨戒”系统提交。\n崩溃报告中的数据包含完整的调用堆栈，记录了引擎在崩溃前的最后瞬间（包括开发者控制台日志输出的最后几行）、当前的Steam 构建 ID 以及您的 Steam 社区个人资料 ID。其他数据不会发送给《传送门2：社区版》团队。\n此功能为可选项，可随时开启或关闭。"
+		"Settings_Menu_Sentry_info"						"控制是否将崩溃转储文件通过“哨戒”系统提交。\n崩溃报告中的数据包含完整的调用堆栈，记录了引擎在崩溃前的最后瞬间（包括开发者控制台日志输出的最后几行）、当前的Steam 构建 ID 以及您的 Steam 社区个人资料 ID。其他数据不会发送给《传送门 2：社区版》团队。\n此功能为可选项，可随时开启或关闭。"
 		"Settings_Menu_DiscordIntegration"				"Discord 丰富状态显示"
-		"Settings_Menu_DiscordIntegration_info"			"通过将当前游戏状态显示为活动，启用Discord 与《传送门2：社区版》的丰富状态集成。\n此开关不会更改 SDK 工具（例如 Hammer）中 Discord 丰富状态的启用状态。"
+		"Settings_Menu_DiscordIntegration_info"			"通过将当前游戏状态显示为活动，启用Discord 与《传送门 2：社区版》的丰富状态集成。\n此开关不会更改 SDK 工具（例如 Hammer）中 Discord 丰富状态的启用状态。"
 		
 		// Main Menu
 		"MainMenu_PH_Note"								"本页面正在开发中。"
 		"MainMenu_ControllerUI_Note_Title"				"控制器支持警告"
-		"MainMenu_ControllerUI_Note_Desc"				"菜单界面的控制器输入支持仍处于测试阶段。\n\n如果您在使用控制器模式时遇到错误或有反馈，请提交至《传送门2：社区版》漏洞跟踪器。"
+		"MainMenu_ControllerUI_Note_Desc"				"菜单界面的控制器输入支持仍处于测试阶段。\n\n如果您在使用控制器模式时遇到错误或有反馈，请提交至《传送门 2：社区版》漏洞跟踪器。"
 		"MainMenu_Graphics_Notice"						"注意：如果您在游玩过程中遇到图形问题，请尝试在 Steam 中切换到“stable”游戏分支。"
 		"MainMenu_Socials_GitHub"						"在 Steam 叠加界面中打开 GitHub 错误报告工具"
 		"MainMenu_Socials_Discord"						"在 Steam 叠加界面中打开 Discord 网页版"
@@ -876,7 +876,7 @@
 		"MainMenu_Navigation_Workshop_Tagline"			"选择一张创意工坊地图游玩"
 		"MainMenu_Navigation_Campaign"					"战役"
 		"MainMenu_Navigation_Campaign_Tagline"			"选择一个战役包游玩"
-		"MainMenu_Navigation_Play_MapTypes"				"选择一张《传送门2：社区版》或《传送门2》创意工坊地图"
+		"MainMenu_Navigation_Play_MapTypes"				"选择一张《传送门 2：社区版》或《传送门 2》创意工坊地图"
 		"MainMenu_Navigation_Featured"					"精选物品"
 		"MainMenu_Navigation_Featured_Tagline"			"浏览 Steam 创意工坊的热门物品"
 		"MainMenu_Navigation_Addons"					"插件"
@@ -897,8 +897,8 @@
 		"MainMenu_Loading"								"载入中..."
 
 		// socials
-		"MainMenu_Home_Button_MainSite"					"《传送门2：社区版》官方网站"
-		"MainMenu_Home_Button_Discord"					"《传送门2：社区版》Discord 服务器"
+		"MainMenu_Home_Button_MainSite"					"《传送门 2：社区版》官方网站"
+		"MainMenu_Home_Button_Discord"					"《传送门 2：社区版》Discord 服务器"
 		"MainMenu_Home_Button_Github"					"Strata Source GitHub 页面"
 		"MainMenu_Home_Button_Forums"					"Steam 社区论坛"
 		"MainMenu_Home_Button_Workshop"					"Steam 创意工坊"
@@ -978,11 +978,11 @@
 		
 		// Save Failure Reasons
 		// no space available on current storage partition
-		"MainMenu_SaveRestore_SaveFailed_NoSpace"					"《传送门2：社区版》所安装的存储设备空间不足。"
+		"MainMenu_SaveRestore_SaveFailed_NoSpace"					"《传送门 2：社区版》所安装的存储设备空间不足。"
 		// this should only display if Windows NTFS perms (e.g.: readonly flag, account security ACLs) or linux FS permissions are wrong
-		"MainMenu_SaveRestore_SaveFailed_NoPerms"					"游戏无法创建新的存档文件，因为访问存档文件目录的权限不足。请更改《传送门2：社区版》对"SAVE"目录的权限设置。"
+		"MainMenu_SaveRestore_SaveFailed_NoPerms"					"游戏无法创建新的存档文件，因为访问存档文件目录的权限不足。请更改《传送门 2：社区版》对"SAVE"目录的权限设置。"
 		// SOMEHOW, the game's running, but the disk isn't working right. possible disk failure or MFT corruption?
-		"MainMenu_SaveRestore_SaveFailed_DriveFail"					"游戏无法创建新的存档文件，因为《传送门2：社区版》所安装的存储设备可能存在故障。请立即备份该设备上的所有数据。"
+		"MainMenu_SaveRestore_SaveFailed_DriveFail"					"游戏无法创建新的存档文件，因为《传送门 2：社区版》所安装的存储设备可能存在故障。请立即备份该设备上的所有数据。"
 		// probably applies for steam cloud quota?
 		"MainMenu_SaveRestore_SaveFailed_NoMoreSlots"				"没有可用的保存空间。"
 		// map_wants_save_disable 1
@@ -1001,8 +1001,8 @@
 		"MainMenu_Campaigns_MapList_Uncategorized"					"未分类的{s:playerModeStr}地图"
 		"MainMenu_Campaigns_MapList_Campaigns"						"{s:playerModeStr}战役"
 		"MainMenu_Campaigns_MapList_Campaigns_Tagline"				"选择要游玩的战役"
-		"MainMenu_Campaigns_MapList_p2ce_Tagline"					"从《传送门2：社区版》创意工坊中选取地图"
-		"MainMenu_Campaigns_MapList_portal2_Tagline"				"从《传送门2》创意工坊中选取地图"
+		"MainMenu_Campaigns_MapList_p2ce_Tagline"					"从《传送门 2：社区版》创意工坊中选取地图"
+		"MainMenu_Campaigns_MapList_portal2_Tagline"				"从《传送门 2》创意工坊中选取地图"
 		"MainMenu_Campaigns_MapList_Uncategorized_Tagline"			"选择本地安装的地图"
 		"MainMenu_Campaigns_MapList_Tagline_NewlySubbed"			"新订阅数：{i:num_newly_installed_maps} "
 		"MainMenu_Campaigns_MapList_Tagline_TotalMaps"				"总地图数：{i:num_total_installed_maps} "
@@ -1018,8 +1018,8 @@
 		"MainMenu_Campaigns_ModeSel_ServerBrowser_Tagline"			"寻找或新建自由构建的理想游戏"
 		"MainMenu_Campaigns_CType_SP"								"单人游戏"
 		"MainMenu_Campaigns_CType_MP"								"多人游戏/双人合作"
-		"MainMenu_Campaigns_MapType_p2ce"							"《传送门2：社区版》地图"
-		"MainMenu_Campaigns_MapType_portal2"						"《传送门2》地图"
+		"MainMenu_Campaigns_MapType_p2ce"							"《传送门 2：社区版》地图"
+		"MainMenu_Campaigns_MapType_portal2"						"《传送门 2》地图"
 		
 		// Search
 		"MainMenu_Campaigns_Search_FillerText"						"搜索战役包..."
@@ -1071,7 +1071,7 @@
 
 		// temp for better solution
 		"MainMenu_Campaigns_MountRequired_Header"					"相关游戏文件缺失"
-		"MainMenu_Campaigns_MountRequired_220"						"此战役需要拥有并挂载《半衰期2》（20 周年庆更新）的游戏文件。\n请点击下方左侧按钮查阅“游戏文件挂载”的相关维基条目"
+		"MainMenu_Campaigns_MountRequired_220"						"此战役需要拥有并挂载《半衰期 2》（20 周年庆更新）的游戏文件。\n请点击下方左侧按钮查阅“游戏文件挂载”的相关维基条目"
 		"MainMenu_Campaigns_MountRequired_400"						"此战役需要拥有并挂载《传送门》的游戏文件。\n请点击下方左侧按钮查阅“游戏文件挂载”的相关维基条目。"
 		
 		// campaign details card
@@ -1142,13 +1142,13 @@
 		"MainMenu_Campaigns_Setup_Var_skill_2"						"普通"
 		"MainMenu_Campaigns_Setup_Var_skill_3"						"困难"
 		"MainMenu_Campaigns_Setup_Var_player_throwenable"					"物品投掷"
-		"MainMenu_Campaigns_Setup_Var_player_throwenable_Description"		"启用《半衰期2》风格的拾取机制，允许随意投掷物品。\n\n默认项：关"
+		"MainMenu_Campaigns_Setup_Var_player_throwenable_Description"		"启用《半衰期 2》风格的拾取机制，允许随意投掷物品。\n\n默认项：关"
 		"MainMenu_Campaigns_Setup_Var_player_throwforce"					"物体投掷力"
 		"MainMenu_Campaigns_Setup_Var_player_throwforce_Description"		"投掷物的初始力量，单位为 Hammer Units（HU）。需要启用“物品投掷”。"
 		"MainMenu_Campaigns_Setup_Var_mv_bhop"						"“兔子跳”加速漏洞"
 		"MainMenu_Campaigns_Setup_Var_mv_bhop_Description"			"启用“兔子跳”加速漏洞，允许玩家利用移动系统的漏洞来获得额外的动量，和早期版本的起源引擎游戏一样。\n\n默认项：关"
 		"MainMenu_Campaigns_Setup_Var_mv_duckjump"					"允许蹲跳"
-		"MainMenu_Campaigns_Setup_Var_mv_duckjump_Description"		"允许玩家在蹲下/俯身状态下跳跃。某些使用了特定《半衰期2》移动行为的地图必须启用这一功能。\n\n默认项：关"
+		"MainMenu_Campaigns_Setup_Var_mv_duckjump_Description"		"允许玩家在蹲下/俯身状态下跳跃。某些使用了特定《半衰期 2》移动行为的地图必须启用这一功能。\n\n默认项：关"
 		"MainMenu_Campaigns_Setup_Var_sv_enableholdrotation"				"旋转所持物体"
 		"MainMenu_Campaigns_Setup_Var_sv_enableholdrotation_Description"	"允许玩家按住副开火键来旋转所持有的物体。\n\n默认项：关"
 		"MainMenu_Campaigns_Setup_Var_sv_enablepreferredcarry"				"优先携带角度"
@@ -1191,7 +1191,7 @@
 		
 		// portal2
 		"MainMenu_Campaigns_portal2"				"传送门 2"
-		"MainMenu_Campaigns_portal2_Description"	"《传送门2》带来了一批充满活力的新角色、一系列新的谜题元素，以及更多巧妙设计的实验室。玩家将探索前所未见的光圈科技区域，并将再次与GLaDOS——这位在前作中曾引导他们的、偶尔充满杀意的计算机同伴——重聚。"
+		"MainMenu_Campaigns_portal2_Description"	"《传送门 2》带来了一批充满活力的新角色、一系列新的谜题元素，以及更多巧妙设计的实验室。玩家将探索前所未见的光圈科技区域，并将再次与GLaDOS——这位在前作中曾引导他们的、偶尔充满杀意的计算机同伴——重聚。"
 		"MainMenu_Campaigns_portal2_MP"				"传送门 2：双人合作"
 		"MainMenu_Campaigns_portal2_MP_Description"	"合作模式拥有完全独立的战役，包含独特的剧情、实验室以及两名全新可操控角色。这一新模式将迫使两位玩家重新审视他们自以为了解的有关传送门的全部知识。若想成功闯过难关，玩家们不仅需要通力合作，更需要协同思考。"
 		
@@ -1205,7 +1205,7 @@
 		
 		// episodic
 		"MainMenu_Campaigns_episodic"				"半衰期 2：第一章"
-		"MainMenu_Campaigns_episodic_Description"	"故事承接《半衰期2》的结局，戈登·弗里曼博士和爱莉克斯·凡斯试图延缓一场将摧毁17号城市的不可避免的连锁反应。面对强大的阻力，他们必须在一切毁于一旦之前，疏散城市并拯救居民。"
+		"MainMenu_Campaigns_episodic_Description"	"故事承接《半衰期 2》的结局，戈登·弗里曼博士和爱莉克斯·凡斯试图延缓一场将摧毁17号城市的不可避免的连锁反应。面对强大的阻力，他们必须在一切毁于一旦之前，疏散城市并拯救居民。"
 		
 		// ep2
 		"MainMenu_Campaigns_ep2"					"半衰期 2：第二章"
@@ -1342,27 +1342,27 @@
 		// Temp Notices
 		// Unfinished Software Reminder
 		"MainMenu_PrereleaseNotice_Title"			"当前版本为不稳定的预览版"
-		"MainMenu_PrereleaseNotice_Description"		"《传送门2：社区版》是一个模组开发框架。目前阶段的开发仍未完成。此预览版仅面向内容创作者；部分关键功能可能尚未实现或正在积极开发中，同时，我们正在游戏的底层引擎进行大规模的代码重构，旨在彻底重写和/或移除过时的遗留代码，为更全面的体验优化和新功能铺平道路。因此，《传送门2：社区版》及其SDK工具的某些方面可能存在对您的模组制作流程有着极大影响的问题。
+		"MainMenu_PrereleaseNotice_Description"		"《传送门 2：社区版》是一个模组开发框架。目前阶段的开发仍未完成。此预览版仅面向内容创作者；部分关键功能可能尚未实现或正在积极开发中，同时，我们正在游戏的底层引擎进行大规模的代码重构，旨在彻底重写和/或移除过时的遗留代码，为更全面的体验优化和新功能铺平道路。因此，《传送门 2：社区版》及其SDK工具的某些方面可能存在对您的模组制作流程有着极大影响的问题。
 
-《传送门2：社区版》的战役流程尚未完成，因此未包含在此预览版中。
+《传送门 2：社区版》的战役流程尚未完成，因此未包含在此预览版中。
 		
-我们鼓励您前往下列网站向《传送门2：社区版》提交错误报告和功能请求：
+我们鼓励您前往下列网站向《传送门 2：社区版》提交错误报告和功能请求：
 
 	• https://github.com/StrataSource/Portal-2-Community-Edition
 	• https://github.com/StrataSource/Engine
 		
-点击“我已了解”，即表示您已明白使用该预览版所涉及的风险。若您选择拒绝，《传送门2：社区版》将退出。
+点击“我已了解”，即表示您已明白使用该预览版所涉及的风险。若您选择拒绝，《传送门 2：社区版》将退出。
 
 此信息仅显示一次，一旦确认，将不再显示。"
 
 		"MainMenu_Compat_Warning_Header"			"兼容性警告"
-		"MainMenu_Compat_Warning"					"<b>《传送门1》和《半衰期2》尚无法在《传送门2：社区版》上完全正常运行。</b>\n您可能会遇到诸如纹理缺失或被替换、动画损坏、程序崩溃、关键游戏元素缺失等问题。\n我们计划在将来修复其中的一些问题，但这并非我们的优先事项。\n<b>请勿提交与《传送门1》和《半衰期2》相关的错误报告。</b>"
+		"MainMenu_Compat_Warning"					"<b>《传送门1》和《半衰期 2》尚无法在《传送门 2：社区版》上完全正常运行。</b>\n您可能会遇到诸如纹理缺失或被替换、动画损坏、程序崩溃、关键游戏元素缺失等问题。\n我们计划在将来修复其中的一些问题，但这并非我们的优先事项。\n<b>请勿提交与《传送门1》和《半衰期 2》相关的错误报告。</b>"
 
 		"MainMenu_PrereleaseNotice_Acknowledge"		"我已了解"
 		"MainMenu_PrereleaseNotice_Decline"			"拒绝"
 		
 		// Playtest DOSA
-		"MainMenu_PlaytestDOSA_Title"				"欢迎来到《传送门2：社区版》游戏测试！"
+		"MainMenu_PlaytestDOSA_Title"				"欢迎来到《传送门 2：社区版》游戏测试！"
 		"MainMenu_PlaytestDOSA_Description"			"作为游戏测试的一部分，游戏将记录您的游戏演示和一些基本的性能数据。\n这些数据将在事后上传，以供我们的开发人员查看，从而帮助我们改进游戏体验。\n\n注意：您可以在设置中随时同意或撤销此项许可。"
 		"MainMenu_PlaytestDOSA_Consent"				"同意收集游戏数据"
 		"MainMenu_PlaytestDOSA_Revoke"				"撤回许可"
@@ -1401,8 +1401,8 @@
 		// generic disconnect reasons
 		"MainMenu_DisconnectDialog_Reason_TimeOut"			"服务器可能已崩溃或失去了网络连接。请稍等片刻，然后再次尝试连接。"
 		"MainMenu_DisconnectDialog_Reason_TimeOutConnect"	"无法与服务器建立连接。指定的服务器 IP 地址/主机名无效，或者你的网络连接出现问题。"
-		"MainMenu_DisconnectDialog_Reason_BuildTooOld"		"《传送门2：社区版》可能需要更新才能连接该服务器。请退出游戏并在 Steam 客户端中确认更新至最新版本。"
-		"MainMenu_DisconnectDialog_Reason_BuildTooNew"		"你所运行的《传送门2：社区版》的版本高于服务端。服务器所有者可能需要将服务端更新到最新版本。"
+		"MainMenu_DisconnectDialog_Reason_BuildTooOld"		"《传送门 2：社区版》可能需要更新才能连接该服务器。请退出游戏并在 Steam 客户端中确认更新至最新版本。"
+		"MainMenu_DisconnectDialog_Reason_BuildTooNew"		"你所运行的《传送门 2：社区版》的版本高于服务端。服务器所有者可能需要将服务端更新到最新版本。"
 		"MainMenu_DisconnectDialog_Reason_DSExit"			"服务器已被所有者关闭。"
 		"MainMenu_DisconnectDialog_Reason_Kicked"			"你已被该服务器踢出。"
 		"MainMenu_DisconnectDialog_Reason_KickedVote"		"你已被该服务器投票踢出。"
