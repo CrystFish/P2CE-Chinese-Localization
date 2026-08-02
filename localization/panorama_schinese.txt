@@ -858,8 +858,8 @@
 		// Main Menu
 		"MainMenu_PH_Note"								"本页面正在开发中。"
 		"MainMenu_ControllerUI_Note_Title"				"控制器支持警告"
-		"MainMenu_ControllerUI_Note_Desc"				"菜单界面的控制器输入支持仍处于测试阶段。\n\n如果您在使用控制器模式时遇到错误或有反馈，请提交至《传送门 2：社区版》漏洞跟踪器。"
-		"MainMenu_Graphics_Notice"						"注意：如果您在游玩过程中遇到图形问题，请尝试在 Steam 中切换到“stable”游戏分支。"
+		"MainMenu_ControllerUI_Note_Desc"				"菜单界面的控制器输入支持仍处于测试阶段。\n\n如果您在使用控制器模式时遇到错误或有反馈，\n请提交至《传送门 2：社区版》漏洞跟踪器。"
+		"MainMenu_Graphics_Notice"						"注意：如果您在游玩过程中遇到图形问题，\n请尝试在 Steam 中切换到“stable”游戏分支。"
 		"MainMenu_Socials_GitHub"						"在 Steam 叠加界面中打开 GitHub 错误报告工具"
 		"MainMenu_Socials_Discord"						"在 Steam 叠加界面中打开 Discord 网页版"
 
@@ -1356,7 +1356,7 @@
 此信息仅显示一次，一旦确认，将不再显示。"
 
 		"MainMenu_Compat_Warning_Header"			"兼容性警告"
-		"MainMenu_Compat_Warning"					"<b>《传送门1》和《半衰期 2》尚无法在《传送门 2：社区版》上完全正常运行。</b>\n您可能会遇到诸如纹理缺失或被替换、动画损坏、程序崩溃、关键游戏元素缺失等问题。\n我们计划在将来修复其中的一些问题，但这并非我们的优先事项。\n<b>请勿提交与《传送门1》和《半衰期 2》相关的错误报告。</b>"
+		"MainMenu_Compat_Warning"					"<b>《传送门1》和《半衰期 2》尚无法在《传送门 2：社区版》上完全正常运行。</b>\n您可能会遇到例如纹理缺失或被替换、动画损坏、程序崩溃、关键游戏物件缺失等问题。\n我们计划在将来修复其中的一些问题，但兼容性问题并不是需要优先解决的事项。\n<b>请勿提交与《传送门1》和《半衰期 2》相关的错误报告。</b>"
 
 		"MainMenu_PrereleaseNotice_Acknowledge"		"我已了解"
 		"MainMenu_PrereleaseNotice_Decline"			"拒绝"
