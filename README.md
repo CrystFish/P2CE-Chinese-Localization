@@ -4,8 +4,8 @@
 具体详情请前往[P2CE官方Discord服务器简体中文本地化讨论帖](https://discord.com/channels/663715905267564564/1523769609004781658)获取
 
 ### 想要现在食用？
-1.将本项目的 ```\localization\panorama_schinese.txt``` 文件放入游戏根目录下的 ```\p2ce\panorama\localization``` 文件夹中
+1.将本项目的 ```\localization 与 \scripts``` 文件夹放入游戏根目录下的 ```\p2ce\panorama``` 文件夹中并替换
 
-2.为游戏添加启动参数：```-language schinese```
+2.为游戏添加启动参数：```-language sChinese```
 
 3.启动游戏
