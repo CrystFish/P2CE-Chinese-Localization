@@ -662,7 +662,7 @@
 		"Settings_Render_MotionBlur_Info"				"运动模糊是一种全屏着色器效果，它在相机角度或位置快速变化时选择性地平滑画面。禁用此设置可能会略微提高图形性能。"
 
 		"Settings_Video_PStencilDepth" 					"传送门递归深度"
-		"Settings_Video_PStencilDepth_Info"				"此设置决定了在渲染传送门中低开销2D画面之前递归的次数。较低的值可能会导致失真。"
+		"Settings_Video_PStencilDepth_Info"				"此设置决定了画面在传送门中淡出之前递归的最大次数。较低的值可能会导致两个传送门同时在画面内时看起来十分糟糕或导致传送门不“连通”。"
 
 		"Settings_Video_TripleMonitor"					"三连显示器模式"
 		"Settings_Video_TripleMonitor_Info"				"将 UI 和 HUD 限制在显示屏的中央三分之一区域。适用于用三台显示器延伸画面的设备。"
@@ -714,12 +714,12 @@
 		"Settings_Mouse_Title"							"鼠标"
 
 		"Settings_Mouse_Filter"							"鼠标过滤"
-		"Settings_Mouse_Filter_Info"					"在多帧上平滑鼠标移动。"
+		"Settings_Mouse_Filter_Info"					"在帧间平滑鼠标移动。"
 
 		"Settings_Mouse_Raw"							"原始输入"
-		"Settings_Mouse_Raw_Info"						"原始输入直接从设备读取鼠标数据，绕过操作系统设置，从而提供更准确的移动。\n<h2>帧间对齐模式</h2>在其他起源引擎游戏中默认使用的方法。\n<h2>Tick 对齐模式</h2>一种更精确、对游戏帧率依赖性更低的改进方法。\n<movie src=\"file://{media}/bluescreen.webm\" />"
+		"Settings_Mouse_Raw_Info"						"原始输入直接从设备读取鼠标数据，绕过系统设置，从而提供更准确的鼠标移动。\n<h2>帧间对齐模式</h2>在其他起源引擎游戏中默认使用的方法。\n<h2>Tick 逻辑帧对齐模式</h2>一种更精确、不易受游戏帧率影响的改进方法。\n<movie src=\"file://{media}/bluescreen.webm\" />"
 		"Settings_Mouse_Raw_On_Old"						"开启（帧间对齐）"
-		"Settings_Mouse_Raw_On_New"						"开启（Tick 对齐）"
+		"Settings_Mouse_Raw_On_New"						"开启（逻辑帧对齐）"
 
 		"Settings_Mouse_Reverse"						"反转鼠标"
 		"Settings_Mouse_Reverse_Info"					"反转鼠标移动的方向。毁掉一天好心情的绝佳方式。"
@@ -775,10 +775,10 @@
 		"Keybind_Coop_PingTool"							"交流工具"
 		"Keybind_Coop_PingTool_Info"					"打开一个交流菜单，以便向您的合作伙伴传达具体操作或位置信息。"
 		"Keybind_Coop_Taunt"							"动作 / 嘲讽"
-		"Keybind_Coop_Taunt_Info"						"执行动作 / 嘲讽姿势。"
+		"Keybind_Coop_Taunt_Info"						"做一个动作 / 嘲讽"
 		
 		"Settings_Input_Keybinds_Misc"					"杂项"
-		"Keybind_Console"								"开/关开发者控制台"
+		"Keybind_Console"								"切换开发者控制台"
 		"Keybind_Screenshot"							"截屏"
 		"Keybind_Quit"									"退出游戏（直接退出）"
 		"Keybind_Quit_Prompt"							"退出游戏（弹出确认框）"
@@ -822,17 +822,17 @@
 		"Settings_Turret_lights_info" 					"允许炮塔将光照射到它们所观察的方向。"
 		"Settings_Ball_lights" 							"能量球动态光照"
 		"Settings_Ball_lights_info" 					"允许能量球产生光照并投射阴影。"
-		"Settings_Gels_Title"							"凝胶"
+		"Settings_Gels_Title"							""
 		"Settings_Gels_repulsion_color"					"排斥凝胶颜色 (弹跳)"
-		"Settings_Gels_repulsion_color_Info"			"用于替换排斥凝胶（弹跳）的颜色。"
+		"Settings_Gels_repulsion_color_Info"			"更改排斥凝胶的颜色。"
 		"Settings_Gels_propulsion_color"				"推进凝胶颜色 (加速)"
-		"Settings_Gels_propulsion_color_Info"			"用于替换推进凝胶（加速）的颜色。"
-		"Settings_Gels_conversion_color"				"转换凝胶颜色 (传送)"
-		"Settings_Gels_conversion_color_Info"			"用于替换转换凝胶（传送）的颜色。"
-		"Settings_Gels_reflection_color"				"反射凝胶颜色 (反射)"
-		"Settings_Gels_reflection_color_Info"			"用于替换反射凝胶（反射）的颜色。"
-		"Settings_Gels_adhesion_color"					"粘连凝胶颜色 (粘连)"
-		"Settings_Gels_adhesion_color_Info"				"用于替换粘连凝胶（粘连）的颜色。"
+		"Settings_Gels_propulsion_color_Info"			"更改推进凝胶的颜色。"
+		"Settings_Gels_conversion_color"				"转换凝胶颜色 (开门)"
+		"Settings_Gels_conversion_color_Info"			"更改转换凝胶的颜色。"
+		"Settings_Gels_reflection_color"				"反射凝胶颜色 (反光)"
+		"Settings_Gels_reflection_color_Info"			"更改反射凝胶的颜色。"
+		"Settings_Gels_adhesion_color"					"粘连凝胶颜色 (走壁)"
+		"Settings_Gels_adhesion_color_Info"				"更改粘连凝胶的颜色。"
 		
 		// Settings - Miscellaneous
 		"Settings_Misc_Title" 							"杂项"
@@ -846,7 +846,7 @@
 		"Settings_Misc_ViewmodelOffset_Z_info"			"调整持枪模型在X轴（上下）上的偏移量，单位为 Hammer Units（HU）"
 
 		"Settings_Video_PreventThreadSleep"				"阻止主线程休眠"
-		"Settings_Video_PreventThreadSleep_Info"		"在帧率达到最大限制时，阻止主游戏线程进入休眠状态。启用此选项会使游玩体验更加流畅，但会提高 CPU 的使用率。"
+		"Settings_Video_PreventThreadSleep_Info"		"在帧率达到最大限制时，阻止主游戏线程进入休眠状态。启用此选项会使游玩体验更加流畅，但会提高 CPU 占用率。"
 		
 		"Settings_Menu_Console"							"启用开发者控制台"
 		"Settings_Menu_Console_info"					"此设置用于确定开发者控制台的启用状态，开发者控制台允许用户向游戏引擎发送内部命令。\n开发者控制台是面向高级用户（如地图制作者）的强大工具，对于正常游戏并非必需。起源引擎中存在的一些命令具有危险性，如果使用不当，可能导致游戏崩溃、保存进度丢失，或使某些游戏元素无法正常运行。"
@@ -884,7 +884,7 @@
 		"MainMenu_Navigation_Options"					"设置"
 		"MainMenu_Navigation_Options_Tagline"			"调整按键绑定，音效以及兼容性设置"
 		"MainMenu_Navigation_QuitGame"					"退出游戏"
-		"MainMenu_Navigation_QuitGame_Tagline"			"择日再来测试"
+		"MainMenu_Navigation_QuitGame_Tagline"			"改天再来测试"
 		"MainMenu_Navigation_Disconnect"				"退出"
 		"MainMenu_Navigation_Disconnect_Tagline"		"返回主菜单或退出游戏"
 		"MainMenu_Navigation_Disconnect_CM_Tagline"		"退出当前战役 / 地图"
@@ -958,7 +958,7 @@
 		"MainMenu_SaveRestore_SaveType_Manual"						"手动保存"
 		"MainMenu_SaveRestore_SaveType_quick"						"快速保存"
 		"MainMenu_SaveRestore_SaveType_autosave"					"自动保存"
-		"MainMenu_SaveRestore_SaveType_autosavedangerous"			"自动保存（关键）"
+		"MainMenu_SaveRestore_SaveType_autosavedangerous"			"自动保存（关键点）"
 		
 		// Bad SaveRestore
 		"MainMenu_SaveRestore_LoadFailed"							"加载失败"
@@ -1148,11 +1148,11 @@
 		"MainMenu_Campaigns_Setup_Var_mv_bhop"						"“兔子跳”加速漏洞"
 		"MainMenu_Campaigns_Setup_Var_mv_bhop_Description"			"启用“兔子跳”加速漏洞，允许玩家利用移动系统的漏洞来获得额外的动量，和早期版本的起源引擎游戏一样。\n\n默认项：关"
 		"MainMenu_Campaigns_Setup_Var_mv_duckjump"					"允许蹲跳"
-		"MainMenu_Campaigns_Setup_Var_mv_duckjump_Description"		"允许玩家在蹲下/俯身状态下跳跃。某些使用了特定《半衰期 2》移动行为的地图必须启用这一功能。\n\n默认项：关"
+		"MainMenu_Campaigns_Setup_Var_mv_duckjump_Description"		"允许玩家在蹲下时跳跃。某些使用了特定《半衰期 2》移动行为的地图必须启用这一功能。\n\n默认项：关"
 		"MainMenu_Campaigns_Setup_Var_sv_enableholdrotation"				"旋转所持物体"
 		"MainMenu_Campaigns_Setup_Var_sv_enableholdrotation_Description"	"允许玩家按住副开火键来旋转所持有的物体。\n\n默认项：关"
-		"MainMenu_Campaigns_Setup_Var_sv_enablepreferredcarry"				"优先携带角度"
-		"MainMenu_Campaigns_Setup_Var_sv_enablepreferredcarry_Description"	"将持有的物体保持在优先携带角度。\n\n默认项：开"
+		"MainMenu_Campaigns_Setup_Var_sv_enablepreferredcarry"				"固定携带角度"
+		"MainMenu_Campaigns_Setup_Var_sv_enablepreferredcarry_Description"	"将持有的物体保持在固定的携带角度。\n\n默认项：开"
 
 		// ServerSettings
 		"MainMenu_Campaigns_Setup_Var_hostname"						"服务器名称"
